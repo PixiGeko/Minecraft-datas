@@ -1,0 +1,6 @@
+data get block <pos> <path> <scale>
+data get entity <target> <path> <scale>
+data merge block <pos> <nbt>
+data merge entity <target> <nbt>
+data remove block <pos> <path>
+data remove entity <target> <path>
