@@ -10,10 +10,15 @@ This will generate the "basic" files (= rectangles in the diagrams below).
 
 <i>server.jar downloads can be found here : [version_manifest.json](https://launchermeta.mojang.com/mc/game/version_manifest.json)</i>
 
-## Files generation
+# Files generation
+
+## Data files
 
 ### From 18w01a to 18w49a
-![](images/old.png)
+![](images/extractOld.png)
 
 ### Since 18w50a
-![](images/new.png)
+![](images/extractNew.png)
+
+## Version files
+![](images/manifest.png)
