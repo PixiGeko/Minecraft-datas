@@ -1,6 +1,6 @@
 Original idea by Awhikax, from [DataWorld Discord server](https://discord.gg/3gXea6q ).
 
-## How to extract basic files
+# How to extract basic files
 1. Download server.jar of the desired version (from [official site]([https://www.minecraft.net/](https://www.minecraft.net/)) to avoid malware)
 2. Open a bash or command prompt in the directory where server.jar is located
 3. run `java -cp server.jar net.minecraft.data.Main --all` (make sure you have Java installed)
