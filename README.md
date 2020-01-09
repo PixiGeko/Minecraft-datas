@@ -10,33 +10,15 @@ This will generate the "basic" files (= rectangles in the diagrams below).
 
 <i>server.jar downloads can be found here : [version_manifest.json](https://launchermeta.mojang.com/mc/game/version_manifest.json)</i>
 
-## Files generation
+# Files generation
+
+## Data files
 
 ### From 18w01a to 18w49a
-```mermaid
-graph LR
-A((server.jar))
-
-A --> B[blocks.json]
-A --> C[commands.json]
-A --> D[items.json]
-
-B --> E(blocks.txt)
-C --> F(commands.txt)
-C --> G(.txt file for each command)
-D --> H(items.txt)
-```
+![](images/extractOld.png)
 
 ### Since 18w50a
-```mermaid
-graph LR
-A((server.jar))
+![](images/extractNew.png)
 
-A --> B[blocks.json]
-A --> C[commands.json]
-A --> D[registries.json]
-
-D --> E(.txt file <b>for each</b> data type)
-C --> F(commands.txt)
-C --> G(.txt file <b>for each</b> command)
-```
+## Version files
+![](images/manifest.png)
