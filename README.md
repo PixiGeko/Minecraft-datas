@@ -34,37 +34,41 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | biome.txt | Biome IDs | 
 | biome_source_type.txt | Biome types (buffets) | 
 | block.txt | Block IDs | 
-| block_entity_type.txt | Tile entities IDs | 
-| carver.txt |  | 
-| chunk_generator_type.txt |  | 
-| chunk_status.txt |  | 
-| commands.txt | Commands list | 
-| custom_stats.txt | Stats list | 
+| block_entity_type.txt | Block entities IDs | 
+| block_placer_type.txt |  |
+| block_state_provider_type.txt |  |
+| carver.txt | Cave types | 
+| chunk_generator_type.txt | Map generation types | 
+| chunk_status.txt | Chunk generation steps (?) | 
+| commands.txt | Commands | 
+| custom_stats.txt | Stats | 
 | decorator.txt |  | 
 | dimension_type.txt | Dimension IDs | 
 | enchantment.txt | Enchantment IDs | 
 | entity_type.txt | Entity IDs | 
-| feature.txt |  | 
+| feature.txt | Structures list (tree, lakes, ores, "normal" structures) | 
 | fluid.txt | Fluid IDs | 
+| foliage_placer_type.txt | Foliage types |
 | item.txt | Item IDs | 
-| memory_module_type.txt |  | 
+| memory_module_type.txt | PNJ memory informations  | 
 | menu.txt | GUI types | 
 | mob_effect.txt | Mob effect IDs | 
 | motive.txt | Paintings list | 
 | particle_type.txt | Particle IDs | 
-| point_of_interest_type.txt | | 
+| point_of_interest_type.txt | Important places in villages  | 
 | potion.txt | Potion IDs | 
-| recipe_serializer.txt |  | 
+| recipe_serializer.txt | Craft types | 
 | recipe_type.txt | Recipe types | 
 | rule_test.txt |  | 
 | schedule.txt |  | 
-| sensor_type.txt |  | 
+| sensor_type.txt | Villager interactions with environment | 
 | sound_event.txt | Sound IDs | 
 | stat_type.txt | Stat types | 
-| structure_feature.txt | Structures list | 
-| structure_piece.txt |  | 
+| structure_feature.txt | "Normal" structures | 
+| structure_piece.txt | Structure pieces | 
 | structure_pool_element.txt |  | 
 | structure_processor.txt |  | 
-| surface_builder.txt |  | 
+| surface_builder.txt |  |
+| tree_decorator_type | Tree decorations | 
 | villager_profession.txt | Villager professions | 
 | villager_type.txt | Villager types (biomes) | 
