@@ -46,7 +46,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | dimension_type.txt | Dimension IDs | 
 | enchantment.txt | Enchantment IDs | 
 | entity_type.txt | Entity IDs | 
-| feature.txt | Structures list (tree, lakes, ores, "normal" structures) | 
+| feature.txt | Structures list (trees, lakes, ores, "normal" structures) | 
 | fluid.txt | Fluid IDs | 
 | foliage_placer_type.txt | Foliage types |
 | item.txt | Item IDs | 
