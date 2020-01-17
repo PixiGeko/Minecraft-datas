@@ -1,0 +1,23 @@
+1) Properties
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	west -> true, false
+
+2) States
+	id: 3981 -> east: true, north: true, south: true, west: true
+	id: 3982 -> east: true, north: true, south: true, west: false
+	id: 3983 -> east: true, north: true, south: false, west: true
+	id: 3984 -> east: true, north: true, south: false, west: false
+	id: 3985 -> east: true, north: false, south: true, west: true
+	id: 3986 -> east: true, north: false, south: true, west: false
+	id: 3987 -> east: true, north: false, south: false, west: true
+	id: 3988 -> east: true, north: false, south: false, west: false
+	id: 3989 -> east: false, north: true, south: true, west: true
+	id: 3990 -> east: false, north: true, south: true, west: false
+	id: 3991 -> east: false, north: true, south: false, west: true
+	id: 3992 -> east: false, north: true, south: false, west: false
+	id: 3993 -> east: false, north: false, south: true, west: true
+	id: 3994 -> east: false, north: false, south: true, west: false
+	id: 3995 -> east: false, north: false, south: false, west: true
+	id: 3996 -> east: false, north: false, south: false, west: false

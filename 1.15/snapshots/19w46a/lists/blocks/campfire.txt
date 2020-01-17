@@ -1,0 +1,39 @@
+1) Properties
+	facing -> north, south, west, east
+	lit -> true, false
+	signal_fire -> true, false
+	waterlogged -> true, false
+
+2) States
+	id: 11232 -> facing: north, lit: true, signal_fire: true, waterlogged: true
+	id: 11233 -> facing: north, lit: true, signal_fire: true, waterlogged: false
+	id: 11234 -> facing: north, lit: true, signal_fire: false, waterlogged: true
+	id: 11235 -> facing: north, lit: true, signal_fire: false, waterlogged: false
+	id: 11236 -> facing: north, lit: false, signal_fire: true, waterlogged: true
+	id: 11237 -> facing: north, lit: false, signal_fire: true, waterlogged: false
+	id: 11238 -> facing: north, lit: false, signal_fire: false, waterlogged: true
+	id: 11239 -> facing: north, lit: false, signal_fire: false, waterlogged: false
+	id: 11240 -> facing: south, lit: true, signal_fire: true, waterlogged: true
+	id: 11241 -> facing: south, lit: true, signal_fire: true, waterlogged: false
+	id: 11242 -> facing: south, lit: true, signal_fire: false, waterlogged: true
+	id: 11243 -> facing: south, lit: true, signal_fire: false, waterlogged: false
+	id: 11244 -> facing: south, lit: false, signal_fire: true, waterlogged: true
+	id: 11245 -> facing: south, lit: false, signal_fire: true, waterlogged: false
+	id: 11246 -> facing: south, lit: false, signal_fire: false, waterlogged: true
+	id: 11247 -> facing: south, lit: false, signal_fire: false, waterlogged: false
+	id: 11248 -> facing: west, lit: true, signal_fire: true, waterlogged: true
+	id: 11249 -> facing: west, lit: true, signal_fire: true, waterlogged: false
+	id: 11250 -> facing: west, lit: true, signal_fire: false, waterlogged: true
+	id: 11251 -> facing: west, lit: true, signal_fire: false, waterlogged: false
+	id: 11252 -> facing: west, lit: false, signal_fire: true, waterlogged: true
+	id: 11253 -> facing: west, lit: false, signal_fire: true, waterlogged: false
+	id: 11254 -> facing: west, lit: false, signal_fire: false, waterlogged: true
+	id: 11255 -> facing: west, lit: false, signal_fire: false, waterlogged: false
+	id: 11256 -> facing: east, lit: true, signal_fire: true, waterlogged: true
+	id: 11257 -> facing: east, lit: true, signal_fire: true, waterlogged: false
+	id: 11258 -> facing: east, lit: true, signal_fire: false, waterlogged: true
+	id: 11259 -> facing: east, lit: true, signal_fire: false, waterlogged: false
+	id: 11260 -> facing: east, lit: false, signal_fire: true, waterlogged: true
+	id: 11261 -> facing: east, lit: false, signal_fire: true, waterlogged: false
+	id: 11262 -> facing: east, lit: false, signal_fire: false, waterlogged: true
+	id: 11263 -> facing: east, lit: false, signal_fire: false, waterlogged: false

@@ -1,0 +1,17 @@
+1) Properties
+	powered -> true, false
+	shape -> north_south, east_west, ascending_east, ascending_west, ascending_north, ascending_south
+
+2) States
+	id: 5690 -> powered: true, shape: north_south
+	id: 5691 -> powered: true, shape: east_west
+	id: 5692 -> powered: true, shape: ascending_east
+	id: 5693 -> powered: true, shape: ascending_west
+	id: 5694 -> powered: true, shape: ascending_north
+	id: 5695 -> powered: true, shape: ascending_south
+	id: 5696 -> powered: false, shape: north_south
+	id: 5697 -> powered: false, shape: east_west
+	id: 5698 -> powered: false, shape: ascending_east
+	id: 5699 -> powered: false, shape: ascending_west
+	id: 5700 -> powered: false, shape: ascending_north
+	id: 5701 -> powered: false, shape: ascending_south

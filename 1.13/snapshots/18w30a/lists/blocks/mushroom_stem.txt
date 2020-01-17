@@ -1,0 +1,73 @@
+1) Properties
+	down -> true, false
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	up -> true, false
+	west -> true, false
+
+2) States
+	id: 4116 -> down: true, east: true, north: true, south: true, up: true, west: true
+	id: 4117 -> down: true, east: true, north: true, south: true, up: true, west: false
+	id: 4118 -> down: true, east: true, north: true, south: true, up: false, west: true
+	id: 4119 -> down: true, east: true, north: true, south: true, up: false, west: false
+	id: 4120 -> down: true, east: true, north: true, south: false, up: true, west: true
+	id: 4121 -> down: true, east: true, north: true, south: false, up: true, west: false
+	id: 4122 -> down: true, east: true, north: true, south: false, up: false, west: true
+	id: 4123 -> down: true, east: true, north: true, south: false, up: false, west: false
+	id: 4124 -> down: true, east: true, north: false, south: true, up: true, west: true
+	id: 4125 -> down: true, east: true, north: false, south: true, up: true, west: false
+	id: 4126 -> down: true, east: true, north: false, south: true, up: false, west: true
+	id: 4127 -> down: true, east: true, north: false, south: true, up: false, west: false
+	id: 4128 -> down: true, east: true, north: false, south: false, up: true, west: true
+	id: 4129 -> down: true, east: true, north: false, south: false, up: true, west: false
+	id: 4130 -> down: true, east: true, north: false, south: false, up: false, west: true
+	id: 4131 -> down: true, east: true, north: false, south: false, up: false, west: false
+	id: 4132 -> down: true, east: false, north: true, south: true, up: true, west: true
+	id: 4133 -> down: true, east: false, north: true, south: true, up: true, west: false
+	id: 4134 -> down: true, east: false, north: true, south: true, up: false, west: true
+	id: 4135 -> down: true, east: false, north: true, south: true, up: false, west: false
+	id: 4136 -> down: true, east: false, north: true, south: false, up: true, west: true
+	id: 4137 -> down: true, east: false, north: true, south: false, up: true, west: false
+	id: 4138 -> down: true, east: false, north: true, south: false, up: false, west: true
+	id: 4139 -> down: true, east: false, north: true, south: false, up: false, west: false
+	id: 4140 -> down: true, east: false, north: false, south: true, up: true, west: true
+	id: 4141 -> down: true, east: false, north: false, south: true, up: true, west: false
+	id: 4142 -> down: true, east: false, north: false, south: true, up: false, west: true
+	id: 4143 -> down: true, east: false, north: false, south: true, up: false, west: false
+	id: 4144 -> down: true, east: false, north: false, south: false, up: true, west: true
+	id: 4145 -> down: true, east: false, north: false, south: false, up: true, west: false
+	id: 4146 -> down: true, east: false, north: false, south: false, up: false, west: true
+	id: 4147 -> down: true, east: false, north: false, south: false, up: false, west: false
+	id: 4148 -> down: false, east: true, north: true, south: true, up: true, west: true
+	id: 4149 -> down: false, east: true, north: true, south: true, up: true, west: false
+	id: 4150 -> down: false, east: true, north: true, south: true, up: false, west: true
+	id: 4151 -> down: false, east: true, north: true, south: true, up: false, west: false
+	id: 4152 -> down: false, east: true, north: true, south: false, up: true, west: true
+	id: 4153 -> down: false, east: true, north: true, south: false, up: true, west: false
+	id: 4154 -> down: false, east: true, north: true, south: false, up: false, west: true
+	id: 4155 -> down: false, east: true, north: true, south: false, up: false, west: false
+	id: 4156 -> down: false, east: true, north: false, south: true, up: true, west: true
+	id: 4157 -> down: false, east: true, north: false, south: true, up: true, west: false
+	id: 4158 -> down: false, east: true, north: false, south: true, up: false, west: true
+	id: 4159 -> down: false, east: true, north: false, south: true, up: false, west: false
+	id: 4160 -> down: false, east: true, north: false, south: false, up: true, west: true
+	id: 4161 -> down: false, east: true, north: false, south: false, up: true, west: false
+	id: 4162 -> down: false, east: true, north: false, south: false, up: false, west: true
+	id: 4163 -> down: false, east: true, north: false, south: false, up: false, west: false
+	id: 4164 -> down: false, east: false, north: true, south: true, up: true, west: true
+	id: 4165 -> down: false, east: false, north: true, south: true, up: true, west: false
+	id: 4166 -> down: false, east: false, north: true, south: true, up: false, west: true
+	id: 4167 -> down: false, east: false, north: true, south: true, up: false, west: false
+	id: 4168 -> down: false, east: false, north: true, south: false, up: true, west: true
+	id: 4169 -> down: false, east: false, north: true, south: false, up: true, west: false
+	id: 4170 -> down: false, east: false, north: true, south: false, up: false, west: true
+	id: 4171 -> down: false, east: false, north: true, south: false, up: false, west: false
+	id: 4172 -> down: false, east: false, north: false, south: true, up: true, west: true
+	id: 4173 -> down: false, east: false, north: false, south: true, up: true, west: false
+	id: 4174 -> down: false, east: false, north: false, south: true, up: false, west: true
+	id: 4175 -> down: false, east: false, north: false, south: true, up: false, west: false
+	id: 4176 -> down: false, east: false, north: false, south: false, up: true, west: true
+	id: 4177 -> down: false, east: false, north: false, south: false, up: true, west: false
+	id: 4178 -> down: false, east: false, north: false, south: false, up: false, west: true
+	id: 4179 -> down: false, east: false, north: false, south: false, up: false, west: false

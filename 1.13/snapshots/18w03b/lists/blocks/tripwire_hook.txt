@@ -1,0 +1,22 @@
+1) Properties
+	attached -> true, false
+	facing -> north, east, south, west
+	powered -> true, false
+
+2) States
+	id: 4124 -> attached: true, facing: north, powered: true
+	id: 4125 -> attached: true, facing: north, powered: false
+	id: 4126 -> attached: true, facing: east, powered: true
+	id: 4127 -> attached: true, facing: east, powered: false
+	id: 4128 -> attached: true, facing: south, powered: true
+	id: 4129 -> attached: true, facing: south, powered: false
+	id: 4130 -> attached: true, facing: west, powered: true
+	id: 4131 -> attached: true, facing: west, powered: false
+	id: 4132 -> attached: false, facing: north, powered: true
+	id: 4133 -> attached: false, facing: north, powered: false
+	id: 4134 -> attached: false, facing: east, powered: true
+	id: 4135 -> attached: false, facing: east, powered: false
+	id: 4136 -> attached: false, facing: south, powered: true
+	id: 4137 -> attached: false, facing: south, powered: false
+	id: 4138 -> attached: false, facing: west, powered: true
+	id: 4139 -> attached: false, facing: west, powered: false

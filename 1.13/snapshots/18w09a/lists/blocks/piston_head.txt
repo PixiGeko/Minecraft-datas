@@ -1,0 +1,30 @@
+1) Properties
+	facing -> north, east, south, west, up, down
+	short -> true, false
+	type -> normal, sticky
+
+2) States
+	id: 1001 -> facing: north, short: true, type: normal
+	id: 1002 -> facing: north, short: true, type: sticky
+	id: 1003 -> facing: north, short: false, type: normal
+	id: 1004 -> facing: north, short: false, type: sticky
+	id: 1005 -> facing: east, short: true, type: normal
+	id: 1006 -> facing: east, short: true, type: sticky
+	id: 1007 -> facing: east, short: false, type: normal
+	id: 1008 -> facing: east, short: false, type: sticky
+	id: 1009 -> facing: south, short: true, type: normal
+	id: 1010 -> facing: south, short: true, type: sticky
+	id: 1011 -> facing: south, short: false, type: normal
+	id: 1012 -> facing: south, short: false, type: sticky
+	id: 1013 -> facing: west, short: true, type: normal
+	id: 1014 -> facing: west, short: true, type: sticky
+	id: 1015 -> facing: west, short: false, type: normal
+	id: 1016 -> facing: west, short: false, type: sticky
+	id: 1017 -> facing: up, short: true, type: normal
+	id: 1018 -> facing: up, short: true, type: sticky
+	id: 1019 -> facing: up, short: false, type: normal
+	id: 1020 -> facing: up, short: false, type: sticky
+	id: 1021 -> facing: down, short: true, type: normal
+	id: 1022 -> facing: down, short: true, type: sticky
+	id: 1023 -> facing: down, short: false, type: normal
+	id: 1024 -> facing: down, short: false, type: sticky

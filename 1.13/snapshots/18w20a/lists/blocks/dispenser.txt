@@ -1,0 +1,17 @@
+1) Properties
+	facing -> north, east, south, west, up, down
+	triggered -> true, false
+
+2) States
+	id: 143 -> facing: north, triggered: true
+	id: 144 -> facing: north, triggered: false
+	id: 145 -> facing: east, triggered: true
+	id: 146 -> facing: east, triggered: false
+	id: 147 -> facing: south, triggered: true
+	id: 148 -> facing: south, triggered: false
+	id: 149 -> facing: west, triggered: true
+	id: 150 -> facing: west, triggered: false
+	id: 151 -> facing: up, triggered: true
+	id: 152 -> facing: up, triggered: false
+	id: 153 -> facing: down, triggered: true
+	id: 154 -> facing: down, triggered: false

@@ -1,0 +1,30 @@
+1) Properties
+	facing -> north, east, south, west
+	type -> single, left, right
+	waterlogged -> true, false
+
+2) States
+	id: 5489 -> facing: north, type: single, waterlogged: true
+	id: 5490 -> facing: north, type: single, waterlogged: false
+	id: 5491 -> facing: north, type: left, waterlogged: true
+	id: 5492 -> facing: north, type: left, waterlogged: false
+	id: 5493 -> facing: north, type: right, waterlogged: true
+	id: 5494 -> facing: north, type: right, waterlogged: false
+	id: 5495 -> facing: east, type: single, waterlogged: true
+	id: 5496 -> facing: east, type: single, waterlogged: false
+	id: 5497 -> facing: east, type: left, waterlogged: true
+	id: 5498 -> facing: east, type: left, waterlogged: false
+	id: 5499 -> facing: east, type: right, waterlogged: true
+	id: 5500 -> facing: east, type: right, waterlogged: false
+	id: 5501 -> facing: south, type: single, waterlogged: true
+	id: 5502 -> facing: south, type: single, waterlogged: false
+	id: 5503 -> facing: south, type: left, waterlogged: true
+	id: 5504 -> facing: south, type: left, waterlogged: false
+	id: 5505 -> facing: south, type: right, waterlogged: true
+	id: 5506 -> facing: south, type: right, waterlogged: false
+	id: 5507 -> facing: west, type: single, waterlogged: true
+	id: 5508 -> facing: west, type: single, waterlogged: false
+	id: 5509 -> facing: west, type: left, waterlogged: true
+	id: 5510 -> facing: west, type: left, waterlogged: false
+	id: 5511 -> facing: west, type: right, waterlogged: true
+	id: 5512 -> facing: west, type: right, waterlogged: false

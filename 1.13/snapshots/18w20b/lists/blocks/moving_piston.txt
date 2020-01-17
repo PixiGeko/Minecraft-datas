@@ -1,0 +1,17 @@
+1) Properties
+	facing -> north, east, south, west, up, down
+	type -> normal, sticky
+
+2) States
+	id: 1009 -> facing: north, type: normal
+	id: 1010 -> facing: north, type: sticky
+	id: 1011 -> facing: east, type: normal
+	id: 1012 -> facing: east, type: sticky
+	id: 1013 -> facing: south, type: normal
+	id: 1014 -> facing: south, type: sticky
+	id: 1015 -> facing: west, type: normal
+	id: 1016 -> facing: west, type: sticky
+	id: 1017 -> facing: up, type: normal
+	id: 1018 -> facing: up, type: sticky
+	id: 1019 -> facing: down, type: normal
+	id: 1020 -> facing: down, type: sticky

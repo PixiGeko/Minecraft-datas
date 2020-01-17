@@ -1,0 +1,13 @@
+1) Properties
+	facing -> north, south, west, east
+	waterlogged -> true, false
+
+2) States
+	id: 8504 -> facing: north, waterlogged: true
+	id: 8505 -> facing: north, waterlogged: false
+	id: 8506 -> facing: south, waterlogged: true
+	id: 8507 -> facing: south, waterlogged: false
+	id: 8508 -> facing: west, waterlogged: true
+	id: 8509 -> facing: west, waterlogged: false
+	id: 8510 -> facing: east, waterlogged: true
+	id: 8511 -> facing: east, waterlogged: false

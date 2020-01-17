@@ -1,0 +1,22 @@
+1) Properties
+	facing -> north, south, west, east
+	mode -> compare, subtract
+	powered -> true, false
+
+2) States
+	id: 6142 -> facing: north, mode: compare, powered: true
+	id: 6143 -> facing: north, mode: compare, powered: false
+	id: 6144 -> facing: north, mode: subtract, powered: true
+	id: 6145 -> facing: north, mode: subtract, powered: false
+	id: 6146 -> facing: south, mode: compare, powered: true
+	id: 6147 -> facing: south, mode: compare, powered: false
+	id: 6148 -> facing: south, mode: subtract, powered: true
+	id: 6149 -> facing: south, mode: subtract, powered: false
+	id: 6150 -> facing: west, mode: compare, powered: true
+	id: 6151 -> facing: west, mode: compare, powered: false
+	id: 6152 -> facing: west, mode: subtract, powered: true
+	id: 6153 -> facing: west, mode: subtract, powered: false
+	id: 6154 -> facing: east, mode: compare, powered: true
+	id: 6155 -> facing: east, mode: compare, powered: false
+	id: 6156 -> facing: east, mode: subtract, powered: true
+	id: 6157 -> facing: east, mode: subtract, powered: false

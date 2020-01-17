@@ -1,0 +1,71 @@
+1) Properties
+	delay -> 1, 2, 3, 4
+	facing -> north, east, south, west
+	locked -> true, false
+	powered -> true, false
+
+2) States
+	id: 3423 -> delay: 1, facing: north, locked: true, powered: true
+	id: 3424 -> delay: 1, facing: north, locked: true, powered: false
+	id: 3425 -> delay: 1, facing: north, locked: false, powered: true
+	id: 3426 -> delay: 1, facing: north, locked: false, powered: false
+	id: 3427 -> delay: 1, facing: east, locked: true, powered: true
+	id: 3428 -> delay: 1, facing: east, locked: true, powered: false
+	id: 3429 -> delay: 1, facing: east, locked: false, powered: true
+	id: 3430 -> delay: 1, facing: east, locked: false, powered: false
+	id: 3431 -> delay: 1, facing: south, locked: true, powered: true
+	id: 3432 -> delay: 1, facing: south, locked: true, powered: false
+	id: 3433 -> delay: 1, facing: south, locked: false, powered: true
+	id: 3434 -> delay: 1, facing: south, locked: false, powered: false
+	id: 3435 -> delay: 1, facing: west, locked: true, powered: true
+	id: 3436 -> delay: 1, facing: west, locked: true, powered: false
+	id: 3437 -> delay: 1, facing: west, locked: false, powered: true
+	id: 3438 -> delay: 1, facing: west, locked: false, powered: false
+	id: 3439 -> delay: 2, facing: north, locked: true, powered: true
+	id: 3440 -> delay: 2, facing: north, locked: true, powered: false
+	id: 3441 -> delay: 2, facing: north, locked: false, powered: true
+	id: 3442 -> delay: 2, facing: north, locked: false, powered: false
+	id: 3443 -> delay: 2, facing: east, locked: true, powered: true
+	id: 3444 -> delay: 2, facing: east, locked: true, powered: false
+	id: 3445 -> delay: 2, facing: east, locked: false, powered: true
+	id: 3446 -> delay: 2, facing: east, locked: false, powered: false
+	id: 3447 -> delay: 2, facing: south, locked: true, powered: true
+	id: 3448 -> delay: 2, facing: south, locked: true, powered: false
+	id: 3449 -> delay: 2, facing: south, locked: false, powered: true
+	id: 3450 -> delay: 2, facing: south, locked: false, powered: false
+	id: 3451 -> delay: 2, facing: west, locked: true, powered: true
+	id: 3452 -> delay: 2, facing: west, locked: true, powered: false
+	id: 3453 -> delay: 2, facing: west, locked: false, powered: true
+	id: 3454 -> delay: 2, facing: west, locked: false, powered: false
+	id: 3455 -> delay: 3, facing: north, locked: true, powered: true
+	id: 3456 -> delay: 3, facing: north, locked: true, powered: false
+	id: 3457 -> delay: 3, facing: north, locked: false, powered: true
+	id: 3458 -> delay: 3, facing: north, locked: false, powered: false
+	id: 3459 -> delay: 3, facing: east, locked: true, powered: true
+	id: 3460 -> delay: 3, facing: east, locked: true, powered: false
+	id: 3461 -> delay: 3, facing: east, locked: false, powered: true
+	id: 3462 -> delay: 3, facing: east, locked: false, powered: false
+	id: 3463 -> delay: 3, facing: south, locked: true, powered: true
+	id: 3464 -> delay: 3, facing: south, locked: true, powered: false
+	id: 3465 -> delay: 3, facing: south, locked: false, powered: true
+	id: 3466 -> delay: 3, facing: south, locked: false, powered: false
+	id: 3467 -> delay: 3, facing: west, locked: true, powered: true
+	id: 3468 -> delay: 3, facing: west, locked: true, powered: false
+	id: 3469 -> delay: 3, facing: west, locked: false, powered: true
+	id: 3470 -> delay: 3, facing: west, locked: false, powered: false
+	id: 3471 -> delay: 4, facing: north, locked: true, powered: true
+	id: 3472 -> delay: 4, facing: north, locked: true, powered: false
+	id: 3473 -> delay: 4, facing: north, locked: false, powered: true
+	id: 3474 -> delay: 4, facing: north, locked: false, powered: false
+	id: 3475 -> delay: 4, facing: east, locked: true, powered: true
+	id: 3476 -> delay: 4, facing: east, locked: true, powered: false
+	id: 3477 -> delay: 4, facing: east, locked: false, powered: true
+	id: 3478 -> delay: 4, facing: east, locked: false, powered: false
+	id: 3479 -> delay: 4, facing: south, locked: true, powered: true
+	id: 3480 -> delay: 4, facing: south, locked: true, powered: false
+	id: 3481 -> delay: 4, facing: south, locked: false, powered: true
+	id: 3482 -> delay: 4, facing: south, locked: false, powered: false
+	id: 3483 -> delay: 4, facing: west, locked: true, powered: true
+	id: 3484 -> delay: 4, facing: west, locked: true, powered: false
+	id: 3485 -> delay: 4, facing: west, locked: false, powered: true
+	id: 3486 -> delay: 4, facing: west, locked: false, powered: false

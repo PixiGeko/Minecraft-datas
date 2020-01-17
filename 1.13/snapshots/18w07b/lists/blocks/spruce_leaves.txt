@@ -1,0 +1,9 @@
+1) Properties
+	check_decay -> true, false
+	decayable -> true, false
+
+2) States
+	id: 150 -> check_decay: true, decayable: true
+	id: 151 -> check_decay: true, decayable: false
+	id: 152 -> check_decay: false, decayable: true
+	id: 153 -> check_decay: false, decayable: false

@@ -1,0 +1,39 @@
+1) Properties
+	facing -> north, east, south, west
+	half -> top, bottom
+	open -> true, false
+	powered -> true, false
+
+2) States
+	id: 3446 -> facing: north, half: top, open: true, powered: true
+	id: 3447 -> facing: north, half: top, open: true, powered: false
+	id: 3448 -> facing: north, half: top, open: false, powered: true
+	id: 3449 -> facing: north, half: top, open: false, powered: false
+	id: 3450 -> facing: north, half: bottom, open: true, powered: true
+	id: 3451 -> facing: north, half: bottom, open: true, powered: false
+	id: 3452 -> facing: north, half: bottom, open: false, powered: true
+	id: 3453 -> facing: north, half: bottom, open: false, powered: false
+	id: 3454 -> facing: east, half: top, open: true, powered: true
+	id: 3455 -> facing: east, half: top, open: true, powered: false
+	id: 3456 -> facing: east, half: top, open: false, powered: true
+	id: 3457 -> facing: east, half: top, open: false, powered: false
+	id: 3458 -> facing: east, half: bottom, open: true, powered: true
+	id: 3459 -> facing: east, half: bottom, open: true, powered: false
+	id: 3460 -> facing: east, half: bottom, open: false, powered: true
+	id: 3461 -> facing: east, half: bottom, open: false, powered: false
+	id: 3462 -> facing: south, half: top, open: true, powered: true
+	id: 3463 -> facing: south, half: top, open: true, powered: false
+	id: 3464 -> facing: south, half: top, open: false, powered: true
+	id: 3465 -> facing: south, half: top, open: false, powered: false
+	id: 3466 -> facing: south, half: bottom, open: true, powered: true
+	id: 3467 -> facing: south, half: bottom, open: true, powered: false
+	id: 3468 -> facing: south, half: bottom, open: false, powered: true
+	id: 3469 -> facing: south, half: bottom, open: false, powered: false
+	id: 3470 -> facing: west, half: top, open: true, powered: true
+	id: 3471 -> facing: west, half: top, open: true, powered: false
+	id: 3472 -> facing: west, half: top, open: false, powered: true
+	id: 3473 -> facing: west, half: top, open: false, powered: false
+	id: 3474 -> facing: west, half: bottom, open: true, powered: true
+	id: 3475 -> facing: west, half: bottom, open: true, powered: false
+	id: 3476 -> facing: west, half: bottom, open: false, powered: true
+	id: 3477 -> facing: west, half: bottom, open: false, powered: false

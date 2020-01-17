@@ -1,0 +1,17 @@
+1) Properties
+	conditional -> true, false
+	facing -> north, east, south, west, up, down
+
+2) States
+	id: 5106 -> conditional: true, facing: north
+	id: 5107 -> conditional: true, facing: east
+	id: 5108 -> conditional: true, facing: south
+	id: 5109 -> conditional: true, facing: west
+	id: 5110 -> conditional: true, facing: up
+	id: 5111 -> conditional: true, facing: down
+	id: 5112 -> conditional: false, facing: north
+	id: 5113 -> conditional: false, facing: east
+	id: 5114 -> conditional: false, facing: south
+	id: 5115 -> conditional: false, facing: west
+	id: 5116 -> conditional: false, facing: up
+	id: 5117 -> conditional: false, facing: down

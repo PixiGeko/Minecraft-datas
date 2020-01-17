@@ -1,0 +1,40 @@
+1) Properties
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	waterlogged -> true, false
+	west -> true, false
+
+2) States
+	id: 3873 -> east: true, north: true, south: true, waterlogged: true, west: true
+	id: 3874 -> east: true, north: true, south: true, waterlogged: true, west: false
+	id: 3875 -> east: true, north: true, south: true, waterlogged: false, west: true
+	id: 3876 -> east: true, north: true, south: true, waterlogged: false, west: false
+	id: 3877 -> east: true, north: true, south: false, waterlogged: true, west: true
+	id: 3878 -> east: true, north: true, south: false, waterlogged: true, west: false
+	id: 3879 -> east: true, north: true, south: false, waterlogged: false, west: true
+	id: 3880 -> east: true, north: true, south: false, waterlogged: false, west: false
+	id: 3881 -> east: true, north: false, south: true, waterlogged: true, west: true
+	id: 3882 -> east: true, north: false, south: true, waterlogged: true, west: false
+	id: 3883 -> east: true, north: false, south: true, waterlogged: false, west: true
+	id: 3884 -> east: true, north: false, south: true, waterlogged: false, west: false
+	id: 3885 -> east: true, north: false, south: false, waterlogged: true, west: true
+	id: 3886 -> east: true, north: false, south: false, waterlogged: true, west: false
+	id: 3887 -> east: true, north: false, south: false, waterlogged: false, west: true
+	id: 3888 -> east: true, north: false, south: false, waterlogged: false, west: false
+	id: 3889 -> east: false, north: true, south: true, waterlogged: true, west: true
+	id: 3890 -> east: false, north: true, south: true, waterlogged: true, west: false
+	id: 3891 -> east: false, north: true, south: true, waterlogged: false, west: true
+	id: 3892 -> east: false, north: true, south: true, waterlogged: false, west: false
+	id: 3893 -> east: false, north: true, south: false, waterlogged: true, west: true
+	id: 3894 -> east: false, north: true, south: false, waterlogged: true, west: false
+	id: 3895 -> east: false, north: true, south: false, waterlogged: false, west: true
+	id: 3896 -> east: false, north: true, south: false, waterlogged: false, west: false
+	id: 3897 -> east: false, north: false, south: true, waterlogged: true, west: true
+	id: 3898 -> east: false, north: false, south: true, waterlogged: true, west: false
+	id: 3899 -> east: false, north: false, south: true, waterlogged: false, west: true
+	id: 3900 -> east: false, north: false, south: true, waterlogged: false, west: false
+	id: 3901 -> east: false, north: false, south: false, waterlogged: true, west: true
+	id: 3902 -> east: false, north: false, south: false, waterlogged: true, west: false
+	id: 3903 -> east: false, north: false, south: false, waterlogged: false, west: true
+	id: 3904 -> east: false, north: false, south: false, waterlogged: false, west: false

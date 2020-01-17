@@ -1,0 +1,17 @@
+1) Properties
+	facing -> north, east, south, west
+	type -> single, left, right
+
+2) States
+	id: 4801 -> facing: north, type: single
+	id: 4802 -> facing: north, type: left
+	id: 4803 -> facing: north, type: right
+	id: 4804 -> facing: east, type: single
+	id: 4805 -> facing: east, type: left
+	id: 4806 -> facing: east, type: right
+	id: 4807 -> facing: south, type: single
+	id: 4808 -> facing: south, type: left
+	id: 4809 -> facing: south, type: right
+	id: 4810 -> facing: west, type: single
+	id: 4811 -> facing: west, type: left
+	id: 4812 -> facing: west, type: right

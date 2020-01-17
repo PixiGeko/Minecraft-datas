@@ -1,0 +1,17 @@
+1) Properties
+	facing -> north, east, south, west, up, down
+	powered -> true, false
+
+2) States
+	id: 6514 -> facing: north, powered: true
+	id: 6515 -> facing: north, powered: false
+	id: 6516 -> facing: east, powered: true
+	id: 6517 -> facing: east, powered: false
+	id: 6518 -> facing: south, powered: true
+	id: 6519 -> facing: south, powered: false
+	id: 6520 -> facing: west, powered: true
+	id: 6521 -> facing: west, powered: false
+	id: 6522 -> facing: up, powered: true
+	id: 6523 -> facing: up, powered: false
+	id: 6524 -> facing: down, powered: true
+	id: 6525 -> facing: down, powered: false

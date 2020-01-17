@@ -1,0 +1,40 @@
+1) Properties
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	up -> true, false
+	west -> true, false
+
+2) States
+	id: 3854 -> east: true, north: true, south: true, up: true, west: true
+	id: 3855 -> east: true, north: true, south: true, up: true, west: false
+	id: 3856 -> east: true, north: true, south: true, up: false, west: true
+	id: 3857 -> east: true, north: true, south: true, up: false, west: false
+	id: 3858 -> east: true, north: true, south: false, up: true, west: true
+	id: 3859 -> east: true, north: true, south: false, up: true, west: false
+	id: 3860 -> east: true, north: true, south: false, up: false, west: true
+	id: 3861 -> east: true, north: true, south: false, up: false, west: false
+	id: 3862 -> east: true, north: false, south: true, up: true, west: true
+	id: 3863 -> east: true, north: false, south: true, up: true, west: false
+	id: 3864 -> east: true, north: false, south: true, up: false, west: true
+	id: 3865 -> east: true, north: false, south: true, up: false, west: false
+	id: 3866 -> east: true, north: false, south: false, up: true, west: true
+	id: 3867 -> east: true, north: false, south: false, up: true, west: false
+	id: 3868 -> east: true, north: false, south: false, up: false, west: true
+	id: 3869 -> east: true, north: false, south: false, up: false, west: false
+	id: 3870 -> east: false, north: true, south: true, up: true, west: true
+	id: 3871 -> east: false, north: true, south: true, up: true, west: false
+	id: 3872 -> east: false, north: true, south: true, up: false, west: true
+	id: 3873 -> east: false, north: true, south: true, up: false, west: false
+	id: 3874 -> east: false, north: true, south: false, up: true, west: true
+	id: 3875 -> east: false, north: true, south: false, up: true, west: false
+	id: 3876 -> east: false, north: true, south: false, up: false, west: true
+	id: 3877 -> east: false, north: true, south: false, up: false, west: false
+	id: 3878 -> east: false, north: false, south: true, up: true, west: true
+	id: 3879 -> east: false, north: false, south: true, up: true, west: false
+	id: 3880 -> east: false, north: false, south: true, up: false, west: true
+	id: 3881 -> east: false, north: false, south: true, up: false, west: false
+	id: 3882 -> east: false, north: false, south: false, up: true, west: true
+	id: 3883 -> east: false, north: false, south: false, up: true, west: false
+	id: 3884 -> east: false, north: false, south: false, up: false, west: true
+	id: 3885 -> east: false, north: false, south: false, up: false, west: false

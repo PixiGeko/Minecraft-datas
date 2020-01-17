@@ -1,0 +1,72 @@
+1) Properties
+	facing -> north, east, south, west
+	half -> upper, lower
+	hinge -> left, right
+	open -> true, false
+	powered -> true, false
+
+2) States
+	id: 3017 -> facing: north, half: upper, hinge: left, open: true, powered: true
+	id: 3018 -> facing: north, half: upper, hinge: left, open: true, powered: false
+	id: 3019 -> facing: north, half: upper, hinge: left, open: false, powered: true
+	id: 3020 -> facing: north, half: upper, hinge: left, open: false, powered: false
+	id: 3021 -> facing: north, half: upper, hinge: right, open: true, powered: true
+	id: 3022 -> facing: north, half: upper, hinge: right, open: true, powered: false
+	id: 3023 -> facing: north, half: upper, hinge: right, open: false, powered: true
+	id: 3024 -> facing: north, half: upper, hinge: right, open: false, powered: false
+	id: 3025 -> facing: north, half: lower, hinge: left, open: true, powered: true
+	id: 3026 -> facing: north, half: lower, hinge: left, open: true, powered: false
+	id: 3027 -> facing: north, half: lower, hinge: left, open: false, powered: true
+	id: 3028 -> facing: north, half: lower, hinge: left, open: false, powered: false
+	id: 3029 -> facing: north, half: lower, hinge: right, open: true, powered: true
+	id: 3030 -> facing: north, half: lower, hinge: right, open: true, powered: false
+	id: 3031 -> facing: north, half: lower, hinge: right, open: false, powered: true
+	id: 3032 -> facing: north, half: lower, hinge: right, open: false, powered: false
+	id: 3033 -> facing: east, half: upper, hinge: left, open: true, powered: true
+	id: 3034 -> facing: east, half: upper, hinge: left, open: true, powered: false
+	id: 3035 -> facing: east, half: upper, hinge: left, open: false, powered: true
+	id: 3036 -> facing: east, half: upper, hinge: left, open: false, powered: false
+	id: 3037 -> facing: east, half: upper, hinge: right, open: true, powered: true
+	id: 3038 -> facing: east, half: upper, hinge: right, open: true, powered: false
+	id: 3039 -> facing: east, half: upper, hinge: right, open: false, powered: true
+	id: 3040 -> facing: east, half: upper, hinge: right, open: false, powered: false
+	id: 3041 -> facing: east, half: lower, hinge: left, open: true, powered: true
+	id: 3042 -> facing: east, half: lower, hinge: left, open: true, powered: false
+	id: 3043 -> facing: east, half: lower, hinge: left, open: false, powered: true
+	id: 3044 -> facing: east, half: lower, hinge: left, open: false, powered: false
+	id: 3045 -> facing: east, half: lower, hinge: right, open: true, powered: true
+	id: 3046 -> facing: east, half: lower, hinge: right, open: true, powered: false
+	id: 3047 -> facing: east, half: lower, hinge: right, open: false, powered: true
+	id: 3048 -> facing: east, half: lower, hinge: right, open: false, powered: false
+	id: 3049 -> facing: south, half: upper, hinge: left, open: true, powered: true
+	id: 3050 -> facing: south, half: upper, hinge: left, open: true, powered: false
+	id: 3051 -> facing: south, half: upper, hinge: left, open: false, powered: true
+	id: 3052 -> facing: south, half: upper, hinge: left, open: false, powered: false
+	id: 3053 -> facing: south, half: upper, hinge: right, open: true, powered: true
+	id: 3054 -> facing: south, half: upper, hinge: right, open: true, powered: false
+	id: 3055 -> facing: south, half: upper, hinge: right, open: false, powered: true
+	id: 3056 -> facing: south, half: upper, hinge: right, open: false, powered: false
+	id: 3057 -> facing: south, half: lower, hinge: left, open: true, powered: true
+	id: 3058 -> facing: south, half: lower, hinge: left, open: true, powered: false
+	id: 3059 -> facing: south, half: lower, hinge: left, open: false, powered: true
+	id: 3060 -> facing: south, half: lower, hinge: left, open: false, powered: false
+	id: 3061 -> facing: south, half: lower, hinge: right, open: true, powered: true
+	id: 3062 -> facing: south, half: lower, hinge: right, open: true, powered: false
+	id: 3063 -> facing: south, half: lower, hinge: right, open: false, powered: true
+	id: 3064 -> facing: south, half: lower, hinge: right, open: false, powered: false
+	id: 3065 -> facing: west, half: upper, hinge: left, open: true, powered: true
+	id: 3066 -> facing: west, half: upper, hinge: left, open: true, powered: false
+	id: 3067 -> facing: west, half: upper, hinge: left, open: false, powered: true
+	id: 3068 -> facing: west, half: upper, hinge: left, open: false, powered: false
+	id: 3069 -> facing: west, half: upper, hinge: right, open: true, powered: true
+	id: 3070 -> facing: west, half: upper, hinge: right, open: true, powered: false
+	id: 3071 -> facing: west, half: upper, hinge: right, open: false, powered: true
+	id: 3072 -> facing: west, half: upper, hinge: right, open: false, powered: false
+	id: 3073 -> facing: west, half: lower, hinge: left, open: true, powered: true
+	id: 3074 -> facing: west, half: lower, hinge: left, open: true, powered: false
+	id: 3075 -> facing: west, half: lower, hinge: left, open: false, powered: true
+	id: 3076 -> facing: west, half: lower, hinge: left, open: false, powered: false
+	id: 3077 -> facing: west, half: lower, hinge: right, open: true, powered: true
+	id: 3078 -> facing: west, half: lower, hinge: right, open: true, powered: false
+	id: 3079 -> facing: west, half: lower, hinge: right, open: false, powered: true
+	id: 3080 -> facing: west, half: lower, hinge: right, open: false, powered: false

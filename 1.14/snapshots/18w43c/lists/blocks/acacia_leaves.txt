@@ -1,0 +1,19 @@
+1) Properties
+	distance -> 1, 2, 3, 4, 5, 6, 7
+	persistent -> true, false
+
+2) States
+	id: 200 -> distance: 1, persistent: true
+	id: 201 -> distance: 1, persistent: false
+	id: 202 -> distance: 2, persistent: true
+	id: 203 -> distance: 2, persistent: false
+	id: 204 -> distance: 3, persistent: true
+	id: 205 -> distance: 3, persistent: false
+	id: 206 -> distance: 4, persistent: true
+	id: 207 -> distance: 4, persistent: false
+	id: 208 -> distance: 5, persistent: true
+	id: 209 -> distance: 5, persistent: false
+	id: 210 -> distance: 6, persistent: true
+	id: 211 -> distance: 6, persistent: false
+	id: 212 -> distance: 7, persistent: true
+	id: 213 -> distance: 7, persistent: false

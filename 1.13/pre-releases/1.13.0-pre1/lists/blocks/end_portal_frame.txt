@@ -1,0 +1,13 @@
+1) Properties
+	eye -> true, false
+	facing -> north, east, south, west
+
+2) States
+	id: 4608 -> eye: true, facing: north
+	id: 4609 -> eye: true, facing: east
+	id: 4610 -> eye: true, facing: south
+	id: 4611 -> eye: true, facing: west
+	id: 4612 -> eye: false, facing: north
+	id: 4613 -> eye: false, facing: east
+	id: 4614 -> eye: false, facing: south
+	id: 4615 -> eye: false, facing: west

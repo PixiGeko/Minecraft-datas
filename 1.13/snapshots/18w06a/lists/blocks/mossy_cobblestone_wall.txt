@@ -1,0 +1,40 @@
+1) Properties
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	up -> true, false
+	west -> true, false
+
+2) States
+	id: 4434 -> east: true, north: true, south: true, up: true, west: true
+	id: 4435 -> east: true, north: true, south: true, up: true, west: false
+	id: 4436 -> east: true, north: true, south: true, up: false, west: true
+	id: 4437 -> east: true, north: true, south: true, up: false, west: false
+	id: 4438 -> east: true, north: true, south: false, up: true, west: true
+	id: 4439 -> east: true, north: true, south: false, up: true, west: false
+	id: 4440 -> east: true, north: true, south: false, up: false, west: true
+	id: 4441 -> east: true, north: true, south: false, up: false, west: false
+	id: 4442 -> east: true, north: false, south: true, up: true, west: true
+	id: 4443 -> east: true, north: false, south: true, up: true, west: false
+	id: 4444 -> east: true, north: false, south: true, up: false, west: true
+	id: 4445 -> east: true, north: false, south: true, up: false, west: false
+	id: 4446 -> east: true, north: false, south: false, up: true, west: true
+	id: 4447 -> east: true, north: false, south: false, up: true, west: false
+	id: 4448 -> east: true, north: false, south: false, up: false, west: true
+	id: 4449 -> east: true, north: false, south: false, up: false, west: false
+	id: 4450 -> east: false, north: true, south: true, up: true, west: true
+	id: 4451 -> east: false, north: true, south: true, up: true, west: false
+	id: 4452 -> east: false, north: true, south: true, up: false, west: true
+	id: 4453 -> east: false, north: true, south: true, up: false, west: false
+	id: 4454 -> east: false, north: true, south: false, up: true, west: true
+	id: 4455 -> east: false, north: true, south: false, up: true, west: false
+	id: 4456 -> east: false, north: true, south: false, up: false, west: true
+	id: 4457 -> east: false, north: true, south: false, up: false, west: false
+	id: 4458 -> east: false, north: false, south: true, up: true, west: true
+	id: 4459 -> east: false, north: false, south: true, up: true, west: false
+	id: 4460 -> east: false, north: false, south: true, up: false, west: true
+	id: 4461 -> east: false, north: false, south: true, up: false, west: false
+	id: 4462 -> east: false, north: false, south: false, up: true, west: true
+	id: 4463 -> east: false, north: false, south: false, up: true, west: false
+	id: 4464 -> east: false, north: false, south: false, up: false, west: true
+	id: 4465 -> east: false, north: false, south: false, up: false, west: false

@@ -1,0 +1,21 @@
+1) Properties
+	attachment -> floor, ceiling, single_wall, double_wall
+	facing -> north, south, west, east
+
+2) States
+	id: 11186 -> attachment: floor, facing: north
+	id: 11187 -> attachment: floor, facing: south
+	id: 11188 -> attachment: floor, facing: west
+	id: 11189 -> attachment: floor, facing: east
+	id: 11190 -> attachment: ceiling, facing: north
+	id: 11191 -> attachment: ceiling, facing: south
+	id: 11192 -> attachment: ceiling, facing: west
+	id: 11193 -> attachment: ceiling, facing: east
+	id: 11194 -> attachment: single_wall, facing: north
+	id: 11195 -> attachment: single_wall, facing: south
+	id: 11196 -> attachment: single_wall, facing: west
+	id: 11197 -> attachment: single_wall, facing: east
+	id: 11198 -> attachment: double_wall, facing: north
+	id: 11199 -> attachment: double_wall, facing: south
+	id: 11200 -> attachment: double_wall, facing: west
+	id: 11201 -> attachment: double_wall, facing: east
