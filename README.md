@@ -17,13 +17,13 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 ## Data files
 
 ### From 18w01a to 18w49a
-![](images/extractOld.png)
+![](https://github.com/PixiGeko/images/blob/master/images/Minecraft%20Datas/extractOld.png)
 
 ### Since 18w50a
-![](images/extractNew.png)
+![](https://github.com/PixiGeko/images/blob/master/images/Minecraft%20Datas/extractNew.png)
 
 ## Version files
-![](images/manifest.png)
+![](https://github.com/PixiGeko/images/blob/master/images/Minecraft%20Datas/manifest.png)
 
 # Data types
 <i>Some descriptions may not be accurate.</i>
