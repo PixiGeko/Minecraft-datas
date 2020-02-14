@@ -1,0 +1,22 @@
+1) Properties
+	facing -> north, south, west, east
+	occupied -> true, false
+	part -> head, foot
+
+2) States
+	id: 1112 -> facing: north, occupied: true, part: head
+	id: 1113 -> facing: north, occupied: true, part: foot
+	id: 1114 -> facing: north, occupied: false, part: head
+	id: 1115 -> facing: north, occupied: false, part: foot
+	id: 1116 -> facing: south, occupied: true, part: head
+	id: 1117 -> facing: south, occupied: true, part: foot
+	id: 1118 -> facing: south, occupied: false, part: head
+	id: 1119 -> facing: south, occupied: false, part: foot
+	id: 1120 -> facing: west, occupied: true, part: head
+	id: 1121 -> facing: west, occupied: true, part: foot
+	id: 1122 -> facing: west, occupied: false, part: head
+	id: 1123 -> facing: west, occupied: false, part: foot
+	id: 1124 -> facing: east, occupied: true, part: head
+	id: 1125 -> facing: east, occupied: true, part: foot
+	id: 1126 -> facing: east, occupied: false, part: head
+	id: 1127 -> facing: east, occupied: false, part: foot
