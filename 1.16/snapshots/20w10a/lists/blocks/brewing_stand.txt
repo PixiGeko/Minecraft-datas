@@ -1,0 +1,14 @@
+1) Properties
+	has_bottle_0 -> true, false
+	has_bottle_1 -> true, false
+	has_bottle_2 -> true, false
+
+2) States
+	id: 5127 -> has_bottle_0: true, has_bottle_1: true, has_bottle_2: true
+	id: 5128 -> has_bottle_0: true, has_bottle_1: true, has_bottle_2: false
+	id: 5129 -> has_bottle_0: true, has_bottle_1: false, has_bottle_2: true
+	id: 5130 -> has_bottle_0: true, has_bottle_1: false, has_bottle_2: false
+	id: 5131 -> has_bottle_0: false, has_bottle_1: true, has_bottle_2: true
+	id: 5132 -> has_bottle_0: false, has_bottle_1: true, has_bottle_2: false
+	id: 5133 -> has_bottle_0: false, has_bottle_1: false, has_bottle_2: true
+	id: 5134 -> has_bottle_0: false, has_bottle_1: false, has_bottle_2: false
