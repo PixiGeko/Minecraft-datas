@@ -42,7 +42,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | chunk_status.txt | Chunk generation steps (?) | 
 | commands.txt | Commands | 
 | custom_stats.txt | Stats | 
-| decorator.txt |  | 
+| decorator.txt | Decoration types | 
 | dimension_type.txt | Dimension IDs | 
 | enchantment.txt | Enchantment IDs | 
 | entity_type.txt | Entity IDs | 
@@ -69,6 +69,6 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | structure_pool_element.txt |  | 
 | structure_processor.txt |  | 
 | surface_builder.txt |  |
-| tree_decorator_type | Tree decorations | 
+| tree_decorator_type.txt | Tree decorations | 
 | villager_profession.txt | Villager professions | 
 | villager_type.txt | Villager types (biomes) | 
