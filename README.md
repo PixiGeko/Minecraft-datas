@@ -40,7 +40,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | carver.txt | Cave types | 
 | chunk_generator_type.txt | Map generation types | 
 | chunk_status.txt | Chunk generation steps (?) | 
-| commands.txt | Commands | 
+| command.txt | Commands | 
 | custom_stats.txt | Stats | 
 | decorator.txt | Decoration types | 
 | dimension_type.txt | Dimension IDs | 
@@ -56,6 +56,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | motive.txt | Paintings list | 
 | particle_type.txt | Particle IDs | 
 | point_of_interest_type.txt | Important places in villages  | 
+| pos_rule_test.txt |  |
 | potion.txt | Potion IDs | 
 | recipe_serializer.txt | Craft types | 
 | recipe_type.txt | Recipe types | 
@@ -70,5 +71,6 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | structure_processor.txt |  | 
 | surface_builder.txt |  |
 | tree_decorator_type.txt | Tree decorations | 
+| type.txt |  |
 | villager_profession.txt | Villager professions | 
 | villager_type.txt | Villager types (biomes) | 

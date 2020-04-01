@@ -1,0 +1,22 @@
+1) Properties
+	facing -> north, south, west, east
+	has_book -> true, false
+	powered -> true, false
+
+2) States
+	id: 8661 -> facing: north, has_book: true, powered: true
+	id: 8662 -> facing: north, has_book: true, powered: false
+	id: 8663 -> facing: north, has_book: false, powered: true
+	id: 8664 -> facing: north, has_book: false, powered: false
+	id: 8665 -> facing: south, has_book: true, powered: true
+	id: 8666 -> facing: south, has_book: true, powered: false
+	id: 8667 -> facing: south, has_book: false, powered: true
+	id: 8668 -> facing: south, has_book: false, powered: false
+	id: 8669 -> facing: west, has_book: true, powered: true
+	id: 8670 -> facing: west, has_book: true, powered: false
+	id: 8671 -> facing: west, has_book: false, powered: true
+	id: 8672 -> facing: west, has_book: false, powered: false
+	id: 8673 -> facing: east, has_book: true, powered: true
+	id: 8674 -> facing: east, has_book: true, powered: false
+	id: 8675 -> facing: east, has_book: false, powered: true
+	id: 8676 -> facing: east, has_book: false, powered: false

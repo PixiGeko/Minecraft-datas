@@ -1,0 +1,40 @@
+1) Properties
+	east -> true, false
+	north -> true, false
+	south -> true, false
+	waterlogged -> true, false
+	west -> true, false
+
+2) States
+	id: 12231 -> east: true, north: true, south: true, waterlogged: true, west: true
+	id: 12232 -> east: true, north: true, south: true, waterlogged: true, west: false
+	id: 12233 -> east: true, north: true, south: true, waterlogged: false, west: true
+	id: 12234 -> east: true, north: true, south: true, waterlogged: false, west: false
+	id: 12235 -> east: true, north: true, south: false, waterlogged: true, west: true
+	id: 12236 -> east: true, north: true, south: false, waterlogged: true, west: false
+	id: 12237 -> east: true, north: true, south: false, waterlogged: false, west: true
+	id: 12238 -> east: true, north: true, south: false, waterlogged: false, west: false
+	id: 12239 -> east: true, north: false, south: true, waterlogged: true, west: true
+	id: 12240 -> east: true, north: false, south: true, waterlogged: true, west: false
+	id: 12241 -> east: true, north: false, south: true, waterlogged: false, west: true
+	id: 12242 -> east: true, north: false, south: true, waterlogged: false, west: false
+	id: 12243 -> east: true, north: false, south: false, waterlogged: true, west: true
+	id: 12244 -> east: true, north: false, south: false, waterlogged: true, west: false
+	id: 12245 -> east: true, north: false, south: false, waterlogged: false, west: true
+	id: 12246 -> east: true, north: false, south: false, waterlogged: false, west: false
+	id: 12247 -> east: false, north: true, south: true, waterlogged: true, west: true
+	id: 12248 -> east: false, north: true, south: true, waterlogged: true, west: false
+	id: 12249 -> east: false, north: true, south: true, waterlogged: false, west: true
+	id: 12250 -> east: false, north: true, south: true, waterlogged: false, west: false
+	id: 12251 -> east: false, north: true, south: false, waterlogged: true, west: true
+	id: 12252 -> east: false, north: true, south: false, waterlogged: true, west: false
+	id: 12253 -> east: false, north: true, south: false, waterlogged: false, west: true
+	id: 12254 -> east: false, north: true, south: false, waterlogged: false, west: false
+	id: 12255 -> east: false, north: false, south: true, waterlogged: true, west: true
+	id: 12256 -> east: false, north: false, south: true, waterlogged: true, west: false
+	id: 12257 -> east: false, north: false, south: true, waterlogged: false, west: true
+	id: 12258 -> east: false, north: false, south: true, waterlogged: false, west: false
+	id: 12259 -> east: false, north: false, south: false, waterlogged: true, west: true
+	id: 12260 -> east: false, north: false, south: false, waterlogged: true, west: false
+	id: 12261 -> east: false, north: false, south: false, waterlogged: false, west: true
+	id: 12262 -> east: false, north: false, south: false, waterlogged: false, west: false

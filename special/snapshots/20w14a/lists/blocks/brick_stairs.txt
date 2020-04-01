@@ -1,0 +1,87 @@
+1) Properties
+	facing -> north, south, west, east
+	half -> top, bottom
+	shape -> straight, inner_left, inner_right, outer_left, outer_right
+	waterlogged -> true, false
+
+2) States
+	id: 15782 -> facing: north, half: top, shape: straight, waterlogged: true
+	id: 15783 -> facing: north, half: top, shape: straight, waterlogged: false
+	id: 15784 -> facing: north, half: top, shape: inner_left, waterlogged: true
+	id: 15785 -> facing: north, half: top, shape: inner_left, waterlogged: false
+	id: 15786 -> facing: north, half: top, shape: inner_right, waterlogged: true
+	id: 15787 -> facing: north, half: top, shape: inner_right, waterlogged: false
+	id: 15788 -> facing: north, half: top, shape: outer_left, waterlogged: true
+	id: 15789 -> facing: north, half: top, shape: outer_left, waterlogged: false
+	id: 15790 -> facing: north, half: top, shape: outer_right, waterlogged: true
+	id: 15791 -> facing: north, half: top, shape: outer_right, waterlogged: false
+	id: 15792 -> facing: north, half: bottom, shape: straight, waterlogged: true
+	id: 15793 -> facing: north, half: bottom, shape: straight, waterlogged: false
+	id: 15794 -> facing: north, half: bottom, shape: inner_left, waterlogged: true
+	id: 15795 -> facing: north, half: bottom, shape: inner_left, waterlogged: false
+	id: 15796 -> facing: north, half: bottom, shape: inner_right, waterlogged: true
+	id: 15797 -> facing: north, half: bottom, shape: inner_right, waterlogged: false
+	id: 15798 -> facing: north, half: bottom, shape: outer_left, waterlogged: true
+	id: 15799 -> facing: north, half: bottom, shape: outer_left, waterlogged: false
+	id: 15800 -> facing: north, half: bottom, shape: outer_right, waterlogged: true
+	id: 15801 -> facing: north, half: bottom, shape: outer_right, waterlogged: false
+	id: 15802 -> facing: south, half: top, shape: straight, waterlogged: true
+	id: 15803 -> facing: south, half: top, shape: straight, waterlogged: false
+	id: 15804 -> facing: south, half: top, shape: inner_left, waterlogged: true
+	id: 15805 -> facing: south, half: top, shape: inner_left, waterlogged: false
+	id: 15806 -> facing: south, half: top, shape: inner_right, waterlogged: true
+	id: 15807 -> facing: south, half: top, shape: inner_right, waterlogged: false
+	id: 15808 -> facing: south, half: top, shape: outer_left, waterlogged: true
+	id: 15809 -> facing: south, half: top, shape: outer_left, waterlogged: false
+	id: 15810 -> facing: south, half: top, shape: outer_right, waterlogged: true
+	id: 15811 -> facing: south, half: top, shape: outer_right, waterlogged: false
+	id: 15812 -> facing: south, half: bottom, shape: straight, waterlogged: true
+	id: 15813 -> facing: south, half: bottom, shape: straight, waterlogged: false
+	id: 15814 -> facing: south, half: bottom, shape: inner_left, waterlogged: true
+	id: 15815 -> facing: south, half: bottom, shape: inner_left, waterlogged: false
+	id: 15816 -> facing: south, half: bottom, shape: inner_right, waterlogged: true
+	id: 15817 -> facing: south, half: bottom, shape: inner_right, waterlogged: false
+	id: 15818 -> facing: south, half: bottom, shape: outer_left, waterlogged: true
+	id: 15819 -> facing: south, half: bottom, shape: outer_left, waterlogged: false
+	id: 15820 -> facing: south, half: bottom, shape: outer_right, waterlogged: true
+	id: 15821 -> facing: south, half: bottom, shape: outer_right, waterlogged: false
+	id: 15822 -> facing: west, half: top, shape: straight, waterlogged: true
+	id: 15823 -> facing: west, half: top, shape: straight, waterlogged: false
+	id: 15824 -> facing: west, half: top, shape: inner_left, waterlogged: true
+	id: 15825 -> facing: west, half: top, shape: inner_left, waterlogged: false
+	id: 15826 -> facing: west, half: top, shape: inner_right, waterlogged: true
+	id: 15827 -> facing: west, half: top, shape: inner_right, waterlogged: false
+	id: 15828 -> facing: west, half: top, shape: outer_left, waterlogged: true
+	id: 15829 -> facing: west, half: top, shape: outer_left, waterlogged: false
+	id: 15830 -> facing: west, half: top, shape: outer_right, waterlogged: true
+	id: 15831 -> facing: west, half: top, shape: outer_right, waterlogged: false
+	id: 15832 -> facing: west, half: bottom, shape: straight, waterlogged: true
+	id: 15833 -> facing: west, half: bottom, shape: straight, waterlogged: false
+	id: 15834 -> facing: west, half: bottom, shape: inner_left, waterlogged: true
+	id: 15835 -> facing: west, half: bottom, shape: inner_left, waterlogged: false
+	id: 15836 -> facing: west, half: bottom, shape: inner_right, waterlogged: true
+	id: 15837 -> facing: west, half: bottom, shape: inner_right, waterlogged: false
+	id: 15838 -> facing: west, half: bottom, shape: outer_left, waterlogged: true
+	id: 15839 -> facing: west, half: bottom, shape: outer_left, waterlogged: false
+	id: 15840 -> facing: west, half: bottom, shape: outer_right, waterlogged: true
+	id: 15841 -> facing: west, half: bottom, shape: outer_right, waterlogged: false
+	id: 15842 -> facing: east, half: top, shape: straight, waterlogged: true
+	id: 15843 -> facing: east, half: top, shape: straight, waterlogged: false
+	id: 15844 -> facing: east, half: top, shape: inner_left, waterlogged: true
+	id: 15845 -> facing: east, half: top, shape: inner_left, waterlogged: false
+	id: 15846 -> facing: east, half: top, shape: inner_right, waterlogged: true
+	id: 15847 -> facing: east, half: top, shape: inner_right, waterlogged: false
+	id: 15848 -> facing: east, half: top, shape: outer_left, waterlogged: true
+	id: 15849 -> facing: east, half: top, shape: outer_left, waterlogged: false
+	id: 15850 -> facing: east, half: top, shape: outer_right, waterlogged: true
+	id: 15851 -> facing: east, half: top, shape: outer_right, waterlogged: false
+	id: 15852 -> facing: east, half: bottom, shape: straight, waterlogged: true
+	id: 15853 -> facing: east, half: bottom, shape: straight, waterlogged: false
+	id: 15854 -> facing: east, half: bottom, shape: inner_left, waterlogged: true
+	id: 15855 -> facing: east, half: bottom, shape: inner_left, waterlogged: false
+	id: 15856 -> facing: east, half: bottom, shape: inner_right, waterlogged: true
+	id: 15857 -> facing: east, half: bottom, shape: inner_right, waterlogged: false
+	id: 15858 -> facing: east, half: bottom, shape: outer_left, waterlogged: true
+	id: 15859 -> facing: east, half: bottom, shape: outer_left, waterlogged: false
+	id: 15860 -> facing: east, half: bottom, shape: outer_right, waterlogged: true
+	id: 15861 -> facing: east, half: bottom, shape: outer_right, waterlogged: false
