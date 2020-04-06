@@ -31,6 +31,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | <b>File</b>  | <b>Description</b> |
 | ------------- | ------------- |
 | activity.txt | Villager activities | 
+| attributes.txt | Attributes list | 
 | biome.txt | Biome IDs | 
 | biome_source_type.txt | Biome types (buffets) | 
 | block.txt | Block IDs | 
@@ -71,6 +72,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | structure_processor.txt |  | 
 | surface_builder.txt |  |
 | tree_decorator_type.txt | Tree decorations | 
+| trunk_placer_type.txt |   |
 | type.txt |  |
 | villager_profession.txt | Villager professions | 
 | villager_type.txt | Villager types (biomes) | 
