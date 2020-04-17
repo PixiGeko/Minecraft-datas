@@ -1,0 +1,959 @@
+{
+  "versions": {
+    "1.13.0-pre1": {
+      "path": "1.13/pre-releases/1.13.0-pre1",
+      "info": "versions/list/pre-release/1.13.0-pre1.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre10": {
+      "path": "1.13/pre-releases/1.13.0-pre10",
+      "info": "versions/list/pre-release/1.13.0-pre10.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre2": {
+      "path": "1.13/pre-releases/1.13.0-pre2",
+      "info": "versions/list/pre-release/1.13.0-pre2.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre3": {
+      "path": "1.13/pre-releases/1.13.0-pre3",
+      "info": "versions/list/pre-release/1.13.0-pre3.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre4": {
+      "path": "1.13/pre-releases/1.13.0-pre4",
+      "info": "versions/list/pre-release/1.13.0-pre4.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre5": {
+      "path": "1.13/pre-releases/1.13.0-pre5",
+      "info": "versions/list/pre-release/1.13.0-pre5.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre6": {
+      "path": "1.13/pre-releases/1.13.0-pre6",
+      "info": "versions/list/pre-release/1.13.0-pre6.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre7": {
+      "path": "1.13/pre-releases/1.13.0-pre7",
+      "info": "versions/list/pre-release/1.13.0-pre7.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre8": {
+      "path": "1.13/pre-releases/1.13.0-pre8",
+      "info": "versions/list/pre-release/1.13.0-pre8.txt",
+      "generatorType": 1
+    },
+    "1.13.0-pre9": {
+      "path": "1.13/pre-releases/1.13.0-pre9",
+      "info": "versions/list/pre-release/1.13.0-pre9.txt",
+      "generatorType": 1
+    },
+    "1.13.1-pre1": {
+      "path": "1.13/pre-releases/1.13.1-pre1",
+      "info": "versions/list/pre-release/1.13.1-pre1.txt",
+      "generatorType": 1
+    },
+    "1.13.1-pre2": {
+      "path": "1.13/pre-releases/1.13.1-pre2",
+      "info": "versions/list/pre-release/1.13.1-pre2.txt",
+      "generatorType": 1
+    },
+    "1.13.2-pre1": {
+      "path": "1.13/pre-releases/1.13.2-pre1",
+      "info": "versions/list/pre-release/1.13.2-pre1.txt",
+      "generatorType": 1
+    },
+    "1.13.2-pre2": {
+      "path": "1.13/pre-releases/1.13.2-pre2",
+      "info": "versions/list/pre-release/1.13.2-pre2.txt",
+      "generatorType": 1
+    },
+    "1.13.0": {
+      "path": "1.13/releases/1.13.0",
+      "info": "versions/list/release/1.13.1.txt",
+      "generatorType": 1
+    },
+    "1.13.1": {
+      "path": "1.13/releases/1.13.1",
+      "info": "versions/list/release/1.13.1.txt",
+      "generatorType": 1
+    },
+    "1.13.2": {
+      "path": "1.13/releases/1.13.2",
+      "info": "versions/list/release/1.13.2.txt",
+      "generatorType": 1
+    },
+    "18w01a": {
+      "path": "1.13/snapshots/18w01a",
+      "info": "versions/list/snapshot/18w01a.txt",
+      "generatorType": 1
+    },
+    "18w02a": {
+      "path": "1.13/snapshots/18w02a",
+      "info": "versions/list/snapshot/18w02a.txt",
+      "generatorType": 1
+    },
+    "18w03a": {
+      "path": "1.13/snapshots/18w03a",
+      "info": "versions/list/snapshot/18w03a.txt",
+      "generatorType": 1
+    },
+    "18w03b": {
+      "path": "1.13/snapshots/18w03b",
+      "info": "versions/list/snapshot/18w03b.txt",
+      "generatorType": 1
+    },
+    "18w05a": {
+      "path": "1.13/snapshots/18w05a",
+      "info": "versions/list/snapshot/18w05a.txt",
+      "generatorType": 1
+    },
+    "18w06a": {
+      "path": "1.13/snapshots/18w06a",
+      "info": "versions/list/snapshot/18w06a.txt",
+      "generatorType": 1
+    },
+    "18w07a": {
+      "path": "1.13/snapshots/18w07a",
+      "info": "versions/list/snapshot/18w07a.txt",
+      "generatorType": 1
+    },
+    "18w07b": {
+      "path": "1.13/snapshots/18w07b",
+      "info": "versions/list/snapshot/18w07b.txt",
+      "generatorType": 1
+    },
+    "18w07c": {
+      "path": "1.13/snapshots/18w07c",
+      "info": "versions/list/snapshot/18w07c.txt",
+      "generatorType": 1
+    },
+    "18w08a": {
+      "path": "1.13/snapshots/18w08a",
+      "info": "versions/list/snapshot/18w08a.txt",
+      "generatorType": 1
+    },
+    "18w08b": {
+      "path": "1.13/snapshots/18w08b",
+      "info": "versions/list/snapshot/18w08b.txt",
+      "generatorType": 1
+    },
+    "18w09a": {
+      "path": "1.13/snapshots/18w09a",
+      "info": "versions/list/snapshot/18w09a.txt",
+      "generatorType": 1
+    },
+    "18w10a": {
+      "path": "1.13/snapshots/18w10a",
+      "info": "versions/list/snapshot/18w10a.txt",
+      "generatorType": 1
+    },
+    "18w10b": {
+      "path": "1.13/snapshots/18w10b",
+      "info": "versions/list/snapshot/18w10b.txt",
+      "generatorType": 1
+    },
+    "18w10c": {
+      "path": "1.13/snapshots/18w10c",
+      "info": "versions/list/snapshot/18w10c.txt",
+      "generatorType": 1
+    },
+    "18w10d": {
+      "path": "1.13/snapshots/18w10d",
+      "info": "versions/list/snapshot/18w10d.txt",
+      "generatorType": 1
+    },
+    "18w14a": {
+      "path": "1.13/snapshots/18w14a",
+      "info": "versions/list/snapshot/18w14a.txt",
+      "generatorType": 1
+    },
+    "18w15a": {
+      "path": "1.13/snapshots/18w15a",
+      "info": "versions/list/snapshot/18w15a.txt",
+      "generatorType": 1
+    },
+    "18w16a": {
+      "path": "1.13/snapshots/18w16a",
+      "info": "versions/list/snapshot/18w16a.txt",
+      "generatorType": 1
+    },
+    "18w19a": {
+      "path": "1.13/snapshots/18w19a",
+      "info": "versions/list/snapshot/18w19a.txt",
+      "generatorType": 1
+    },
+    "18w20a": {
+      "path": "1.13/snapshots/18w20a",
+      "info": "versions/list/snapshot/18w20a.txt",
+      "generatorType": 1
+    },
+    "18w20b": {
+      "path": "1.13/snapshots/18w20b",
+      "info": "versions/list/snapshot/18w20b.txt",
+      "generatorType": 1
+    },
+    "18w20c": {
+      "path": "1.13/snapshots/18w20c",
+      "info": "versions/list/snapshot/18w20c.txt",
+      "generatorType": 1
+    },
+    "18w21a": {
+      "path": "1.13/snapshots/18w21a",
+      "info": "versions/list/snapshot/18w21a.txt",
+      "generatorType": 1
+    },
+    "18w21b": {
+      "path": "1.13/snapshots/18w21b",
+      "info": "versions/list/snapshot/18w21b.txt",
+      "generatorType": 1
+    },
+    "18w22b": {
+      "path": "1.13/snapshots/18w22b",
+      "info": "versions/list/snapshot/18w22b.txt",
+      "generatorType": 1
+    },
+    "18w22c": {
+      "path": "1.13/snapshots/18w22c",
+      "info": "versions/list/snapshot/18w22c.txt",
+      "generatorType": 1
+    },
+    "18w30a": {
+      "path": "1.13/snapshots/18w30a",
+      "info": "versions/list/snapshot/18w30a.txt",
+      "generatorType": 1
+    },
+    "18w30b": {
+      "path": "1.13/snapshots/18w30b",
+      "info": "versions/list/snapshot/18w30b.txt",
+      "generatorType": 1
+    },
+    "18w32a": {
+      "path": "1.13/snapshots/18w32a",
+      "info": "versions/list/snapshot/18w32a.txt",
+      "generatorType": 1
+    },
+    "1.14.0-pre1": {
+      "path": "1.14/pre-releases/1.14.0-pre1",
+      "info": "versions/list/pre-release/1.14.0-pre1.txt",
+      "generatorType": 2
+    },
+    "1.14.0-pre2": {
+      "path": "1.14/pre-releases/1.14.0-pre2",
+      "info": "versions/list/pre-release/1.14.0-pre2.txt",
+      "generatorType": 2
+    },
+    "1.14.0-pre4": {
+      "path": "1.14/pre-releases/1.14.0-pre4",
+      "info": "versions/list/pre-release/1.14.0-pre4.txt",
+      "generatorType": 2
+    },
+    "1.14.0-pre5": {
+      "path": "1.14/pre-releases/1.14.0-pre5",
+      "info": "versions/list/pre-release/1.14.0-pre5.txt",
+      "generatorType": 2
+    },
+    "1.14.1-pre1": {
+      "path": "1.14/pre-releases/1.14.1-pre1",
+      "info": "versions/list/pre-release/1.14.1-pre1.txt",
+      "generatorType": 2
+    },
+    "1.14.1-pre2": {
+      "path": "1.14/pre-releases/1.14.1-pre2",
+      "info": "versions/list/pre-release/1.14.1-pre2.txt",
+      "generatorType": 2
+    },
+    "1.14.2-pre2": {
+      "path": "1.14/pre-releases/1.14.2-pre2",
+      "info": "versions/list/pre-release/1.14.2-pre2.txt",
+      "generatorType": 2
+    },
+    "1.14.2-pre3": {
+      "path": "1.14/pre-releases/1.14.2-pre3",
+      "info": "versions/list/pre-release/1.14.2-pre3.txt",
+      "generatorType": 2
+    },
+    "1.14.2-pre4": {
+      "path": "1.14/pre-releases/1.14.2-pre4",
+      "info": "versions/list/pre-release/1.14.2-pre4.txt",
+      "generatorType": 2
+    },
+    "1.14.3-pre1": {
+      "path": "1.14/pre-releases/1.14.3-pre1",
+      "info": "versions/list/pre-release/1.14.3-pre1.txt",
+      "generatorType": 2
+    },
+    "1.14.3-pre2": {
+      "path": "1.14/pre-releases/1.14.3-pre2",
+      "info": "versions/list/pre-release/1.14.3-pre2.txt",
+      "generatorType": 2
+    },
+    "1.14.3-pre3": {
+      "path": "1.14/pre-releases/1.14.3-pre3",
+      "info": "versions/list/pre-release/1.14.3-pre3.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre1": {
+      "path": "1.14/pre-releases/1.14.4-pre1",
+      "info": "versions/list/pre-release/1.14.4-pre1.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre2": {
+      "path": "1.14/pre-releases/1.14.4-pre2",
+      "info": "versions/list/pre-release/1.14.4-pre2.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre3": {
+      "path": "1.14/pre-releases/1.14.4-pre3",
+      "info": "versions/list/pre-release/1.14.4-pre3.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre4": {
+      "path": "1.14/pre-releases/1.14.4-pre4",
+      "info": "versions/list/pre-release/1.14.4-pre4.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre5": {
+      "path": "1.14/pre-releases/1.14.4-pre5",
+      "info": "versions/list/pre-release/1.14.4-pre5.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre6": {
+      "path": "1.14/pre-releases/1.14.4-pre6",
+      "info": "versions/list/pre-release/1.14.4-pre6.txt",
+      "generatorType": 2
+    },
+    "1.14.4-pre7": {
+      "path": "1.14/pre-releases/1.14.4-pre7",
+      "info": "versions/list/pre-release/1.14.4-pre7.txt",
+      "generatorType": 2
+    },
+    "1.14.0": {
+      "path": "1.14/releases/1.14.0",
+      "info": "versions/list/release/1.14.0.txt",
+      "generatorType": 2
+    },
+    "1.14.1": {
+      "path": "1.14/releases/1.14.1",
+      "info": "versions/list/release/1.14.1.txt",
+      "generatorType": 2
+    },
+    "1.14.2": {
+      "path": "1.14/releases/1.14.2",
+      "info": "versions/list/release/1.14.2.txt",
+      "generatorType": 2
+    },
+    "1.14.3": {
+      "path": "1.14/releases/1.14.3",
+      "info": "versions/list/release/1.14.3.txt",
+      "generatorType": 2
+    },
+    "1.14.4": {
+      "path": "1.14/releases/1.14.4",
+      "info": "versions/list/release/1.14.4.txt",
+      "generatorType": 2
+    },
+    "18w43a": {
+      "path": "1.14/snapshots/18w43a",
+      "info": "versions/list/snapshot/18w43a.txt",
+      "generatorType": 1
+    },
+    "18w43b": {
+      "path": "1.14/snapshots/18w43b",
+      "info": "versions/list/snapshot/18w43b.txt",
+      "generatorType": 1
+    },
+    "18w43c": {
+      "path": "1.14/snapshots/18w43c",
+      "info": "versions/list/snapshot/18w43c.txt",
+      "generatorType": 1
+    },
+    "18w44a": {
+      "path": "1.14/snapshots/18w44a",
+      "info": "versions/list/snapshot/18w44a.txt",
+      "generatorType": 1
+    },
+    "18w45a": {
+      "path": "1.14/snapshots/18w45a",
+      "info": "versions/list/snapshot/18w45a.txt",
+      "generatorType": 1
+    },
+    "18w46a": {
+      "path": "1.14/snapshots/18w46a",
+      "info": "versions/list/snapshot/18w46a.txt",
+      "generatorType": 1
+    },
+    "18w47a": {
+      "path": "1.14/snapshots/18w47a",
+      "info": "versions/list/snapshot/18w47a.txt",
+      "generatorType": 1
+    },
+    "18w47b": {
+      "path": "1.14/snapshots/18w47b",
+      "info": "versions/list/snapshot/18w47b.txt",
+      "generatorType": 1
+    },
+    "18w48a": {
+      "path": "1.14/snapshots/18w48a",
+      "info": "versions/list/snapshot/18w48a.txt",
+      "generatorType": 1
+    },
+    "18w48b": {
+      "path": "1.14/snapshots/18w48b",
+      "info": "versions/list/snapshot/18w48b.txt",
+      "generatorType": 1
+    },
+    "18w49a": {
+      "path": "1.14/snapshots/18w49a",
+      "info": "versions/list/snapshot/18w49a.txt",
+      "generatorType": 1
+    },
+    "18w50a": {
+      "path": "1.14/snapshots/18w50a",
+      "info": "versions/list/snapshot/18w50a.txt",
+      "generatorType": 2
+    },
+    "19w03b": {
+      "path": "1.14/snapshots/19w03b",
+      "info": "versions/list/snapshot/19w03b.txt",
+      "generatorType": 2
+    },
+    "19w03c": {
+      "path": "1.14/snapshots/19w03c",
+      "info": "versions/list/snapshot/19w03c.txt",
+      "generatorType": 2
+    },
+    "19w04a": {
+      "path": "1.14/snapshots/19w04a",
+      "info": "versions/list/snapshot/19w04a.txt",
+      "generatorType": 2
+    },
+    "19w05a": {
+      "path": "1.14/snapshots/19w05a",
+      "info": "versions/list/snapshot/19w05a.txt",
+      "generatorType": 2
+    },
+    "19w06a": {
+      "path": "1.14/snapshots/19w06a",
+      "info": "versions/list/snapshot/19w06a.txt",
+      "generatorType": 2
+    },
+    "19w07a": {
+      "path": "1.14/snapshots/19w07a",
+      "info": "versions/list/snapshot/19w07a.txt",
+      "generatorType": 2
+    },
+    "19w08b": {
+      "path": "1.14/snapshots/19w08b",
+      "info": "versions/list/snapshot/19w08b.txt",
+      "generatorType": 2
+    },
+    "19w09a": {
+      "path": "1.14/snapshots/19w09a",
+      "info": "versions/list/snapshot/19w09a.txt",
+      "generatorType": 2
+    },
+    "19w11a": {
+      "path": "1.14/snapshots/19w11a",
+      "info": "versions/list/snapshot/19w11a.txt",
+      "generatorType": 2
+    },
+    "19w11b": {
+      "path": "1.14/snapshots/19w11b",
+      "info": "versions/list/snapshot/19w11b.txt",
+      "generatorType": 2
+    },
+    "19w12a": {
+      "path": "1.14/snapshots/19w12a",
+      "info": "versions/list/snapshot/19w12a.txt",
+      "generatorType": 2
+    },
+    "19w12b": {
+      "path": "1.14/snapshots/19w12b",
+      "info": "versions/list/snapshot/19w12b.txt",
+      "generatorType": 2
+    },
+    "19w13a": {
+      "path": "1.14/snapshots/19w13a",
+      "info": "versions/list/snapshot/19w13a.txt",
+      "generatorType": 2
+    },
+    "19w13b": {
+      "path": "1.14/snapshots/19w13b",
+      "info": "versions/list/snapshot/19w13b.txt",
+      "generatorType": 2
+    },
+    "19w14a": {
+      "path": "1.14/snapshots/19w14a",
+      "info": "versions/list/snapshot/19w14a.txt",
+      "generatorType": 2
+    },
+    "19w14b": {
+      "path": "1.14/snapshots/19w14b",
+      "info": "versions/list/snapshot/19w14b.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre1": {
+      "path": "1.15/pre-releases/1.15.0-pre1",
+      "info": "versions/list/pre-release/1.15.0-pre1.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre2": {
+      "path": "1.15/pre-releases/1.15.0-pre2",
+      "info": "versions/list/pre-release/1.15.0-pre2.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre3": {
+      "path": "1.15/pre-releases/1.15.0-pre3",
+      "info": "versions/list/pre-release/1.15.0-pre3.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre4": {
+      "path": "1.15/pre-releases/1.15.0-pre4",
+      "info": "versions/list/pre-release/1.15.0-pre4.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre5": {
+      "path": "1.15/pre-releases/1.15.0-pre5",
+      "info": "versions/list/pre-release/1.15.0-pre5.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre6": {
+      "path": "1.15/pre-releases/1.15.0-pre6",
+      "info": "versions/list/pre-release/1.15.0-pre6.txt",
+      "generatorType": 2
+    },
+    "1.15.0-pre7": {
+      "path": "1.15/pre-releases/1.15.0-pre7",
+      "info": "versions/list/pre-release/1.15.0-pre7.txt",
+      "generatorType": 2
+    },
+    "1.15.1-pre1": {
+      "path": "1.15/pre-releases/1.15.1-pre1",
+      "info": "versions/list/pre-release/1.15.1-pre1.txt",
+      "generatorType": 2
+    },
+    "1.15.2-pre1": {
+      "path": "1.15/pre-releases/1.15.2-pre1",
+      "info": "versions/list/pre-release/1.15.2-pre1.txt",
+      "generatorType": 2
+    },
+    "1.15.2-pre2": {
+      "path": "1.15/pre-releases/1.15.2-pre2",
+      "info": "versions/list/pre-release/1.15.2-pre2.txt",
+      "generatorType": 2
+    },
+    "1.15.0": {
+      "path": "1.15/releases/1.15.0",
+      "info": "versions/list/release/1.15.0.txt",
+      "generatorType": 2
+    },
+    "1.15.1": {
+      "path": "1.15/releases/1.15.1",
+      "info": "versions/list/release/1.15.1.txt",
+      "generatorType": 2
+    },
+    "1.15.2": {
+      "path": "1.15/releases/1.15.2",
+      "info": "versions/list/release/1.15.2.txt",
+      "generatorType": 2
+    },
+    "19w34a": {
+      "path": "1.15/snapshots/19w34a",
+      "info": "versions/list/snapshot/19w34a.txt",
+      "generatorType": 2
+    },
+    "19w35a": {
+      "path": "1.15/snapshots/19w35a",
+      "info": "versions/list/snapshot/19w35a.txt",
+      "generatorType": 2
+    },
+    "19w36a": {
+      "path": "1.15/snapshots/19w36a",
+      "info": "versions/list/snapshot/19w36a.txt",
+      "generatorType": 2
+    },
+    "19w37a": {
+      "path": "1.15/snapshots/19w37a",
+      "info": "versions/list/snapshot/19w37a.txt",
+      "generatorType": 2
+    },
+    "19w38a": {
+      "path": "1.15/snapshots/19w38a",
+      "info": "versions/list/snapshot/19w38a.txt",
+      "generatorType": 2
+    },
+    "19w38b": {
+      "path": "1.15/snapshots/19w38b",
+      "info": "versions/list/snapshot/19w38b.txt",
+      "generatorType": 2
+    },
+    "19w39a": {
+      "path": "1.15/snapshots/19w39a",
+      "info": "versions/list/snapshot/19w39a.txt",
+      "generatorType": 2
+    },
+    "19w40a": {
+      "path": "1.15/snapshots/19w40a",
+      "info": "versions/list/snapshot/19w40a.txt",
+      "generatorType": 2
+    },
+    "19w41a": {
+      "path": "1.15/snapshots/19w41a",
+      "info": "versions/list/snapshot/19w41a.txt",
+      "generatorType": 2
+    },
+    "19w42a": {
+      "path": "1.15/snapshots/19w42a",
+      "info": "versions/list/snapshot/19w42a.txt",
+      "generatorType": 2
+    },
+    "19w44a": {
+      "path": "1.15/snapshots/19w44a",
+      "info": "versions/list/snapshot/19w44a.txt",
+      "generatorType": 2
+    },
+    "19w45a": {
+      "path": "1.15/snapshots/19w45a",
+      "info": "versions/list/snapshot/19w45a.txt",
+      "generatorType": 2
+    },
+    "19w45b": {
+      "path": "1.15/snapshots/19w45b",
+      "info": "versions/list/snapshot/19w45b.txt",
+      "generatorType": 2
+    },
+    "19w46a": {
+      "path": "1.15/snapshots/19w46a",
+      "info": "versions/list/snapshot/19w46a.txt",
+      "generatorType": 2
+    },
+    "19w46b": {
+      "path": "1.15/snapshots/19w46b",
+      "info": "versions/list/snapshot/19w46b.txt",
+      "generatorType": 2
+    },
+    "20w06a": {
+      "path": "1.16/snapshots/20w06a",
+      "info": "versions/list/snapshot/20w06a.txt",
+      "generatorType": 2
+    },
+    "20w07a": {
+      "path": "1.16/snapshots/20w07a",
+      "info": "versions/list/snapshot/20w07a.txt",
+      "generatorType": 2
+    },
+    "20w08a": {
+      "path": "1.16/snapshots/20w08a",
+      "info": "versions/list/snapshot/20w08a.txt",
+      "generatorType": 2
+    },
+    "20w09a": {
+      "path": "1.16/snapshots/20w09a",
+      "info": "versions/list/snapshot/20w09a.txt",
+      "generatorType": 2
+    },
+    "20w10a": {
+      "path": "1.16/snapshots/20w10a",
+      "info": "versions/list/snapshot/20w10a.txt",
+      "generatorType": 2
+    },
+    "20w11a": {
+      "path": "1.16/snapshots/20w11a",
+      "info": "versions/list/snapshot/20w11a.txt",
+      "generatorType": 2
+    },
+    "20w12a": {
+      "path": "1.16/snapshots/20w12a",
+      "info": "versions/list/snapshot/20w12a.txt",
+      "generatorType": 2
+    },
+    "20w13a": {
+      "path": "1.16/snapshots/20w13a",
+      "info": "versions/list/snapshot/20w13a.txt",
+      "generatorType": 2
+    },
+    "20w13b": {
+      "path": "1.16/snapshots/20w13b",
+      "info": "versions/list/snapshot/20w13b.txt",
+      "generatorType": 2
+    },
+    "20w14a": {
+      "path": "1.16/snapshots/20w14a",
+      "info": "versions/list/snapshot/20w14a.txt",
+      "generatorType": 2
+    },
+    "20w15a": {
+      "path": "1.16/snapshots/20w15a",
+      "info": "versions/list/snapshot/20w15a.txt",
+      "generatorType": 2
+    },
+    "20w16a": {
+      "path": "1.16/snapshots/20w16a",
+      "info": "versions/list/snapshot/20w16a.txt",
+      "generatorType": 2
+    },
+    "1_14_combat-0": {
+      "path": "special/snapshots/1_14_combat-0",
+      "info": "versions/list/release/1.13.1.txt",
+      "generatorType": 2
+    },
+    "1_14_combat-212796": {
+      "path": "special/snapshots/1_14_combat-212796",
+      "generatorType": 2
+    },
+    "1_14_combat-3": {
+      "path": "special/snapshots/1_14_combat-3",
+      "generatorType": 2
+    },
+    "1_15_combat-1": {
+      "path": "special/snapshots/1_15_combat-1",
+      "generatorType": 2
+    },
+    "1_15_combat-6": {
+      "path": "special/snapshots/1_15_combat-6",
+      "generatorType": 2
+    },
+    "20w14a infinite": {
+      "path": "special/snapshots/20w14a infinite",
+      "info": "versions/list/snapshots/20w14a infinite.txt",
+      "generatorType": 2
+    },
+    "3dshareware": {
+      "path": "special/snapshots/3dshareware",
+      "generatorType": 2
+    }
+  },
+  "1.13": {
+    "snapshots": [
+      "18w01a",
+      "18w02a",
+      "18w03a",
+      "18w03b",
+      "18w05a",
+      "18w06a",
+      "18w07a",
+      "18w07b",
+      "18w07c",
+      "18w08a",
+      "18w08b",
+      "18w09a",
+      "18w10a",
+      "18w10b",
+      "18w10c",
+      "18w10d",
+      "18w14a",
+      "18w15a",
+      "18w16a",
+      "18w19a",
+      "18w20a",
+      "18w20b",
+      "18w20c",
+      "18w21a",
+      "18w21b",
+      "18w22b",
+      "18w22c",
+      "18w30a",
+      "18w30b",
+      "18w32a"
+    ],
+    "pre-releases": [
+      "1.13.0-pre1",
+      "1.13.0-pre10",
+      "1.13.0-pre2",
+      "1.13.0-pre3",
+      "1.13.0-pre4",
+      "1.13.0-pre5",
+      "1.13.0-pre6",
+      "1.13.0-pre7",
+      "1.13.0-pre8",
+      "1.13.0-pre9",
+      "1.13.1-pre1",
+      "1.13.1-pre2",
+      "1.13.2-pre1",
+      "1.13.2-pre2"
+    ],
+    "releases": [
+      "1.13.0",
+      "1.13.1",
+      "1.13.2"
+    ]
+  },
+  "1.14": {
+    "snapshots": [
+      "18w43a",
+      "18w43b",
+      "18w43c",
+      "18w44a",
+      "18w45a",
+      "18w46a",
+      "18w47a",
+      "18w47b",
+      "18w48a",
+      "18w48b",
+      "18w49a",
+      "18w50a",
+      "19w03b",
+      "19w03c",
+      "19w04a",
+      "19w05a",
+      "19w06a",
+      "19w07a",
+      "19w08b",
+      "19w09a",
+      "19w11a",
+      "19w11b",
+      "19w12a",
+      "19w12b",
+      "19w13a",
+      "19w13b",
+      "19w14a",
+      "19w14b"
+    ],
+    "pre-releases": [
+      "1.14.0-pre1",
+      "1.14.0-pre2",
+      "1.14.0-pre4",
+      "1.14.0-pre5",
+      "1.14.1-pre1",
+      "1.14.1-pre2",
+      "1.14.2-pre2",
+      "1.14.2-pre3",
+      "1.14.2-pre4",
+      "1.14.3-pre1",
+      "1.14.3-pre2",
+      "1.14.3-pre3",
+      "1.14.4-pre1",
+      "1.14.4-pre2",
+      "1.14.4-pre3",
+      "1.14.4-pre4",
+      "1.14.4-pre5",
+      "1.14.4-pre6",
+      "1.14.4-pre7"
+    ],
+    "releases": [
+      "1.14.0",
+      "1.14.1",
+      "1.14.2",
+      "1.14.3",
+      "1.14.4"
+    ]
+  },
+  "1.15": {
+    "snapshots": [
+      "19w34a",
+      "19w35a",
+      "19w36a",
+      "19w37a",
+      "19w38a",
+      "19w38b",
+      "19w39a",
+      "19w40a",
+      "19w41a",
+      "19w42a",
+      "19w44a",
+      "19w45a",
+      "19w45b",
+      "19w46a",
+      "19w46b"
+    ],
+    "pre-releases": [
+      "1.15.0-pre1",
+      "1.15.0-pre2",
+      "1.15.0-pre3",
+      "1.15.0-pre4",
+      "1.15.0-pre5",
+      "1.15.0-pre6",
+      "1.15.0-pre7",
+      "1.15.1-pre1",
+      "1.15.2-pre1",
+      "1.15.2-pre2"
+    ],
+    "releases": [
+      "1.15.0",
+      "1.15.1",
+      "1.15.2"
+    ]
+  },
+  "1.16": {
+    "snapshots": [
+      "20w06a",
+      "20w07a",
+      "20w08a",
+      "20w09a",
+      "20w10a",
+      "20w11a",
+      "20w12a",
+      "20w13a",
+      "20w13b",
+      "20w14a",
+      "20w15a",
+      "20w16a"
+    ],
+    "pre-releases": [],
+    "releases": []
+  },
+  "special": {
+    "snapshots": [
+      "1_14_combat-0",
+      "1_14_combat-212796",
+      "1_14_combat-3",
+      "1_15_combat-1",
+      "1_15_combat-6",
+      "20w14a infinite",
+      "3dshareware"
+    ],
+    "pre-releases": [],
+    "releases": []
+  },
+  "registries": [
+  	"activity",
+	"attributes",
+	"biome",
+	"biome_source_type",
+	"block",
+	"block_entity_type",
+	"block_placer_type",
+	"block_state_provider_type",
+	"carver",
+	"chunk_generator_type",
+	"chunk_status",
+	"command",
+	"custom_stats",
+	"decorator",
+	"dimension_type",
+	"enchantment",
+	"entity_type",
+	"feature",
+	"fluid",
+	"foliage_placer_type",
+	"item",
+	"memory_module_type",
+	"menu",
+	"mob_effect",
+	"motive",
+	"particle_type",
+	"point_of_interest_type",
+	"pos_rule_test",
+	"potion",
+	"recipe_serializer",
+	"recipe_type",
+	"rule_test",
+	"schedule",
+	"sensor_type",
+	"sound_event",
+	"stat_type",
+	"structure_feature",
+	"structure_piece",
+	"structure_pool_element",
+	"structure_processor",
+	"surface_builder",
+	"tree_decorator_type",
+	"trunk_placer_type",
+	"type",
+	"villager_profession",
+	"villager_type"
+  ]
+}
