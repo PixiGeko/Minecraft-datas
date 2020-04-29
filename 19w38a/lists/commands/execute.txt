@@ -9,7 +9,9 @@ execute if blocks <start> <end> <destination> all
 execute if blocks <start> <end> <destination> masked
 execute if data block <sourcePos> <path>
 execute if data entity <source> <path>
+execute if data storage <source> <path>
 execute if entity <entities>
+execute if predicate <predicate>
 execute if score <target> <targetObjective> < <source> <sourceObjective>
 execute if score <target> <targetObjective> <= <source> <sourceObjective>
 execute if score <target> <targetObjective> = <source> <sourceObjective>
@@ -37,6 +39,12 @@ execute store result entity <target> <path> int <scale>
 execute store result entity <target> <path> long <scale>
 execute store result entity <target> <path> short <scale>
 execute store result score <targets> <objective>
+execute store result storage <target> <path> byte <scale>
+execute store result storage <target> <path> double <scale>
+execute store result storage <target> <path> float <scale>
+execute store result storage <target> <path> int <scale>
+execute store result storage <target> <path> long <scale>
+execute store result storage <target> <path> short <scale>
 execute store success block <targetPos> <path> byte <scale>
 execute store success block <targetPos> <path> double <scale>
 execute store success block <targetPos> <path> float <scale>
@@ -52,12 +60,20 @@ execute store success entity <target> <path> int <scale>
 execute store success entity <target> <path> long <scale>
 execute store success entity <target> <path> short <scale>
 execute store success score <targets> <objective>
+execute store success storage <target> <path> byte <scale>
+execute store success storage <target> <path> double <scale>
+execute store success storage <target> <path> float <scale>
+execute store success storage <target> <path> int <scale>
+execute store success storage <target> <path> long <scale>
+execute store success storage <target> <path> short <scale>
 execute unless block <pos> <block>
 execute unless blocks <start> <end> <destination> all
 execute unless blocks <start> <end> <destination> masked
 execute unless data block <sourcePos> <path>
 execute unless data entity <source> <path>
+execute unless data storage <source> <path>
 execute unless entity <entities>
+execute unless predicate <predicate>
 execute unless score <target> <targetObjective> < <source> <sourceObjective>
 execute unless score <target> <targetObjective> <= <source> <sourceObjective>
 execute unless score <target> <targetObjective> = <source> <sourceObjective>
