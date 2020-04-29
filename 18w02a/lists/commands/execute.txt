@@ -1,6 +1,9 @@
 execute align <axes>
+execute anchored <anchor>
 execute as <targets>
 execute at <targets>
+execute facing entity <targets> <anchor>
+execute facing <pos>
 execute if block <pos> <block>
 execute if blocks <start> <end> <destination> all
 execute if blocks <start> <end> <destination> masked
@@ -10,7 +13,14 @@ execute if score <target> <targetObjective> <= <source> <sourceObjective>
 execute if score <target> <targetObjective> = <source> <sourceObjective>
 execute if score <target> <targetObjective> > <source> <sourceObjective>
 execute if score <target> <targetObjective> >= <source> <sourceObjective>
-execute offset <pos>
+execute if score <target> <targetObjective> matches <range>
+execute in overworld
+execute in the_end
+execute in the_nether
+execute positioned as <entities>
+execute positioned <pos>
+execute rotated as <entities>
+execute rotated <rot>
 execute run
 execute store result block <pos> <path> byte <scale>
 execute store result block <pos> <path> double <scale>
@@ -47,3 +57,4 @@ execute unless score <target> <targetObjective> <= <source> <sourceObjective>
 execute unless score <target> <targetObjective> = <source> <sourceObjective>
 execute unless score <target> <targetObjective> > <source> <sourceObjective>
 execute unless score <target> <targetObjective> >= <source> <sourceObjective>
+execute unless score <target> <targetObjective> matches <range>
