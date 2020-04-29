@@ -24,8 +24,10 @@ minecraft:blocks/attached_pumpkin_stem
 minecraft:blocks/azure_bluet
 minecraft:blocks/bamboo
 minecraft:blocks/bamboo_sapling
+minecraft:blocks/barrel
 minecraft:blocks/beacon
 minecraft:blocks/beetroots
+minecraft:blocks/bell
 minecraft:blocks/birch_button
 minecraft:blocks/birch_door
 minecraft:blocks/birch_fence
@@ -51,6 +53,7 @@ minecraft:blocks/black_stained_glass
 minecraft:blocks/black_stained_glass_pane
 minecraft:blocks/black_terracotta
 minecraft:blocks/black_wool
+minecraft:blocks/blast_furnace
 minecraft:blocks/blue_banner
 minecraft:blocks/blue_bed
 minecraft:blocks/blue_carpet
@@ -93,6 +96,7 @@ minecraft:blocks/bubble_coral_fan
 minecraft:blocks/cactus
 minecraft:blocks/cake
 minecraft:blocks/carrots
+minecraft:blocks/cartography_table
 minecraft:blocks/carved_pumpkin
 minecraft:blocks/cauldron
 minecraft:blocks/chest
@@ -196,6 +200,7 @@ minecraft:blocks/fern
 minecraft:blocks/fire_coral
 minecraft:blocks/fire_coral_block
 minecraft:blocks/fire_coral_fan
+minecraft:blocks/fletching_table
 minecraft:blocks/flower_pot
 minecraft:blocks/frosted_ice
 minecraft:blocks/furnace
@@ -234,6 +239,7 @@ minecraft:blocks/green_stained_glass
 minecraft:blocks/green_stained_glass_pane
 minecraft:blocks/green_terracotta
 minecraft:blocks/green_wool
+minecraft:blocks/grindstone
 minecraft:blocks/hay_block
 minecraft:blocks/heavy_weighted_pressure_plate
 minecraft:blocks/hopper
@@ -274,6 +280,7 @@ minecraft:blocks/ladder
 minecraft:blocks/lapis_block
 minecraft:blocks/lapis_ore
 minecraft:blocks/large_fern
+minecraft:blocks/lectern
 minecraft:blocks/lever
 minecraft:blocks/light_blue_banner
 minecraft:blocks/light_blue_bed
@@ -501,6 +508,8 @@ minecraft:blocks/sea_pickle
 minecraft:blocks/shulker_box
 minecraft:blocks/skeleton_skull
 minecraft:blocks/slime_block
+minecraft:blocks/smithing_table
+minecraft:blocks/smoker
 minecraft:blocks/smooth_quartz
 minecraft:blocks/smooth_quartz_slab
 minecraft:blocks/smooth_quartz_stairs
@@ -533,6 +542,7 @@ minecraft:blocks/spruce_trapdoor
 minecraft:blocks/spruce_wood
 minecraft:blocks/sticky_piston
 minecraft:blocks/stone
+minecraft:blocks/stonecutter
 minecraft:blocks/stone_bricks
 minecraft:blocks/stone_brick_slab
 minecraft:blocks/stone_brick_stairs
@@ -616,8 +626,11 @@ minecraft:chests/underwater_ruin_big
 minecraft:chests/underwater_ruin_small
 minecraft:chests/village_blacksmith
 minecraft:chests/woodland_mansion
+minecraft:entities/armor_stand
 minecraft:entities/bat
 minecraft:entities/blaze
+minecraft:entities/cat
+minecraft:entities/cat_morning_gift
 minecraft:entities/cave_spider
 minecraft:entities/chicken
 minecraft:entities/cod
@@ -647,6 +660,7 @@ minecraft:entities/panda
 minecraft:entities/parrot
 minecraft:entities/phantom
 minecraft:entities/pig
+minecraft:entities/player
 minecraft:entities/polar_bear
 minecraft:entities/pufferfish
 minecraft:entities/rabbit
@@ -683,6 +697,7 @@ minecraft:entities/vex
 minecraft:entities/villager
 minecraft:entities/vindicator
 minecraft:entities/witch
+minecraft:entities/wither
 minecraft:entities/wither_skeleton
 minecraft:entities/wolf
 minecraft:entities/zombie
