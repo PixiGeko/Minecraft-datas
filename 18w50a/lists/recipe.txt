@@ -20,7 +20,9 @@ minecraft:armor_dye
 minecraft:armor_stand
 minecraft:arrow
 minecraft:baked_potato
+minecraft:baked_potato_from_smoking
 minecraft:banner_duplicate
+minecraft:barrel
 minecraft:beacon
 minecraft:beetroot_soup
 minecraft:birch_boat
@@ -49,6 +51,7 @@ minecraft:black_stained_glass_pane
 minecraft:black_stained_glass_pane_from_glass_pane
 minecraft:black_terracotta
 minecraft:black_wool
+minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:blue_banner
 minecraft:blue_bed
@@ -108,6 +111,7 @@ minecraft:clay
 minecraft:clock
 minecraft:coal
 minecraft:coal_block
+minecraft:coal_from_blasting
 minecraft:coal_from_smelting
 minecraft:coarse_dirt
 minecraft:cobblestone_slab
@@ -117,12 +121,19 @@ minecraft:comparator
 minecraft:compass
 minecraft:conduit
 minecraft:cooked_beef
+minecraft:cooked_beef_from_smoking
 minecraft:cooked_chicken
+minecraft:cooked_chicken_from_smoking
 minecraft:cooked_cod
+minecraft:cooked_cod_from_smoking
 minecraft:cooked_mutton
+minecraft:cooked_mutton_from_smoking
 minecraft:cooked_porkchop
+minecraft:cooked_porkchop_from_smoking
 minecraft:cooked_rabbit
+minecraft:cooked_rabbit_from_smoking
 minecraft:cooked_salmon
+minecraft:cooked_salmon_from_smoking
 minecraft:cookie
 minecraft:cracked_stone_bricks
 minecraft:crafting_table
@@ -165,6 +176,7 @@ minecraft:diamond_axe
 minecraft:diamond_block
 minecraft:diamond_boots
 minecraft:diamond_chestplate
+minecraft:diamond_from_blasting
 minecraft:diamond_from_smelting
 minecraft:diamond_helmet
 minecraft:diamond_hoe
@@ -180,9 +192,11 @@ minecraft:dispenser
 minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:dried_kelp_from_smelting
+minecraft:dried_kelp_from_smoking
 minecraft:dropper
 minecraft:emerald
 minecraft:emerald_block
+minecraft:emerald_from_blasting
 minecraft:emerald_from_smelting
 minecraft:enchanting_table
 minecraft:ender_chest
@@ -222,9 +236,11 @@ minecraft:golden_shovel
 minecraft:golden_sword
 minecraft:gold_block
 minecraft:gold_ingot
+minecraft:gold_ingot_from_blasting
 minecraft:gold_ingot_from_gold_block
 minecraft:gold_ingot_from_nuggets
 minecraft:gold_nugget
+minecraft:gold_nugget_from_blasting
 minecraft:gold_nugget_from_smelting
 minecraft:granite
 minecraft:granite_slab
@@ -270,10 +286,12 @@ minecraft:iron_door
 minecraft:iron_helmet
 minecraft:iron_hoe
 minecraft:iron_ingot
+minecraft:iron_ingot_from_blasting
 minecraft:iron_ingot_from_iron_block
 minecraft:iron_ingot_from_nuggets
 minecraft:iron_leggings
 minecraft:iron_nugget
+minecraft:iron_nugget_from_blasting
 minecraft:iron_nugget_from_smelting
 minecraft:iron_pickaxe
 minecraft:iron_shovel
@@ -297,6 +315,7 @@ minecraft:jungle_wood
 minecraft:ladder
 minecraft:lantern
 minecraft:lapis_block
+minecraft:lapis_from_blasting
 minecraft:lapis_from_smelting
 minecraft:lapis_lazuli
 minecraft:lead
@@ -481,6 +500,7 @@ minecraft:purpur_slab
 minecraft:purpur_stairs
 minecraft:quartz
 minecraft:quartz_block
+minecraft:quartz_from_blasting
 minecraft:quartz_pillar
 minecraft:quartz_slab
 minecraft:quartz_stairs
@@ -489,6 +509,7 @@ minecraft:rabbit_stew_from_red_mushroom
 minecraft:rail
 minecraft:redstone
 minecraft:redstone_block
+minecraft:redstone_from_blasting
 minecraft:redstone_from_smelting
 minecraft:redstone_lamp
 minecraft:redstone_torch
@@ -531,6 +552,7 @@ minecraft:shulker_box_coloring
 minecraft:skull_banner_pattern
 minecraft:slime_ball
 minecraft:slime_block
+minecraft:smoker
 minecraft:smooth_quartz
 minecraft:smooth_quartz_slab
 minecraft:smooth_quartz_stairs
