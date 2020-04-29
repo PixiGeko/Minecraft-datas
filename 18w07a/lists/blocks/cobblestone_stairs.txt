@@ -1,0 +1,46 @@
+1) Properties
+	facing -> north, east, south, west
+	half -> top, bottom
+	shape -> straight, inner_left, inner_right, outer_left, outer_right
+
+2) States
+	id: 3059 -> facing: north, half: top, shape: straight
+	id: 3060 -> facing: north, half: top, shape: inner_left
+	id: 3061 -> facing: north, half: top, shape: inner_right
+	id: 3062 -> facing: north, half: top, shape: outer_left
+	id: 3063 -> facing: north, half: top, shape: outer_right
+	id: 3064 -> facing: north, half: bottom, shape: straight
+	id: 3065 -> facing: north, half: bottom, shape: inner_left
+	id: 3066 -> facing: north, half: bottom, shape: inner_right
+	id: 3067 -> facing: north, half: bottom, shape: outer_left
+	id: 3068 -> facing: north, half: bottom, shape: outer_right
+	id: 3069 -> facing: east, half: top, shape: straight
+	id: 3070 -> facing: east, half: top, shape: inner_left
+	id: 3071 -> facing: east, half: top, shape: inner_right
+	id: 3072 -> facing: east, half: top, shape: outer_left
+	id: 3073 -> facing: east, half: top, shape: outer_right
+	id: 3074 -> facing: east, half: bottom, shape: straight
+	id: 3075 -> facing: east, half: bottom, shape: inner_left
+	id: 3076 -> facing: east, half: bottom, shape: inner_right
+	id: 3077 -> facing: east, half: bottom, shape: outer_left
+	id: 3078 -> facing: east, half: bottom, shape: outer_right
+	id: 3079 -> facing: south, half: top, shape: straight
+	id: 3080 -> facing: south, half: top, shape: inner_left
+	id: 3081 -> facing: south, half: top, shape: inner_right
+	id: 3082 -> facing: south, half: top, shape: outer_left
+	id: 3083 -> facing: south, half: top, shape: outer_right
+	id: 3084 -> facing: south, half: bottom, shape: straight
+	id: 3085 -> facing: south, half: bottom, shape: inner_left
+	id: 3086 -> facing: south, half: bottom, shape: inner_right
+	id: 3087 -> facing: south, half: bottom, shape: outer_left
+	id: 3088 -> facing: south, half: bottom, shape: outer_right
+	id: 3089 -> facing: west, half: top, shape: straight
+	id: 3090 -> facing: west, half: top, shape: inner_left
+	id: 3091 -> facing: west, half: top, shape: inner_right
+	id: 3092 -> facing: west, half: top, shape: outer_left
+	id: 3093 -> facing: west, half: top, shape: outer_right
+	id: 3094 -> facing: west, half: bottom, shape: straight
+	id: 3095 -> facing: west, half: bottom, shape: inner_left
+	id: 3096 -> facing: west, half: bottom, shape: inner_right
+	id: 3097 -> facing: west, half: bottom, shape: outer_left
+	id: 3098 -> facing: west, half: bottom, shape: outer_right

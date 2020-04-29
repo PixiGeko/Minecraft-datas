@@ -1,0 +1,30 @@
+1) Properties
+	face -> floor, wall, ceiling
+	facing -> north, east, south, west
+	powered -> true, false
+
+2) States
+	id: 4597 -> face: floor, facing: north, powered: true
+	id: 4598 -> face: floor, facing: north, powered: false
+	id: 4599 -> face: floor, facing: east, powered: true
+	id: 4600 -> face: floor, facing: east, powered: false
+	id: 4601 -> face: floor, facing: south, powered: true
+	id: 4602 -> face: floor, facing: south, powered: false
+	id: 4603 -> face: floor, facing: west, powered: true
+	id: 4604 -> face: floor, facing: west, powered: false
+	id: 4605 -> face: wall, facing: north, powered: true
+	id: 4606 -> face: wall, facing: north, powered: false
+	id: 4607 -> face: wall, facing: east, powered: true
+	id: 4608 -> face: wall, facing: east, powered: false
+	id: 4609 -> face: wall, facing: south, powered: true
+	id: 4610 -> face: wall, facing: south, powered: false
+	id: 4611 -> face: wall, facing: west, powered: true
+	id: 4612 -> face: wall, facing: west, powered: false
+	id: 4613 -> face: ceiling, facing: north, powered: true
+	id: 4614 -> face: ceiling, facing: north, powered: false
+	id: 4615 -> face: ceiling, facing: east, powered: true
+	id: 4616 -> face: ceiling, facing: east, powered: false
+	id: 4617 -> face: ceiling, facing: south, powered: true
+	id: 4618 -> face: ceiling, facing: south, powered: false
+	id: 4619 -> face: ceiling, facing: west, powered: true
+	id: 4620 -> face: ceiling, facing: west, powered: false
