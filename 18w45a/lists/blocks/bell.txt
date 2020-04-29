@@ -1,0 +1,17 @@
+1) Properties
+	face -> floor, wall, ceiling
+	facing -> north, south, west, east
+
+2) States
+	id: 10845 -> face: floor, facing: north
+	id: 10846 -> face: floor, facing: south
+	id: 10847 -> face: floor, facing: west
+	id: 10848 -> face: floor, facing: east
+	id: 10849 -> face: wall, facing: north
+	id: 10850 -> face: wall, facing: south
+	id: 10851 -> face: wall, facing: west
+	id: 10852 -> face: wall, facing: east
+	id: 10853 -> face: ceiling, facing: north
+	id: 10854 -> face: ceiling, facing: south
+	id: 10855 -> face: ceiling, facing: west
+	id: 10856 -> face: ceiling, facing: east
