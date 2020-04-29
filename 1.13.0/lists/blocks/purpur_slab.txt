@@ -1,0 +1,11 @@
+1) Properties
+	type -> top, bottom, double
+	waterlogged -> true, false
+
+2) States
+	id: 7347 -> type: top, waterlogged: true
+	id: 7348 -> type: top, waterlogged: false
+	id: 7349 -> type: bottom, waterlogged: true
+	id: 7350 -> type: bottom, waterlogged: false
+	id: 7351 -> type: double, waterlogged: true
+	id: 7352 -> type: double, waterlogged: false
