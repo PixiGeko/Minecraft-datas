@@ -1,0 +1,38 @@
+1) Properties
+	attachment -> floor, ceiling, single_wall, double_wall
+	facing -> north, south, west, east
+	powered -> true, false
+
+2) States
+	id: 11198 -> attachment: floor, facing: north, powered: true
+	id: 11199 -> attachment: floor, facing: north, powered: false
+	id: 11200 -> attachment: floor, facing: south, powered: true
+	id: 11201 -> attachment: floor, facing: south, powered: false
+	id: 11202 -> attachment: floor, facing: west, powered: true
+	id: 11203 -> attachment: floor, facing: west, powered: false
+	id: 11204 -> attachment: floor, facing: east, powered: true
+	id: 11205 -> attachment: floor, facing: east, powered: false
+	id: 11206 -> attachment: ceiling, facing: north, powered: true
+	id: 11207 -> attachment: ceiling, facing: north, powered: false
+	id: 11208 -> attachment: ceiling, facing: south, powered: true
+	id: 11209 -> attachment: ceiling, facing: south, powered: false
+	id: 11210 -> attachment: ceiling, facing: west, powered: true
+	id: 11211 -> attachment: ceiling, facing: west, powered: false
+	id: 11212 -> attachment: ceiling, facing: east, powered: true
+	id: 11213 -> attachment: ceiling, facing: east, powered: false
+	id: 11214 -> attachment: single_wall, facing: north, powered: true
+	id: 11215 -> attachment: single_wall, facing: north, powered: false
+	id: 11216 -> attachment: single_wall, facing: south, powered: true
+	id: 11217 -> attachment: single_wall, facing: south, powered: false
+	id: 11218 -> attachment: single_wall, facing: west, powered: true
+	id: 11219 -> attachment: single_wall, facing: west, powered: false
+	id: 11220 -> attachment: single_wall, facing: east, powered: true
+	id: 11221 -> attachment: single_wall, facing: east, powered: false
+	id: 11222 -> attachment: double_wall, facing: north, powered: true
+	id: 11223 -> attachment: double_wall, facing: north, powered: false
+	id: 11224 -> attachment: double_wall, facing: south, powered: true
+	id: 11225 -> attachment: double_wall, facing: south, powered: false
+	id: 11226 -> attachment: double_wall, facing: west, powered: true
+	id: 11227 -> attachment: double_wall, facing: west, powered: false
+	id: 11228 -> attachment: double_wall, facing: east, powered: true
+	id: 11229 -> attachment: double_wall, facing: east, powered: false
