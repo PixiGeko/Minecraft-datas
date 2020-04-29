@@ -1,6 +1,8 @@
 # General informations
 Author : PixiGeko </br>
-Original idea by Awhikax, from [DataWorld Discord server](https://discord.gg/3gXea6q ).
+Original idea by Awhikax, from [DataWorld Discord server](https://discord.gg/3gXea6q).
+
+You can find the latest version separately in the [latest branch](https://github.com/PixiGeko/Minecraft-datas/tree/latest).
 
 # How to extract files
 1. Download server.jar of the desired version (from [official site]([https://www.minecraft.net/](https://www.minecraft.net/)) to avoid malware). </br>You can also find it in this [github repository](https://github.com/PixiGeko/Minecraft-datas/tree/master/versions/list)
