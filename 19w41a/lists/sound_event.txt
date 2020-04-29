@@ -93,6 +93,12 @@ minecraft:block.gravel.hit
 minecraft:block.gravel.place
 minecraft:block.gravel.step
 minecraft:block.grindstone.use
+minecraft:block.honey_block.break
+minecraft:block.honey_block.fall
+minecraft:block.honey_block.hit
+minecraft:block.honey_block.place
+minecraft:block.honey_block.slide
+minecraft:block.honey_block.step
 minecraft:block.iron_door.close
 minecraft:block.iron_door.open
 minecraft:block.iron_trapdoor.close
@@ -400,8 +406,10 @@ minecraft:entity.illusioner.mirror_move
 minecraft:entity.illusioner.prepare_blindness
 minecraft:entity.illusioner.prepare_mirror
 minecraft:entity.iron_golem.attack
+minecraft:entity.iron_golem.damage
 minecraft:entity.iron_golem.death
 minecraft:entity.iron_golem.hurt
+minecraft:entity.iron_golem.repair
 minecraft:entity.iron_golem.step
 minecraft:entity.item.break
 minecraft:entity.item.pickup
@@ -476,7 +484,6 @@ minecraft:entity.parrot.imitate.guardian
 minecraft:entity.parrot.imitate.husk
 minecraft:entity.parrot.imitate.illusioner
 minecraft:entity.parrot.imitate.magma_cube
-minecraft:entity.parrot.imitate.panda
 minecraft:entity.parrot.imitate.phantom
 minecraft:entity.parrot.imitate.pillager
 minecraft:entity.parrot.imitate.polar_bear
