@@ -133,7 +133,7 @@ minecraft:blocks/crimson_button
 minecraft:blocks/crimson_door
 minecraft:blocks/crimson_fence
 minecraft:blocks/crimson_fence_gate
-minecraft:blocks/crimson_fungi
+minecraft:blocks/crimson_fungus
 minecraft:blocks/crimson_nylium
 minecraft:blocks/crimson_planks
 minecraft:blocks/crimson_pressure_plate
@@ -143,6 +143,7 @@ minecraft:blocks/crimson_slab
 minecraft:blocks/crimson_stairs
 minecraft:blocks/crimson_stem
 minecraft:blocks/crimson_trapdoor
+minecraft:blocks/crying_obsidian
 minecraft:blocks/cut_red_sandstone
 minecraft:blocks/cut_red_sandstone_slab
 minecraft:blocks/cut_sandstone
@@ -448,6 +449,8 @@ minecraft:blocks/potted_blue_orchid
 minecraft:blocks/potted_brown_mushroom
 minecraft:blocks/potted_cactus
 minecraft:blocks/potted_cornflower
+minecraft:blocks/potted_crimson_fungus
+minecraft:blocks/potted_crimson_roots
 minecraft:blocks/potted_dandelion
 minecraft:blocks/potted_dark_oak_sapling
 minecraft:blocks/potted_dead_bush
@@ -462,6 +465,8 @@ minecraft:blocks/potted_poppy
 minecraft:blocks/potted_red_mushroom
 minecraft:blocks/potted_red_tulip
 minecraft:blocks/potted_spruce_sapling
+minecraft:blocks/potted_warped_fungus
+minecraft:blocks/potted_warped_roots
 minecraft:blocks/potted_white_tulip
 minecraft:blocks/potted_wither_rose
 minecraft:blocks/powered_rail
@@ -602,6 +607,7 @@ minecraft:blocks/sunflower
 minecraft:blocks/sweet_berry_bush
 minecraft:blocks/tall_grass
 minecraft:blocks/tall_seagrass
+minecraft:blocks/target
 minecraft:blocks/terracotta
 minecraft:blocks/tnt
 minecraft:blocks/torch
@@ -617,7 +623,7 @@ minecraft:blocks/warped_button
 minecraft:blocks/warped_door
 minecraft:blocks/warped_fence
 minecraft:blocks/warped_fence_gate
-minecraft:blocks/warped_fungi
+minecraft:blocks/warped_fungus
 minecraft:blocks/warped_nylium
 minecraft:blocks/warped_planks
 minecraft:blocks/warped_pressure_plate
@@ -777,8 +783,8 @@ minecraft:entities/wither_skeleton
 minecraft:entities/wolf
 minecraft:entities/zombie
 minecraft:entities/zombie_horse
-minecraft:entities/zombie_pigman
 minecraft:entities/zombie_villager
+minecraft:entities/zombified_piglin
 minecraft:gameplay/cat_morning_gift
 minecraft:gameplay/fishing/fish
 minecraft:gameplay/fishing/junk
