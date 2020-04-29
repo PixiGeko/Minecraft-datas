@@ -1,0 +1,23 @@
+team add <team> <displayName>
+team empty <team>
+team join <team> <members>
+team leave <members>
+team list <team>
+team option <team> collisionRule always
+team option <team> collisionRule never
+team option <team> collisionRule pushOtherTeams
+team option <team> collisionRule pushOwnTeam
+team option <team> color <value>
+team option <team> deathMessageVisibility always
+team option <team> deathMessageVisibility hideForOtherTeams
+team option <team> deathMessageVisibility hideForOwnTeam
+team option <team> deathMessageVisibility never
+team option <team> friendlyfire <allowed>
+team option <team> nametagVisibility always
+team option <team> nametagVisibility hideForOtherTeams
+team option <team> nametagVisibility hideForOwnTeam
+team option <team> nametagVisibility never
+team option <team> prefix <prefix>
+team option <team> seeFriendlyInvisibles <allowed>
+team option <team> suffix <suffix>
+team remove <team>

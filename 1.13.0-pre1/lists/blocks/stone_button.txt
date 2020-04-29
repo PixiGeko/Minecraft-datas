@@ -1,0 +1,30 @@
+1) Properties
+	face -> floor, wall, ceiling
+	facing -> north, east, south, west
+	powered -> true, false
+
+2) States
+	id: 3373 -> face: floor, facing: north, powered: true
+	id: 3374 -> face: floor, facing: north, powered: false
+	id: 3375 -> face: floor, facing: east, powered: true
+	id: 3376 -> face: floor, facing: east, powered: false
+	id: 3377 -> face: floor, facing: south, powered: true
+	id: 3378 -> face: floor, facing: south, powered: false
+	id: 3379 -> face: floor, facing: west, powered: true
+	id: 3380 -> face: floor, facing: west, powered: false
+	id: 3381 -> face: wall, facing: north, powered: true
+	id: 3382 -> face: wall, facing: north, powered: false
+	id: 3383 -> face: wall, facing: east, powered: true
+	id: 3384 -> face: wall, facing: east, powered: false
+	id: 3385 -> face: wall, facing: south, powered: true
+	id: 3386 -> face: wall, facing: south, powered: false
+	id: 3387 -> face: wall, facing: west, powered: true
+	id: 3388 -> face: wall, facing: west, powered: false
+	id: 3389 -> face: ceiling, facing: north, powered: true
+	id: 3390 -> face: ceiling, facing: north, powered: false
+	id: 3391 -> face: ceiling, facing: east, powered: true
+	id: 3392 -> face: ceiling, facing: east, powered: false
+	id: 3393 -> face: ceiling, facing: south, powered: true
+	id: 3394 -> face: ceiling, facing: south, powered: false
+	id: 3395 -> face: ceiling, facing: west, powered: true
+	id: 3396 -> face: ceiling, facing: west, powered: false
