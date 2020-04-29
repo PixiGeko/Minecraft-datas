@@ -1,0 +1,39 @@
+1) Properties
+	facing -> north, south, west, east
+	in_wall -> true, false
+	open -> true, false
+	powered -> true, false
+
+2) States
+	id: 8544 -> facing: north, in_wall: true, open: true, powered: true
+	id: 8545 -> facing: north, in_wall: true, open: true, powered: false
+	id: 8546 -> facing: north, in_wall: true, open: false, powered: true
+	id: 8547 -> facing: north, in_wall: true, open: false, powered: false
+	id: 8548 -> facing: north, in_wall: false, open: true, powered: true
+	id: 8549 -> facing: north, in_wall: false, open: true, powered: false
+	id: 8550 -> facing: north, in_wall: false, open: false, powered: true
+	id: 8551 -> facing: north, in_wall: false, open: false, powered: false
+	id: 8552 -> facing: south, in_wall: true, open: true, powered: true
+	id: 8553 -> facing: south, in_wall: true, open: true, powered: false
+	id: 8554 -> facing: south, in_wall: true, open: false, powered: true
+	id: 8555 -> facing: south, in_wall: true, open: false, powered: false
+	id: 8556 -> facing: south, in_wall: false, open: true, powered: true
+	id: 8557 -> facing: south, in_wall: false, open: true, powered: false
+	id: 8558 -> facing: south, in_wall: false, open: false, powered: true
+	id: 8559 -> facing: south, in_wall: false, open: false, powered: false
+	id: 8560 -> facing: west, in_wall: true, open: true, powered: true
+	id: 8561 -> facing: west, in_wall: true, open: true, powered: false
+	id: 8562 -> facing: west, in_wall: true, open: false, powered: true
+	id: 8563 -> facing: west, in_wall: true, open: false, powered: false
+	id: 8564 -> facing: west, in_wall: false, open: true, powered: true
+	id: 8565 -> facing: west, in_wall: false, open: true, powered: false
+	id: 8566 -> facing: west, in_wall: false, open: false, powered: true
+	id: 8567 -> facing: west, in_wall: false, open: false, powered: false
+	id: 8568 -> facing: east, in_wall: true, open: true, powered: true
+	id: 8569 -> facing: east, in_wall: true, open: true, powered: false
+	id: 8570 -> facing: east, in_wall: true, open: false, powered: true
+	id: 8571 -> facing: east, in_wall: true, open: false, powered: false
+	id: 8572 -> facing: east, in_wall: false, open: true, powered: true
+	id: 8573 -> facing: east, in_wall: false, open: true, powered: false
+	id: 8574 -> facing: east, in_wall: false, open: false, powered: true
+	id: 8575 -> facing: east, in_wall: false, open: false, powered: false
