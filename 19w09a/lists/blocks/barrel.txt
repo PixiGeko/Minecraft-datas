@@ -1,0 +1,17 @@
+1) Properties
+	facing -> north, east, south, west, up, down
+	open -> true, false
+
+2) States
+	id: 11123 -> facing: north, open: true
+	id: 11124 -> facing: north, open: false
+	id: 11125 -> facing: east, open: true
+	id: 11126 -> facing: east, open: false
+	id: 11127 -> facing: south, open: true
+	id: 11128 -> facing: south, open: false
+	id: 11129 -> facing: west, open: true
+	id: 11130 -> facing: west, open: false
+	id: 11131 -> facing: up, open: true
+	id: 11132 -> facing: up, open: false
+	id: 11133 -> facing: down, open: true
+	id: 11134 -> facing: down, open: false
