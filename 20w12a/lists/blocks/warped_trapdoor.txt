@@ -1,0 +1,72 @@
+1) Properties
+	facing -> north, south, west, east
+	half -> top, bottom
+	open -> true, false
+	powered -> true, false
+	waterlogged -> true, false
+
+2) States
+	id: 15157 -> facing: north, half: top, open: true, powered: true, waterlogged: true
+	id: 15158 -> facing: north, half: top, open: true, powered: true, waterlogged: false
+	id: 15159 -> facing: north, half: top, open: true, powered: false, waterlogged: true
+	id: 15160 -> facing: north, half: top, open: true, powered: false, waterlogged: false
+	id: 15161 -> facing: north, half: top, open: false, powered: true, waterlogged: true
+	id: 15162 -> facing: north, half: top, open: false, powered: true, waterlogged: false
+	id: 15163 -> facing: north, half: top, open: false, powered: false, waterlogged: true
+	id: 15164 -> facing: north, half: top, open: false, powered: false, waterlogged: false
+	id: 15165 -> facing: north, half: bottom, open: true, powered: true, waterlogged: true
+	id: 15166 -> facing: north, half: bottom, open: true, powered: true, waterlogged: false
+	id: 15167 -> facing: north, half: bottom, open: true, powered: false, waterlogged: true
+	id: 15168 -> facing: north, half: bottom, open: true, powered: false, waterlogged: false
+	id: 15169 -> facing: north, half: bottom, open: false, powered: true, waterlogged: true
+	id: 15170 -> facing: north, half: bottom, open: false, powered: true, waterlogged: false
+	id: 15171 -> facing: north, half: bottom, open: false, powered: false, waterlogged: true
+	id: 15172 -> facing: north, half: bottom, open: false, powered: false, waterlogged: false
+	id: 15173 -> facing: south, half: top, open: true, powered: true, waterlogged: true
+	id: 15174 -> facing: south, half: top, open: true, powered: true, waterlogged: false
+	id: 15175 -> facing: south, half: top, open: true, powered: false, waterlogged: true
+	id: 15176 -> facing: south, half: top, open: true, powered: false, waterlogged: false
+	id: 15177 -> facing: south, half: top, open: false, powered: true, waterlogged: true
+	id: 15178 -> facing: south, half: top, open: false, powered: true, waterlogged: false
+	id: 15179 -> facing: south, half: top, open: false, powered: false, waterlogged: true
+	id: 15180 -> facing: south, half: top, open: false, powered: false, waterlogged: false
+	id: 15181 -> facing: south, half: bottom, open: true, powered: true, waterlogged: true
+	id: 15182 -> facing: south, half: bottom, open: true, powered: true, waterlogged: false
+	id: 15183 -> facing: south, half: bottom, open: true, powered: false, waterlogged: true
+	id: 15184 -> facing: south, half: bottom, open: true, powered: false, waterlogged: false
+	id: 15185 -> facing: south, half: bottom, open: false, powered: true, waterlogged: true
+	id: 15186 -> facing: south, half: bottom, open: false, powered: true, waterlogged: false
+	id: 15187 -> facing: south, half: bottom, open: false, powered: false, waterlogged: true
+	id: 15188 -> facing: south, half: bottom, open: false, powered: false, waterlogged: false
+	id: 15189 -> facing: west, half: top, open: true, powered: true, waterlogged: true
+	id: 15190 -> facing: west, half: top, open: true, powered: true, waterlogged: false
+	id: 15191 -> facing: west, half: top, open: true, powered: false, waterlogged: true
+	id: 15192 -> facing: west, half: top, open: true, powered: false, waterlogged: false
+	id: 15193 -> facing: west, half: top, open: false, powered: true, waterlogged: true
+	id: 15194 -> facing: west, half: top, open: false, powered: true, waterlogged: false
+	id: 15195 -> facing: west, half: top, open: false, powered: false, waterlogged: true
+	id: 15196 -> facing: west, half: top, open: false, powered: false, waterlogged: false
+	id: 15197 -> facing: west, half: bottom, open: true, powered: true, waterlogged: true
+	id: 15198 -> facing: west, half: bottom, open: true, powered: true, waterlogged: false
+	id: 15199 -> facing: west, half: bottom, open: true, powered: false, waterlogged: true
+	id: 15200 -> facing: west, half: bottom, open: true, powered: false, waterlogged: false
+	id: 15201 -> facing: west, half: bottom, open: false, powered: true, waterlogged: true
+	id: 15202 -> facing: west, half: bottom, open: false, powered: true, waterlogged: false
+	id: 15203 -> facing: west, half: bottom, open: false, powered: false, waterlogged: true
+	id: 15204 -> facing: west, half: bottom, open: false, powered: false, waterlogged: false
+	id: 15205 -> facing: east, half: top, open: true, powered: true, waterlogged: true
+	id: 15206 -> facing: east, half: top, open: true, powered: true, waterlogged: false
+	id: 15207 -> facing: east, half: top, open: true, powered: false, waterlogged: true
+	id: 15208 -> facing: east, half: top, open: true, powered: false, waterlogged: false
+	id: 15209 -> facing: east, half: top, open: false, powered: true, waterlogged: true
+	id: 15210 -> facing: east, half: top, open: false, powered: true, waterlogged: false
+	id: 15211 -> facing: east, half: top, open: false, powered: false, waterlogged: true
+	id: 15212 -> facing: east, half: top, open: false, powered: false, waterlogged: false
+	id: 15213 -> facing: east, half: bottom, open: true, powered: true, waterlogged: true
+	id: 15214 -> facing: east, half: bottom, open: true, powered: true, waterlogged: false
+	id: 15215 -> facing: east, half: bottom, open: true, powered: false, waterlogged: true
+	id: 15216 -> facing: east, half: bottom, open: true, powered: false, waterlogged: false
+	id: 15217 -> facing: east, half: bottom, open: false, powered: true, waterlogged: true
+	id: 15218 -> facing: east, half: bottom, open: false, powered: true, waterlogged: false
+	id: 15219 -> facing: east, half: bottom, open: false, powered: false, waterlogged: true
+	id: 15220 -> facing: east, half: bottom, open: false, powered: false, waterlogged: false
