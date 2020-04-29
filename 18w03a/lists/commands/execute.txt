@@ -17,9 +17,9 @@ execute if score <target> <targetObjective> matches <range>
 execute in overworld
 execute in the_end
 execute in the_nether
-execute positioned as <entities>
+execute positioned as <targets>
 execute positioned <pos>
-execute rotated as <entities>
+execute rotated as <targets>
 execute rotated <rot>
 execute run
 execute store result block <pos> <path> byte <scale>
