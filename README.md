@@ -37,6 +37,7 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 | biome.txt | Biome IDs | 
 | biome_source_type.txt | Biome types (buffets) | 
 | block.txt | Block IDs | 
+| blockstate.txt | Blockstates list | 
 | block_entity_type.txt | Block entities IDs | 
 | block_placer_type.txt |  |
 | block_state_provider_type.txt |  |
