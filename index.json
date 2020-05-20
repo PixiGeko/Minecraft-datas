@@ -1,5 +1,5 @@
 {
-  "latest": "20w20b",
+  "latest": "20w21a",
   "versions": {
     "1.13.0-pre1": {
       "path": "1.13/pre-releases/1.13.0-pre1",
@@ -750,6 +750,11 @@
       "path": "1.16/snapshots/20w20b",
       "info": "versions/lists/snapshots/20w20b.txt",
       "generatorType": 2
+    },
+    "20w21a": {
+      "path": "1.16/snapshots/20w21a",
+      "info": "versions/lists/snapshots/20w21a.txt",
+      "generatorType": 2
     }
   },
   "lists": {
@@ -922,7 +927,8 @@
         "20w18a",
         "20w19a",
         "20w20a",
-        "20w20b"
+        "20w20b",
+        "20w21a"
       ],
       "pre-releases": [],
       "releases": []
