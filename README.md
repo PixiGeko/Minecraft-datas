@@ -4,8 +4,10 @@ Original idea by Awhikax, from [DataWorld Discord server](https://discord.gg/3gX
 
 Master branch contains all versions since 18w01a, but you can find the latest version separately in the [latest branch](https://github.com/PixiGeko/Minecraft-datas/tree/latest).
 
+A data comparison between the two most recent versions is available [here](https://pixigeko.github.io/Minecraft-datas-versions-comparison/).
+
 # How to extract files
-1. Download server.jar of the desired version (from [official site]([https://www.minecraft.net/](https://www.minecraft.net/)) to avoid malware). </br>You can also find it in this [github repository](https://github.com/PixiGeko/Minecraft-datas/tree/master/versions/list)
+1. Download the **server.jar** of the desired version (from [official site]([https://www.minecraft.net/](https://www.minecraft.net/)) to avoid malware). You can also find it in this [github repository](https://github.com/PixiGeko/Minecraft-datas/tree/master/versions/list)
 2. Open a bash or command prompt in the directory where server.jar is located
 3. run `java -cp server.jar net.minecraft.data.Main <generator type (see below)>` (make sure you have Java installed)
 
