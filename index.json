@@ -1,5 +1,5 @@
 {
-  "latest": "20w22a",
+  "latest": "1.16.0-pre1",
   "versions": {
     "1.13.0-pre1": {
       "path": "1.13/pre-releases/1.13.0-pre1",
@@ -760,6 +760,11 @@
       "path": "1.16/snapshots/20w22a",
       "info": "versions/lists/snapshots/20w22a.txt",
       "generatorType": 2
+    },
+    "1.16.0-pre1": {
+      "path": "1.16/pre-releases/1.16.0-pre1",
+      "info": "versions/lists/pre-releases/1.16.0-pre1.txt",
+      "generatorType": 2
     }
   },
   "lists": {
@@ -936,7 +941,9 @@
         "20w21a",
         "20w22a"
       ],
-      "pre-releases": [],
+      "pre-releases": [
+        "1.16.0-pre1"
+      ],
       "releases": []
     }
   },
