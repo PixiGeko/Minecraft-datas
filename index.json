@@ -1,5 +1,5 @@
 {
-  "latest": "1.16.0-pre2",
+  "latest": "1.16.0-pre3",
   "versions": {
     "1.13.0-pre1": {
       "path": "1.13/pre-releases/1.13.0-pre1",
@@ -770,6 +770,11 @@
       "path": "1.16/pre-releases/1.16.0-pre2",
       "info": "versions/lists/pre-releases/1.16.0-pre2.txt",
       "generatorType": 2
+    },
+    "1.16.0-pre3": {
+      "path": "1.16/pre-releases/1.16.0-pre3",
+      "info": "versions/lists/pre-releases/1.16.0-pre3.txt",
+      "generatorType": 2
     }
   },
   "lists": {
@@ -948,7 +953,8 @@
       ],
       "pre-releases": [
         "1.16.0-pre1",
-        "1.16.0-pre2"
+        "1.16.0-pre2",
+        "1.16.0-pre3"
       ],
       "releases": []
     }
