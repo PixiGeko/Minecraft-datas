@@ -1,4 +1,4 @@
-recipe give <targets> *
-recipe give <targets> <recipe>
-recipe take <targets> *
-recipe take <targets> <recipe>
+recipe give <targets: entity> *
+recipe give <targets: entity> <recipe: resource_location>
+recipe take <targets: entity> *
+recipe take <targets: entity> <recipe: resource_location>

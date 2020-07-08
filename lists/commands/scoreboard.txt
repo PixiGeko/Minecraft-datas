@@ -1,15 +1,15 @@
-scoreboard objectives add <objective> <criteria> <displayName>
+scoreboard objectives add <objective: string> <criteria: objective_criteria> <displayName: component>
 scoreboard objectives list
-scoreboard objectives modify <objective> displayname <displayName>
-scoreboard objectives modify <objective> rendertype hearts
-scoreboard objectives modify <objective> rendertype integer
-scoreboard objectives remove <objective>
-scoreboard objectives setdisplay <slot> <objective>
-scoreboard players add <targets> <objective> <score>
-scoreboard players enable <targets> <objective>
-scoreboard players get <target> <objective>
-scoreboard players list <target>
-scoreboard players operation <targets> <targetObjective> <operation> <source> <sourceObjective>
-scoreboard players remove <targets> <objective> <score>
-scoreboard players reset <targets> <objective>
-scoreboard players set <targets> <objective> <score>
+scoreboard objectives modify <objective: objective> displayname <displayName: component>
+scoreboard objectives modify <objective: objective> rendertype hearts
+scoreboard objectives modify <objective: objective> rendertype integer
+scoreboard objectives remove <objective: objective>
+scoreboard objectives setdisplay <slot: scoreboard_slot> <objective: objective>
+scoreboard players add <targets: score_holder> <objective: objective> <score: integer>
+scoreboard players enable <targets: score_holder> <objective: objective>
+scoreboard players get <target: score_holder> <objective: objective>
+scoreboard players list <target: score_holder>
+scoreboard players operation <targets: score_holder> <targetObjective: objective> <operation: operation> <source: score_holder> <sourceObjective: objective>
+scoreboard players remove <targets: score_holder> <objective: objective> <score: integer>
+scoreboard players reset <targets: score_holder> <objective: objective>
+scoreboard players set <targets: score_holder> <objective: objective> <score: integer>
