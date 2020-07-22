@@ -6893,8 +6893,10 @@ ladder[facing=west,waterlogged=true]
 ladder[facing=west,waterlogged=false]
 ladder[facing=east,waterlogged=true]
 ladder[facing=east,waterlogged=false]
-lantern[hanging=true]
-lantern[hanging=false]
+lantern[hanging=true,waterlogged=true]
+lantern[hanging=true,waterlogged=false]
+lantern[hanging=false,waterlogged=true]
+lantern[hanging=false,waterlogged=false]
 lapis_block
 lapis_ore
 large_fern[half=upper]
@@ -15211,8 +15213,10 @@ soul_campfire[facing=east,lit=false,signal_fire=true,waterlogged=false]
 soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=true]
 soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]
 soul_fire
-soul_lantern[hanging=true]
-soul_lantern[hanging=false]
+soul_lantern[hanging=true,waterlogged=true]
+soul_lantern[hanging=true,waterlogged=false]
+soul_lantern[hanging=false,waterlogged=true]
+soul_lantern[hanging=false,waterlogged=false]
 soul_sand
 soul_soil
 soul_torch
