@@ -1,0 +1,45 @@
+{
+  "category": "beach",
+  "depth": 0.0,
+  "downfall": 0.4,
+  "fog_color": 12638463,
+  "precipitation": "rain",
+  "scale": 0.025,
+  "sky_color": 7907327,
+  "temperature": 0.8,
+  "water_color": 4159204,
+  "water_fog_color": 329011,
+  "carvers": [
+    "minecraft:canyon",
+    "minecraft:cave"
+  ],
+  "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
+    "creature": [
+      "minecraft:turtle"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ]
+  },
+  "structures": [
+    "minecraft:buried_treasure",
+    "minecraft:mineshaft",
+    "minecraft:ruined_portal",
+    "minecraft:shipwreck"
+  ],
+  "surface_builder": {
+    "top_material": "minecraft:sand",
+    "under_material": "minecraft:sand",
+    "underwater_material": "minecraft:gravel"
+  }
+}

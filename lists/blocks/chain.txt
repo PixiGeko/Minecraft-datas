@@ -1,6 +1,11 @@
 1) Properties
+	axis -> x, y, z
 	waterlogged -> true, false
 
 2) States
-	id: 4729 -> waterlogged: true
-	id: 4730 -> waterlogged: false
+	id: 4729 -> axis: x, waterlogged: true
+	id: 4730 -> axis: x, waterlogged: false
+	id: 4731 -> axis: y, waterlogged: true
+	id: 4732 -> axis: y, waterlogged: false
+	id: 4733 -> axis: z, waterlogged: true
+	id: 4734 -> axis: z, waterlogged: false
