@@ -5457,62 +5457,65 @@
       "minecraft:sweeping": {
         "protocol_id": 18
       },
-      "minecraft:efficiency": {
+      "minecraft:cleaving": {
         "protocol_id": 19
       },
-      "minecraft:silk_touch": {
+      "minecraft:efficiency": {
         "protocol_id": 20
       },
-      "minecraft:unbreaking": {
+      "minecraft:silk_touch": {
         "protocol_id": 21
       },
-      "minecraft:fortune": {
+      "minecraft:unbreaking": {
         "protocol_id": 22
       },
-      "minecraft:power": {
+      "minecraft:fortune": {
         "protocol_id": 23
       },
-      "minecraft:punch": {
+      "minecraft:power": {
         "protocol_id": 24
       },
-      "minecraft:flame": {
+      "minecraft:punch": {
         "protocol_id": 25
       },
-      "minecraft:infinity": {
+      "minecraft:flame": {
         "protocol_id": 26
       },
-      "minecraft:luck_of_the_sea": {
+      "minecraft:infinity": {
         "protocol_id": 27
       },
-      "minecraft:lure": {
+      "minecraft:luck_of_the_sea": {
         "protocol_id": 28
       },
-      "minecraft:loyalty": {
+      "minecraft:lure": {
         "protocol_id": 29
       },
-      "minecraft:impaling": {
+      "minecraft:loyalty": {
         "protocol_id": 30
       },
-      "minecraft:riptide": {
+      "minecraft:impaling": {
         "protocol_id": 31
       },
-      "minecraft:channeling": {
+      "minecraft:riptide": {
         "protocol_id": 32
       },
-      "minecraft:multishot": {
+      "minecraft:channeling": {
         "protocol_id": 33
       },
-      "minecraft:quick_charge": {
+      "minecraft:multishot": {
         "protocol_id": 34
       },
-      "minecraft:piercing": {
+      "minecraft:quick_charge": {
         "protocol_id": 35
       },
-      "minecraft:mending": {
+      "minecraft:piercing": {
         "protocol_id": 36
       },
-      "minecraft:vanishing_curse": {
+      "minecraft:mending": {
         "protocol_id": 37
+      },
+      "minecraft:vanishing_curse": {
+        "protocol_id": 38
       }
     }
   },
@@ -9831,20 +9834,23 @@
       "minecraft:generic.attack_speed": {
         "protocol_id": 7
       },
-      "minecraft:generic.armor": {
+      "minecraft:generic.attack_reach": {
         "protocol_id": 8
       },
-      "minecraft:generic.armor_toughness": {
+      "minecraft:generic.armor": {
         "protocol_id": 9
       },
-      "minecraft:generic.luck": {
+      "minecraft:generic.armor_toughness": {
         "protocol_id": 10
       },
-      "minecraft:zombie.spawn_reinforcements": {
+      "minecraft:generic.luck": {
         "protocol_id": 11
       },
-      "minecraft:horse.jump_strength": {
+      "minecraft:zombie.spawn_reinforcements": {
         "protocol_id": 12
+      },
+      "minecraft:horse.jump_strength": {
+        "protocol_id": 13
       }
     }
   },
