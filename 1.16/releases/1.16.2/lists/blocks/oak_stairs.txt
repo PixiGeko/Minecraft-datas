@@ -1,0 +1,87 @@
+1) Properties
+	facing -> north, south, west, east
+	half -> top, bottom
+	shape -> straight, inner_left, inner_right, outer_left, outer_right
+	waterlogged -> true, false
+
+2) States
+	id: 1954 -> facing: north, half: top, shape: straight, waterlogged: true
+	id: 1955 -> facing: north, half: top, shape: straight, waterlogged: false
+	id: 1956 -> facing: north, half: top, shape: inner_left, waterlogged: true
+	id: 1957 -> facing: north, half: top, shape: inner_left, waterlogged: false
+	id: 1958 -> facing: north, half: top, shape: inner_right, waterlogged: true
+	id: 1959 -> facing: north, half: top, shape: inner_right, waterlogged: false
+	id: 1960 -> facing: north, half: top, shape: outer_left, waterlogged: true
+	id: 1961 -> facing: north, half: top, shape: outer_left, waterlogged: false
+	id: 1962 -> facing: north, half: top, shape: outer_right, waterlogged: true
+	id: 1963 -> facing: north, half: top, shape: outer_right, waterlogged: false
+	id: 1964 -> facing: north, half: bottom, shape: straight, waterlogged: true
+	id: 1965 -> facing: north, half: bottom, shape: straight, waterlogged: false
+	id: 1966 -> facing: north, half: bottom, shape: inner_left, waterlogged: true
+	id: 1967 -> facing: north, half: bottom, shape: inner_left, waterlogged: false
+	id: 1968 -> facing: north, half: bottom, shape: inner_right, waterlogged: true
+	id: 1969 -> facing: north, half: bottom, shape: inner_right, waterlogged: false
+	id: 1970 -> facing: north, half: bottom, shape: outer_left, waterlogged: true
+	id: 1971 -> facing: north, half: bottom, shape: outer_left, waterlogged: false
+	id: 1972 -> facing: north, half: bottom, shape: outer_right, waterlogged: true
+	id: 1973 -> facing: north, half: bottom, shape: outer_right, waterlogged: false
+	id: 1974 -> facing: south, half: top, shape: straight, waterlogged: true
+	id: 1975 -> facing: south, half: top, shape: straight, waterlogged: false
+	id: 1976 -> facing: south, half: top, shape: inner_left, waterlogged: true
+	id: 1977 -> facing: south, half: top, shape: inner_left, waterlogged: false
+	id: 1978 -> facing: south, half: top, shape: inner_right, waterlogged: true
+	id: 1979 -> facing: south, half: top, shape: inner_right, waterlogged: false
+	id: 1980 -> facing: south, half: top, shape: outer_left, waterlogged: true
+	id: 1981 -> facing: south, half: top, shape: outer_left, waterlogged: false
+	id: 1982 -> facing: south, half: top, shape: outer_right, waterlogged: true
+	id: 1983 -> facing: south, half: top, shape: outer_right, waterlogged: false
+	id: 1984 -> facing: south, half: bottom, shape: straight, waterlogged: true
+	id: 1985 -> facing: south, half: bottom, shape: straight, waterlogged: false
+	id: 1986 -> facing: south, half: bottom, shape: inner_left, waterlogged: true
+	id: 1987 -> facing: south, half: bottom, shape: inner_left, waterlogged: false
+	id: 1988 -> facing: south, half: bottom, shape: inner_right, waterlogged: true
+	id: 1989 -> facing: south, half: bottom, shape: inner_right, waterlogged: false
+	id: 1990 -> facing: south, half: bottom, shape: outer_left, waterlogged: true
+	id: 1991 -> facing: south, half: bottom, shape: outer_left, waterlogged: false
+	id: 1992 -> facing: south, half: bottom, shape: outer_right, waterlogged: true
+	id: 1993 -> facing: south, half: bottom, shape: outer_right, waterlogged: false
+	id: 1994 -> facing: west, half: top, shape: straight, waterlogged: true
+	id: 1995 -> facing: west, half: top, shape: straight, waterlogged: false
+	id: 1996 -> facing: west, half: top, shape: inner_left, waterlogged: true
+	id: 1997 -> facing: west, half: top, shape: inner_left, waterlogged: false
+	id: 1998 -> facing: west, half: top, shape: inner_right, waterlogged: true
+	id: 1999 -> facing: west, half: top, shape: inner_right, waterlogged: false
+	id: 2000 -> facing: west, half: top, shape: outer_left, waterlogged: true
+	id: 2001 -> facing: west, half: top, shape: outer_left, waterlogged: false
+	id: 2002 -> facing: west, half: top, shape: outer_right, waterlogged: true
+	id: 2003 -> facing: west, half: top, shape: outer_right, waterlogged: false
+	id: 2004 -> facing: west, half: bottom, shape: straight, waterlogged: true
+	id: 2005 -> facing: west, half: bottom, shape: straight, waterlogged: false
+	id: 2006 -> facing: west, half: bottom, shape: inner_left, waterlogged: true
+	id: 2007 -> facing: west, half: bottom, shape: inner_left, waterlogged: false
+	id: 2008 -> facing: west, half: bottom, shape: inner_right, waterlogged: true
+	id: 2009 -> facing: west, half: bottom, shape: inner_right, waterlogged: false
+	id: 2010 -> facing: west, half: bottom, shape: outer_left, waterlogged: true
+	id: 2011 -> facing: west, half: bottom, shape: outer_left, waterlogged: false
+	id: 2012 -> facing: west, half: bottom, shape: outer_right, waterlogged: true
+	id: 2013 -> facing: west, half: bottom, shape: outer_right, waterlogged: false
+	id: 2014 -> facing: east, half: top, shape: straight, waterlogged: true
+	id: 2015 -> facing: east, half: top, shape: straight, waterlogged: false
+	id: 2016 -> facing: east, half: top, shape: inner_left, waterlogged: true
+	id: 2017 -> facing: east, half: top, shape: inner_left, waterlogged: false
+	id: 2018 -> facing: east, half: top, shape: inner_right, waterlogged: true
+	id: 2019 -> facing: east, half: top, shape: inner_right, waterlogged: false
+	id: 2020 -> facing: east, half: top, shape: outer_left, waterlogged: true
+	id: 2021 -> facing: east, half: top, shape: outer_left, waterlogged: false
+	id: 2022 -> facing: east, half: top, shape: outer_right, waterlogged: true
+	id: 2023 -> facing: east, half: top, shape: outer_right, waterlogged: false
+	id: 2024 -> facing: east, half: bottom, shape: straight, waterlogged: true
+	id: 2025 -> facing: east, half: bottom, shape: straight, waterlogged: false
+	id: 2026 -> facing: east, half: bottom, shape: inner_left, waterlogged: true
+	id: 2027 -> facing: east, half: bottom, shape: inner_left, waterlogged: false
+	id: 2028 -> facing: east, half: bottom, shape: inner_right, waterlogged: true
+	id: 2029 -> facing: east, half: bottom, shape: inner_right, waterlogged: false
+	id: 2030 -> facing: east, half: bottom, shape: outer_left, waterlogged: true
+	id: 2031 -> facing: east, half: bottom, shape: outer_left, waterlogged: false
+	id: 2032 -> facing: east, half: bottom, shape: outer_right, waterlogged: true
+	id: 2033 -> facing: east, half: bottom, shape: outer_right, waterlogged: false
