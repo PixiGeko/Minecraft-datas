@@ -112,10 +112,10 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 
 # Command tree legend
 ### Shape
-**Rectangle :** literal
-**Rounded rectangle :** argument  
+**Rectangle :** literal</br>
+**Rounded rectangle :** argument</br>  
 
 ### Background color
-**Orange :** Normal node
-**Blue :** Redirection node
+**Orange :** Normal node</br>
+**Blue :** Redirection node</br>
 **Green :** Executable node
