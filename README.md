@@ -119,3 +119,5 @@ This will generate the "basic" data files ( = green rectangles in the diagrams b
 **Orange :** Normal node</br>
 **Blue :** Redirection node</br>
 **Green :** Executable node
+
+![command example](https://imgur.com/f5tEQTq)
