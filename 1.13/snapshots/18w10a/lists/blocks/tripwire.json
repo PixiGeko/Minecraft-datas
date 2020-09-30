@@ -1,0 +1,1186 @@
+{
+  "properties": {
+    "attached": [
+      true,
+      false
+    ],
+    "disarmed": [
+      true,
+      false
+    ],
+    "east": [
+      true,
+      false
+    ],
+    "north": [
+      true,
+      false
+    ],
+    "powered": [
+      true,
+      false
+    ],
+    "south": [
+      true,
+      false
+    ],
+    "west": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "4161": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4162": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4163": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4164": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4165": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4166": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4167": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4168": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4169": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4170": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4171": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4172": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4173": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4174": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4175": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4176": {
+      "attached": true,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4177": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4178": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4179": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4180": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4181": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4182": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4183": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4184": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4185": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4186": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4187": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4188": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4189": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4190": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4191": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4192": {
+      "attached": true,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4193": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4194": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4195": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4196": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4197": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4198": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4199": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4200": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4201": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4202": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4203": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4204": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4205": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4206": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4207": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4208": {
+      "attached": true,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4209": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4210": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4211": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4212": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4213": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4214": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4215": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4216": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4217": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4218": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4219": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4220": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4221": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4222": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4223": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4224": {
+      "attached": true,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4225": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4226": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4227": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4228": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4229": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4230": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4231": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4232": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4233": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4234": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4235": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4236": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4237": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4238": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4239": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4240": {
+      "attached": false,
+      "disarmed": true,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4241": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4242": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4243": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4244": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4245": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4246": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4247": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4248": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4249": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4250": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4251": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4252": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4253": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4254": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4255": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4256": {
+      "attached": false,
+      "disarmed": true,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4257": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4258": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4259": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4260": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4261": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4262": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4263": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4264": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4265": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4266": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4267": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4268": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4269": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4270": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4271": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4272": {
+      "attached": false,
+      "disarmed": false,
+      "east": true,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4273": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4274": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4275": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4276": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4277": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4278": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4279": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4280": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": true,
+      "powered": false,
+      "south": false,
+      "west": false
+    },
+    "4281": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": true
+    },
+    "4282": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": true,
+      "west": false
+    },
+    "4283": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": true
+    },
+    "4284": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": true,
+      "south": false,
+      "west": false
+    },
+    "4285": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": true
+    },
+    "4286": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": true,
+      "west": false
+    },
+    "4287": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": true
+    },
+    "4288": {
+      "attached": false,
+      "disarmed": false,
+      "east": false,
+      "north": false,
+      "powered": false,
+      "south": false,
+      "west": false
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "properties": {
+    "face": [
+      "floor",
+      "wall",
+      "ceiling"
+    ],
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "6346": {
+      "face": "floor",
+      "facing": "north",
+      "powered": true
+    },
+    "6347": {
+      "face": "floor",
+      "facing": "north",
+      "powered": false
+    },
+    "6348": {
+      "face": "floor",
+      "facing": "south",
+      "powered": true
+    },
+    "6349": {
+      "face": "floor",
+      "facing": "south",
+      "powered": false
+    },
+    "6350": {
+      "face": "floor",
+      "facing": "west",
+      "powered": true
+    },
+    "6351": {
+      "face": "floor",
+      "facing": "west",
+      "powered": false
+    },
+    "6352": {
+      "face": "floor",
+      "facing": "east",
+      "powered": true
+    },
+    "6353": {
+      "face": "floor",
+      "facing": "east",
+      "powered": false
+    },
+    "6354": {
+      "face": "wall",
+      "facing": "north",
+      "powered": true
+    },
+    "6355": {
+      "face": "wall",
+      "facing": "north",
+      "powered": false
+    },
+    "6356": {
+      "face": "wall",
+      "facing": "south",
+      "powered": true
+    },
+    "6357": {
+      "face": "wall",
+      "facing": "south",
+      "powered": false
+    },
+    "6358": {
+      "face": "wall",
+      "facing": "west",
+      "powered": true
+    },
+    "6359": {
+      "face": "wall",
+      "facing": "west",
+      "powered": false
+    },
+    "6360": {
+      "face": "wall",
+      "facing": "east",
+      "powered": true
+    },
+    "6361": {
+      "face": "wall",
+      "facing": "east",
+      "powered": false
+    },
+    "6362": {
+      "face": "ceiling",
+      "facing": "north",
+      "powered": true
+    },
+    "6363": {
+      "face": "ceiling",
+      "facing": "north",
+      "powered": false
+    },
+    "6364": {
+      "face": "ceiling",
+      "facing": "south",
+      "powered": true
+    },
+    "6365": {
+      "face": "ceiling",
+      "facing": "south",
+      "powered": false
+    },
+    "6366": {
+      "face": "ceiling",
+      "facing": "west",
+      "powered": true
+    },
+    "6367": {
+      "face": "ceiling",
+      "facing": "west",
+      "powered": false
+    },
+    "6368": {
+      "face": "ceiling",
+      "facing": "east",
+      "powered": true
+    },
+    "6369": {
+      "face": "ceiling",
+      "facing": "east",
+      "powered": false
+    }
+  }
+}

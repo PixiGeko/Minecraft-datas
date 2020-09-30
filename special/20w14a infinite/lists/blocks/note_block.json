@@ -1,0 +1,4055 @@
+{
+  "properties": {
+    "instrument": [
+      "harp",
+      "basedrum",
+      "snare",
+      "hat",
+      "bass",
+      "flute",
+      "bell",
+      "guitar",
+      "chime",
+      "xylophone",
+      "iron_xylophone",
+      "cow_bell",
+      "didgeridoo",
+      "bit",
+      "banjo",
+      "pling"
+    ],
+    "note": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "2867": {
+      "instrument": "harp",
+      "note": 0,
+      "powered": true
+    },
+    "2868": {
+      "instrument": "harp",
+      "note": 0,
+      "powered": false
+    },
+    "2869": {
+      "instrument": "harp",
+      "note": 1,
+      "powered": true
+    },
+    "2870": {
+      "instrument": "harp",
+      "note": 1,
+      "powered": false
+    },
+    "2871": {
+      "instrument": "harp",
+      "note": 2,
+      "powered": true
+    },
+    "2872": {
+      "instrument": "harp",
+      "note": 2,
+      "powered": false
+    },
+    "2873": {
+      "instrument": "harp",
+      "note": 3,
+      "powered": true
+    },
+    "2874": {
+      "instrument": "harp",
+      "note": 3,
+      "powered": false
+    },
+    "2875": {
+      "instrument": "harp",
+      "note": 4,
+      "powered": true
+    },
+    "2876": {
+      "instrument": "harp",
+      "note": 4,
+      "powered": false
+    },
+    "2877": {
+      "instrument": "harp",
+      "note": 5,
+      "powered": true
+    },
+    "2878": {
+      "instrument": "harp",
+      "note": 5,
+      "powered": false
+    },
+    "2879": {
+      "instrument": "harp",
+      "note": 6,
+      "powered": true
+    },
+    "2880": {
+      "instrument": "harp",
+      "note": 6,
+      "powered": false
+    },
+    "2881": {
+      "instrument": "harp",
+      "note": 7,
+      "powered": true
+    },
+    "2882": {
+      "instrument": "harp",
+      "note": 7,
+      "powered": false
+    },
+    "2883": {
+      "instrument": "harp",
+      "note": 8,
+      "powered": true
+    },
+    "2884": {
+      "instrument": "harp",
+      "note": 8,
+      "powered": false
+    },
+    "2885": {
+      "instrument": "harp",
+      "note": 9,
+      "powered": true
+    },
+    "2886": {
+      "instrument": "harp",
+      "note": 9,
+      "powered": false
+    },
+    "2887": {
+      "instrument": "harp",
+      "note": 10,
+      "powered": true
+    },
+    "2888": {
+      "instrument": "harp",
+      "note": 10,
+      "powered": false
+    },
+    "2889": {
+      "instrument": "harp",
+      "note": 11,
+      "powered": true
+    },
+    "2890": {
+      "instrument": "harp",
+      "note": 11,
+      "powered": false
+    },
+    "2891": {
+      "instrument": "harp",
+      "note": 12,
+      "powered": true
+    },
+    "2892": {
+      "instrument": "harp",
+      "note": 12,
+      "powered": false
+    },
+    "2893": {
+      "instrument": "harp",
+      "note": 13,
+      "powered": true
+    },
+    "2894": {
+      "instrument": "harp",
+      "note": 13,
+      "powered": false
+    },
+    "2895": {
+      "instrument": "harp",
+      "note": 14,
+      "powered": true
+    },
+    "2896": {
+      "instrument": "harp",
+      "note": 14,
+      "powered": false
+    },
+    "2897": {
+      "instrument": "harp",
+      "note": 15,
+      "powered": true
+    },
+    "2898": {
+      "instrument": "harp",
+      "note": 15,
+      "powered": false
+    },
+    "2899": {
+      "instrument": "harp",
+      "note": 16,
+      "powered": true
+    },
+    "2900": {
+      "instrument": "harp",
+      "note": 16,
+      "powered": false
+    },
+    "2901": {
+      "instrument": "harp",
+      "note": 17,
+      "powered": true
+    },
+    "2902": {
+      "instrument": "harp",
+      "note": 17,
+      "powered": false
+    },
+    "2903": {
+      "instrument": "harp",
+      "note": 18,
+      "powered": true
+    },
+    "2904": {
+      "instrument": "harp",
+      "note": 18,
+      "powered": false
+    },
+    "2905": {
+      "instrument": "harp",
+      "note": 19,
+      "powered": true
+    },
+    "2906": {
+      "instrument": "harp",
+      "note": 19,
+      "powered": false
+    },
+    "2907": {
+      "instrument": "harp",
+      "note": 20,
+      "powered": true
+    },
+    "2908": {
+      "instrument": "harp",
+      "note": 20,
+      "powered": false
+    },
+    "2909": {
+      "instrument": "harp",
+      "note": 21,
+      "powered": true
+    },
+    "2910": {
+      "instrument": "harp",
+      "note": 21,
+      "powered": false
+    },
+    "2911": {
+      "instrument": "harp",
+      "note": 22,
+      "powered": true
+    },
+    "2912": {
+      "instrument": "harp",
+      "note": 22,
+      "powered": false
+    },
+    "2913": {
+      "instrument": "harp",
+      "note": 23,
+      "powered": true
+    },
+    "2914": {
+      "instrument": "harp",
+      "note": 23,
+      "powered": false
+    },
+    "2915": {
+      "instrument": "harp",
+      "note": 24,
+      "powered": true
+    },
+    "2916": {
+      "instrument": "harp",
+      "note": 24,
+      "powered": false
+    },
+    "2917": {
+      "instrument": "basedrum",
+      "note": 0,
+      "powered": true
+    },
+    "2918": {
+      "instrument": "basedrum",
+      "note": 0,
+      "powered": false
+    },
+    "2919": {
+      "instrument": "basedrum",
+      "note": 1,
+      "powered": true
+    },
+    "2920": {
+      "instrument": "basedrum",
+      "note": 1,
+      "powered": false
+    },
+    "2921": {
+      "instrument": "basedrum",
+      "note": 2,
+      "powered": true
+    },
+    "2922": {
+      "instrument": "basedrum",
+      "note": 2,
+      "powered": false
+    },
+    "2923": {
+      "instrument": "basedrum",
+      "note": 3,
+      "powered": true
+    },
+    "2924": {
+      "instrument": "basedrum",
+      "note": 3,
+      "powered": false
+    },
+    "2925": {
+      "instrument": "basedrum",
+      "note": 4,
+      "powered": true
+    },
+    "2926": {
+      "instrument": "basedrum",
+      "note": 4,
+      "powered": false
+    },
+    "2927": {
+      "instrument": "basedrum",
+      "note": 5,
+      "powered": true
+    },
+    "2928": {
+      "instrument": "basedrum",
+      "note": 5,
+      "powered": false
+    },
+    "2929": {
+      "instrument": "basedrum",
+      "note": 6,
+      "powered": true
+    },
+    "2930": {
+      "instrument": "basedrum",
+      "note": 6,
+      "powered": false
+    },
+    "2931": {
+      "instrument": "basedrum",
+      "note": 7,
+      "powered": true
+    },
+    "2932": {
+      "instrument": "basedrum",
+      "note": 7,
+      "powered": false
+    },
+    "2933": {
+      "instrument": "basedrum",
+      "note": 8,
+      "powered": true
+    },
+    "2934": {
+      "instrument": "basedrum",
+      "note": 8,
+      "powered": false
+    },
+    "2935": {
+      "instrument": "basedrum",
+      "note": 9,
+      "powered": true
+    },
+    "2936": {
+      "instrument": "basedrum",
+      "note": 9,
+      "powered": false
+    },
+    "2937": {
+      "instrument": "basedrum",
+      "note": 10,
+      "powered": true
+    },
+    "2938": {
+      "instrument": "basedrum",
+      "note": 10,
+      "powered": false
+    },
+    "2939": {
+      "instrument": "basedrum",
+      "note": 11,
+      "powered": true
+    },
+    "2940": {
+      "instrument": "basedrum",
+      "note": 11,
+      "powered": false
+    },
+    "2941": {
+      "instrument": "basedrum",
+      "note": 12,
+      "powered": true
+    },
+    "2942": {
+      "instrument": "basedrum",
+      "note": 12,
+      "powered": false
+    },
+    "2943": {
+      "instrument": "basedrum",
+      "note": 13,
+      "powered": true
+    },
+    "2944": {
+      "instrument": "basedrum",
+      "note": 13,
+      "powered": false
+    },
+    "2945": {
+      "instrument": "basedrum",
+      "note": 14,
+      "powered": true
+    },
+    "2946": {
+      "instrument": "basedrum",
+      "note": 14,
+      "powered": false
+    },
+    "2947": {
+      "instrument": "basedrum",
+      "note": 15,
+      "powered": true
+    },
+    "2948": {
+      "instrument": "basedrum",
+      "note": 15,
+      "powered": false
+    },
+    "2949": {
+      "instrument": "basedrum",
+      "note": 16,
+      "powered": true
+    },
+    "2950": {
+      "instrument": "basedrum",
+      "note": 16,
+      "powered": false
+    },
+    "2951": {
+      "instrument": "basedrum",
+      "note": 17,
+      "powered": true
+    },
+    "2952": {
+      "instrument": "basedrum",
+      "note": 17,
+      "powered": false
+    },
+    "2953": {
+      "instrument": "basedrum",
+      "note": 18,
+      "powered": true
+    },
+    "2954": {
+      "instrument": "basedrum",
+      "note": 18,
+      "powered": false
+    },
+    "2955": {
+      "instrument": "basedrum",
+      "note": 19,
+      "powered": true
+    },
+    "2956": {
+      "instrument": "basedrum",
+      "note": 19,
+      "powered": false
+    },
+    "2957": {
+      "instrument": "basedrum",
+      "note": 20,
+      "powered": true
+    },
+    "2958": {
+      "instrument": "basedrum",
+      "note": 20,
+      "powered": false
+    },
+    "2959": {
+      "instrument": "basedrum",
+      "note": 21,
+      "powered": true
+    },
+    "2960": {
+      "instrument": "basedrum",
+      "note": 21,
+      "powered": false
+    },
+    "2961": {
+      "instrument": "basedrum",
+      "note": 22,
+      "powered": true
+    },
+    "2962": {
+      "instrument": "basedrum",
+      "note": 22,
+      "powered": false
+    },
+    "2963": {
+      "instrument": "basedrum",
+      "note": 23,
+      "powered": true
+    },
+    "2964": {
+      "instrument": "basedrum",
+      "note": 23,
+      "powered": false
+    },
+    "2965": {
+      "instrument": "basedrum",
+      "note": 24,
+      "powered": true
+    },
+    "2966": {
+      "instrument": "basedrum",
+      "note": 24,
+      "powered": false
+    },
+    "2967": {
+      "instrument": "snare",
+      "note": 0,
+      "powered": true
+    },
+    "2968": {
+      "instrument": "snare",
+      "note": 0,
+      "powered": false
+    },
+    "2969": {
+      "instrument": "snare",
+      "note": 1,
+      "powered": true
+    },
+    "2970": {
+      "instrument": "snare",
+      "note": 1,
+      "powered": false
+    },
+    "2971": {
+      "instrument": "snare",
+      "note": 2,
+      "powered": true
+    },
+    "2972": {
+      "instrument": "snare",
+      "note": 2,
+      "powered": false
+    },
+    "2973": {
+      "instrument": "snare",
+      "note": 3,
+      "powered": true
+    },
+    "2974": {
+      "instrument": "snare",
+      "note": 3,
+      "powered": false
+    },
+    "2975": {
+      "instrument": "snare",
+      "note": 4,
+      "powered": true
+    },
+    "2976": {
+      "instrument": "snare",
+      "note": 4,
+      "powered": false
+    },
+    "2977": {
+      "instrument": "snare",
+      "note": 5,
+      "powered": true
+    },
+    "2978": {
+      "instrument": "snare",
+      "note": 5,
+      "powered": false
+    },
+    "2979": {
+      "instrument": "snare",
+      "note": 6,
+      "powered": true
+    },
+    "2980": {
+      "instrument": "snare",
+      "note": 6,
+      "powered": false
+    },
+    "2981": {
+      "instrument": "snare",
+      "note": 7,
+      "powered": true
+    },
+    "2982": {
+      "instrument": "snare",
+      "note": 7,
+      "powered": false
+    },
+    "2983": {
+      "instrument": "snare",
+      "note": 8,
+      "powered": true
+    },
+    "2984": {
+      "instrument": "snare",
+      "note": 8,
+      "powered": false
+    },
+    "2985": {
+      "instrument": "snare",
+      "note": 9,
+      "powered": true
+    },
+    "2986": {
+      "instrument": "snare",
+      "note": 9,
+      "powered": false
+    },
+    "2987": {
+      "instrument": "snare",
+      "note": 10,
+      "powered": true
+    },
+    "2988": {
+      "instrument": "snare",
+      "note": 10,
+      "powered": false
+    },
+    "2989": {
+      "instrument": "snare",
+      "note": 11,
+      "powered": true
+    },
+    "2990": {
+      "instrument": "snare",
+      "note": 11,
+      "powered": false
+    },
+    "2991": {
+      "instrument": "snare",
+      "note": 12,
+      "powered": true
+    },
+    "2992": {
+      "instrument": "snare",
+      "note": 12,
+      "powered": false
+    },
+    "2993": {
+      "instrument": "snare",
+      "note": 13,
+      "powered": true
+    },
+    "2994": {
+      "instrument": "snare",
+      "note": 13,
+      "powered": false
+    },
+    "2995": {
+      "instrument": "snare",
+      "note": 14,
+      "powered": true
+    },
+    "2996": {
+      "instrument": "snare",
+      "note": 14,
+      "powered": false
+    },
+    "2997": {
+      "instrument": "snare",
+      "note": 15,
+      "powered": true
+    },
+    "2998": {
+      "instrument": "snare",
+      "note": 15,
+      "powered": false
+    },
+    "2999": {
+      "instrument": "snare",
+      "note": 16,
+      "powered": true
+    },
+    "3000": {
+      "instrument": "snare",
+      "note": 16,
+      "powered": false
+    },
+    "3001": {
+      "instrument": "snare",
+      "note": 17,
+      "powered": true
+    },
+    "3002": {
+      "instrument": "snare",
+      "note": 17,
+      "powered": false
+    },
+    "3003": {
+      "instrument": "snare",
+      "note": 18,
+      "powered": true
+    },
+    "3004": {
+      "instrument": "snare",
+      "note": 18,
+      "powered": false
+    },
+    "3005": {
+      "instrument": "snare",
+      "note": 19,
+      "powered": true
+    },
+    "3006": {
+      "instrument": "snare",
+      "note": 19,
+      "powered": false
+    },
+    "3007": {
+      "instrument": "snare",
+      "note": 20,
+      "powered": true
+    },
+    "3008": {
+      "instrument": "snare",
+      "note": 20,
+      "powered": false
+    },
+    "3009": {
+      "instrument": "snare",
+      "note": 21,
+      "powered": true
+    },
+    "3010": {
+      "instrument": "snare",
+      "note": 21,
+      "powered": false
+    },
+    "3011": {
+      "instrument": "snare",
+      "note": 22,
+      "powered": true
+    },
+    "3012": {
+      "instrument": "snare",
+      "note": 22,
+      "powered": false
+    },
+    "3013": {
+      "instrument": "snare",
+      "note": 23,
+      "powered": true
+    },
+    "3014": {
+      "instrument": "snare",
+      "note": 23,
+      "powered": false
+    },
+    "3015": {
+      "instrument": "snare",
+      "note": 24,
+      "powered": true
+    },
+    "3016": {
+      "instrument": "snare",
+      "note": 24,
+      "powered": false
+    },
+    "3017": {
+      "instrument": "hat",
+      "note": 0,
+      "powered": true
+    },
+    "3018": {
+      "instrument": "hat",
+      "note": 0,
+      "powered": false
+    },
+    "3019": {
+      "instrument": "hat",
+      "note": 1,
+      "powered": true
+    },
+    "3020": {
+      "instrument": "hat",
+      "note": 1,
+      "powered": false
+    },
+    "3021": {
+      "instrument": "hat",
+      "note": 2,
+      "powered": true
+    },
+    "3022": {
+      "instrument": "hat",
+      "note": 2,
+      "powered": false
+    },
+    "3023": {
+      "instrument": "hat",
+      "note": 3,
+      "powered": true
+    },
+    "3024": {
+      "instrument": "hat",
+      "note": 3,
+      "powered": false
+    },
+    "3025": {
+      "instrument": "hat",
+      "note": 4,
+      "powered": true
+    },
+    "3026": {
+      "instrument": "hat",
+      "note": 4,
+      "powered": false
+    },
+    "3027": {
+      "instrument": "hat",
+      "note": 5,
+      "powered": true
+    },
+    "3028": {
+      "instrument": "hat",
+      "note": 5,
+      "powered": false
+    },
+    "3029": {
+      "instrument": "hat",
+      "note": 6,
+      "powered": true
+    },
+    "3030": {
+      "instrument": "hat",
+      "note": 6,
+      "powered": false
+    },
+    "3031": {
+      "instrument": "hat",
+      "note": 7,
+      "powered": true
+    },
+    "3032": {
+      "instrument": "hat",
+      "note": 7,
+      "powered": false
+    },
+    "3033": {
+      "instrument": "hat",
+      "note": 8,
+      "powered": true
+    },
+    "3034": {
+      "instrument": "hat",
+      "note": 8,
+      "powered": false
+    },
+    "3035": {
+      "instrument": "hat",
+      "note": 9,
+      "powered": true
+    },
+    "3036": {
+      "instrument": "hat",
+      "note": 9,
+      "powered": false
+    },
+    "3037": {
+      "instrument": "hat",
+      "note": 10,
+      "powered": true
+    },
+    "3038": {
+      "instrument": "hat",
+      "note": 10,
+      "powered": false
+    },
+    "3039": {
+      "instrument": "hat",
+      "note": 11,
+      "powered": true
+    },
+    "3040": {
+      "instrument": "hat",
+      "note": 11,
+      "powered": false
+    },
+    "3041": {
+      "instrument": "hat",
+      "note": 12,
+      "powered": true
+    },
+    "3042": {
+      "instrument": "hat",
+      "note": 12,
+      "powered": false
+    },
+    "3043": {
+      "instrument": "hat",
+      "note": 13,
+      "powered": true
+    },
+    "3044": {
+      "instrument": "hat",
+      "note": 13,
+      "powered": false
+    },
+    "3045": {
+      "instrument": "hat",
+      "note": 14,
+      "powered": true
+    },
+    "3046": {
+      "instrument": "hat",
+      "note": 14,
+      "powered": false
+    },
+    "3047": {
+      "instrument": "hat",
+      "note": 15,
+      "powered": true
+    },
+    "3048": {
+      "instrument": "hat",
+      "note": 15,
+      "powered": false
+    },
+    "3049": {
+      "instrument": "hat",
+      "note": 16,
+      "powered": true
+    },
+    "3050": {
+      "instrument": "hat",
+      "note": 16,
+      "powered": false
+    },
+    "3051": {
+      "instrument": "hat",
+      "note": 17,
+      "powered": true
+    },
+    "3052": {
+      "instrument": "hat",
+      "note": 17,
+      "powered": false
+    },
+    "3053": {
+      "instrument": "hat",
+      "note": 18,
+      "powered": true
+    },
+    "3054": {
+      "instrument": "hat",
+      "note": 18,
+      "powered": false
+    },
+    "3055": {
+      "instrument": "hat",
+      "note": 19,
+      "powered": true
+    },
+    "3056": {
+      "instrument": "hat",
+      "note": 19,
+      "powered": false
+    },
+    "3057": {
+      "instrument": "hat",
+      "note": 20,
+      "powered": true
+    },
+    "3058": {
+      "instrument": "hat",
+      "note": 20,
+      "powered": false
+    },
+    "3059": {
+      "instrument": "hat",
+      "note": 21,
+      "powered": true
+    },
+    "3060": {
+      "instrument": "hat",
+      "note": 21,
+      "powered": false
+    },
+    "3061": {
+      "instrument": "hat",
+      "note": 22,
+      "powered": true
+    },
+    "3062": {
+      "instrument": "hat",
+      "note": 22,
+      "powered": false
+    },
+    "3063": {
+      "instrument": "hat",
+      "note": 23,
+      "powered": true
+    },
+    "3064": {
+      "instrument": "hat",
+      "note": 23,
+      "powered": false
+    },
+    "3065": {
+      "instrument": "hat",
+      "note": 24,
+      "powered": true
+    },
+    "3066": {
+      "instrument": "hat",
+      "note": 24,
+      "powered": false
+    },
+    "3067": {
+      "instrument": "bass",
+      "note": 0,
+      "powered": true
+    },
+    "3068": {
+      "instrument": "bass",
+      "note": 0,
+      "powered": false
+    },
+    "3069": {
+      "instrument": "bass",
+      "note": 1,
+      "powered": true
+    },
+    "3070": {
+      "instrument": "bass",
+      "note": 1,
+      "powered": false
+    },
+    "3071": {
+      "instrument": "bass",
+      "note": 2,
+      "powered": true
+    },
+    "3072": {
+      "instrument": "bass",
+      "note": 2,
+      "powered": false
+    },
+    "3073": {
+      "instrument": "bass",
+      "note": 3,
+      "powered": true
+    },
+    "3074": {
+      "instrument": "bass",
+      "note": 3,
+      "powered": false
+    },
+    "3075": {
+      "instrument": "bass",
+      "note": 4,
+      "powered": true
+    },
+    "3076": {
+      "instrument": "bass",
+      "note": 4,
+      "powered": false
+    },
+    "3077": {
+      "instrument": "bass",
+      "note": 5,
+      "powered": true
+    },
+    "3078": {
+      "instrument": "bass",
+      "note": 5,
+      "powered": false
+    },
+    "3079": {
+      "instrument": "bass",
+      "note": 6,
+      "powered": true
+    },
+    "3080": {
+      "instrument": "bass",
+      "note": 6,
+      "powered": false
+    },
+    "3081": {
+      "instrument": "bass",
+      "note": 7,
+      "powered": true
+    },
+    "3082": {
+      "instrument": "bass",
+      "note": 7,
+      "powered": false
+    },
+    "3083": {
+      "instrument": "bass",
+      "note": 8,
+      "powered": true
+    },
+    "3084": {
+      "instrument": "bass",
+      "note": 8,
+      "powered": false
+    },
+    "3085": {
+      "instrument": "bass",
+      "note": 9,
+      "powered": true
+    },
+    "3086": {
+      "instrument": "bass",
+      "note": 9,
+      "powered": false
+    },
+    "3087": {
+      "instrument": "bass",
+      "note": 10,
+      "powered": true
+    },
+    "3088": {
+      "instrument": "bass",
+      "note": 10,
+      "powered": false
+    },
+    "3089": {
+      "instrument": "bass",
+      "note": 11,
+      "powered": true
+    },
+    "3090": {
+      "instrument": "bass",
+      "note": 11,
+      "powered": false
+    },
+    "3091": {
+      "instrument": "bass",
+      "note": 12,
+      "powered": true
+    },
+    "3092": {
+      "instrument": "bass",
+      "note": 12,
+      "powered": false
+    },
+    "3093": {
+      "instrument": "bass",
+      "note": 13,
+      "powered": true
+    },
+    "3094": {
+      "instrument": "bass",
+      "note": 13,
+      "powered": false
+    },
+    "3095": {
+      "instrument": "bass",
+      "note": 14,
+      "powered": true
+    },
+    "3096": {
+      "instrument": "bass",
+      "note": 14,
+      "powered": false
+    },
+    "3097": {
+      "instrument": "bass",
+      "note": 15,
+      "powered": true
+    },
+    "3098": {
+      "instrument": "bass",
+      "note": 15,
+      "powered": false
+    },
+    "3099": {
+      "instrument": "bass",
+      "note": 16,
+      "powered": true
+    },
+    "3100": {
+      "instrument": "bass",
+      "note": 16,
+      "powered": false
+    },
+    "3101": {
+      "instrument": "bass",
+      "note": 17,
+      "powered": true
+    },
+    "3102": {
+      "instrument": "bass",
+      "note": 17,
+      "powered": false
+    },
+    "3103": {
+      "instrument": "bass",
+      "note": 18,
+      "powered": true
+    },
+    "3104": {
+      "instrument": "bass",
+      "note": 18,
+      "powered": false
+    },
+    "3105": {
+      "instrument": "bass",
+      "note": 19,
+      "powered": true
+    },
+    "3106": {
+      "instrument": "bass",
+      "note": 19,
+      "powered": false
+    },
+    "3107": {
+      "instrument": "bass",
+      "note": 20,
+      "powered": true
+    },
+    "3108": {
+      "instrument": "bass",
+      "note": 20,
+      "powered": false
+    },
+    "3109": {
+      "instrument": "bass",
+      "note": 21,
+      "powered": true
+    },
+    "3110": {
+      "instrument": "bass",
+      "note": 21,
+      "powered": false
+    },
+    "3111": {
+      "instrument": "bass",
+      "note": 22,
+      "powered": true
+    },
+    "3112": {
+      "instrument": "bass",
+      "note": 22,
+      "powered": false
+    },
+    "3113": {
+      "instrument": "bass",
+      "note": 23,
+      "powered": true
+    },
+    "3114": {
+      "instrument": "bass",
+      "note": 23,
+      "powered": false
+    },
+    "3115": {
+      "instrument": "bass",
+      "note": 24,
+      "powered": true
+    },
+    "3116": {
+      "instrument": "bass",
+      "note": 24,
+      "powered": false
+    },
+    "3117": {
+      "instrument": "flute",
+      "note": 0,
+      "powered": true
+    },
+    "3118": {
+      "instrument": "flute",
+      "note": 0,
+      "powered": false
+    },
+    "3119": {
+      "instrument": "flute",
+      "note": 1,
+      "powered": true
+    },
+    "3120": {
+      "instrument": "flute",
+      "note": 1,
+      "powered": false
+    },
+    "3121": {
+      "instrument": "flute",
+      "note": 2,
+      "powered": true
+    },
+    "3122": {
+      "instrument": "flute",
+      "note": 2,
+      "powered": false
+    },
+    "3123": {
+      "instrument": "flute",
+      "note": 3,
+      "powered": true
+    },
+    "3124": {
+      "instrument": "flute",
+      "note": 3,
+      "powered": false
+    },
+    "3125": {
+      "instrument": "flute",
+      "note": 4,
+      "powered": true
+    },
+    "3126": {
+      "instrument": "flute",
+      "note": 4,
+      "powered": false
+    },
+    "3127": {
+      "instrument": "flute",
+      "note": 5,
+      "powered": true
+    },
+    "3128": {
+      "instrument": "flute",
+      "note": 5,
+      "powered": false
+    },
+    "3129": {
+      "instrument": "flute",
+      "note": 6,
+      "powered": true
+    },
+    "3130": {
+      "instrument": "flute",
+      "note": 6,
+      "powered": false
+    },
+    "3131": {
+      "instrument": "flute",
+      "note": 7,
+      "powered": true
+    },
+    "3132": {
+      "instrument": "flute",
+      "note": 7,
+      "powered": false
+    },
+    "3133": {
+      "instrument": "flute",
+      "note": 8,
+      "powered": true
+    },
+    "3134": {
+      "instrument": "flute",
+      "note": 8,
+      "powered": false
+    },
+    "3135": {
+      "instrument": "flute",
+      "note": 9,
+      "powered": true
+    },
+    "3136": {
+      "instrument": "flute",
+      "note": 9,
+      "powered": false
+    },
+    "3137": {
+      "instrument": "flute",
+      "note": 10,
+      "powered": true
+    },
+    "3138": {
+      "instrument": "flute",
+      "note": 10,
+      "powered": false
+    },
+    "3139": {
+      "instrument": "flute",
+      "note": 11,
+      "powered": true
+    },
+    "3140": {
+      "instrument": "flute",
+      "note": 11,
+      "powered": false
+    },
+    "3141": {
+      "instrument": "flute",
+      "note": 12,
+      "powered": true
+    },
+    "3142": {
+      "instrument": "flute",
+      "note": 12,
+      "powered": false
+    },
+    "3143": {
+      "instrument": "flute",
+      "note": 13,
+      "powered": true
+    },
+    "3144": {
+      "instrument": "flute",
+      "note": 13,
+      "powered": false
+    },
+    "3145": {
+      "instrument": "flute",
+      "note": 14,
+      "powered": true
+    },
+    "3146": {
+      "instrument": "flute",
+      "note": 14,
+      "powered": false
+    },
+    "3147": {
+      "instrument": "flute",
+      "note": 15,
+      "powered": true
+    },
+    "3148": {
+      "instrument": "flute",
+      "note": 15,
+      "powered": false
+    },
+    "3149": {
+      "instrument": "flute",
+      "note": 16,
+      "powered": true
+    },
+    "3150": {
+      "instrument": "flute",
+      "note": 16,
+      "powered": false
+    },
+    "3151": {
+      "instrument": "flute",
+      "note": 17,
+      "powered": true
+    },
+    "3152": {
+      "instrument": "flute",
+      "note": 17,
+      "powered": false
+    },
+    "3153": {
+      "instrument": "flute",
+      "note": 18,
+      "powered": true
+    },
+    "3154": {
+      "instrument": "flute",
+      "note": 18,
+      "powered": false
+    },
+    "3155": {
+      "instrument": "flute",
+      "note": 19,
+      "powered": true
+    },
+    "3156": {
+      "instrument": "flute",
+      "note": 19,
+      "powered": false
+    },
+    "3157": {
+      "instrument": "flute",
+      "note": 20,
+      "powered": true
+    },
+    "3158": {
+      "instrument": "flute",
+      "note": 20,
+      "powered": false
+    },
+    "3159": {
+      "instrument": "flute",
+      "note": 21,
+      "powered": true
+    },
+    "3160": {
+      "instrument": "flute",
+      "note": 21,
+      "powered": false
+    },
+    "3161": {
+      "instrument": "flute",
+      "note": 22,
+      "powered": true
+    },
+    "3162": {
+      "instrument": "flute",
+      "note": 22,
+      "powered": false
+    },
+    "3163": {
+      "instrument": "flute",
+      "note": 23,
+      "powered": true
+    },
+    "3164": {
+      "instrument": "flute",
+      "note": 23,
+      "powered": false
+    },
+    "3165": {
+      "instrument": "flute",
+      "note": 24,
+      "powered": true
+    },
+    "3166": {
+      "instrument": "flute",
+      "note": 24,
+      "powered": false
+    },
+    "3167": {
+      "instrument": "bell",
+      "note": 0,
+      "powered": true
+    },
+    "3168": {
+      "instrument": "bell",
+      "note": 0,
+      "powered": false
+    },
+    "3169": {
+      "instrument": "bell",
+      "note": 1,
+      "powered": true
+    },
+    "3170": {
+      "instrument": "bell",
+      "note": 1,
+      "powered": false
+    },
+    "3171": {
+      "instrument": "bell",
+      "note": 2,
+      "powered": true
+    },
+    "3172": {
+      "instrument": "bell",
+      "note": 2,
+      "powered": false
+    },
+    "3173": {
+      "instrument": "bell",
+      "note": 3,
+      "powered": true
+    },
+    "3174": {
+      "instrument": "bell",
+      "note": 3,
+      "powered": false
+    },
+    "3175": {
+      "instrument": "bell",
+      "note": 4,
+      "powered": true
+    },
+    "3176": {
+      "instrument": "bell",
+      "note": 4,
+      "powered": false
+    },
+    "3177": {
+      "instrument": "bell",
+      "note": 5,
+      "powered": true
+    },
+    "3178": {
+      "instrument": "bell",
+      "note": 5,
+      "powered": false
+    },
+    "3179": {
+      "instrument": "bell",
+      "note": 6,
+      "powered": true
+    },
+    "3180": {
+      "instrument": "bell",
+      "note": 6,
+      "powered": false
+    },
+    "3181": {
+      "instrument": "bell",
+      "note": 7,
+      "powered": true
+    },
+    "3182": {
+      "instrument": "bell",
+      "note": 7,
+      "powered": false
+    },
+    "3183": {
+      "instrument": "bell",
+      "note": 8,
+      "powered": true
+    },
+    "3184": {
+      "instrument": "bell",
+      "note": 8,
+      "powered": false
+    },
+    "3185": {
+      "instrument": "bell",
+      "note": 9,
+      "powered": true
+    },
+    "3186": {
+      "instrument": "bell",
+      "note": 9,
+      "powered": false
+    },
+    "3187": {
+      "instrument": "bell",
+      "note": 10,
+      "powered": true
+    },
+    "3188": {
+      "instrument": "bell",
+      "note": 10,
+      "powered": false
+    },
+    "3189": {
+      "instrument": "bell",
+      "note": 11,
+      "powered": true
+    },
+    "3190": {
+      "instrument": "bell",
+      "note": 11,
+      "powered": false
+    },
+    "3191": {
+      "instrument": "bell",
+      "note": 12,
+      "powered": true
+    },
+    "3192": {
+      "instrument": "bell",
+      "note": 12,
+      "powered": false
+    },
+    "3193": {
+      "instrument": "bell",
+      "note": 13,
+      "powered": true
+    },
+    "3194": {
+      "instrument": "bell",
+      "note": 13,
+      "powered": false
+    },
+    "3195": {
+      "instrument": "bell",
+      "note": 14,
+      "powered": true
+    },
+    "3196": {
+      "instrument": "bell",
+      "note": 14,
+      "powered": false
+    },
+    "3197": {
+      "instrument": "bell",
+      "note": 15,
+      "powered": true
+    },
+    "3198": {
+      "instrument": "bell",
+      "note": 15,
+      "powered": false
+    },
+    "3199": {
+      "instrument": "bell",
+      "note": 16,
+      "powered": true
+    },
+    "3200": {
+      "instrument": "bell",
+      "note": 16,
+      "powered": false
+    },
+    "3201": {
+      "instrument": "bell",
+      "note": 17,
+      "powered": true
+    },
+    "3202": {
+      "instrument": "bell",
+      "note": 17,
+      "powered": false
+    },
+    "3203": {
+      "instrument": "bell",
+      "note": 18,
+      "powered": true
+    },
+    "3204": {
+      "instrument": "bell",
+      "note": 18,
+      "powered": false
+    },
+    "3205": {
+      "instrument": "bell",
+      "note": 19,
+      "powered": true
+    },
+    "3206": {
+      "instrument": "bell",
+      "note": 19,
+      "powered": false
+    },
+    "3207": {
+      "instrument": "bell",
+      "note": 20,
+      "powered": true
+    },
+    "3208": {
+      "instrument": "bell",
+      "note": 20,
+      "powered": false
+    },
+    "3209": {
+      "instrument": "bell",
+      "note": 21,
+      "powered": true
+    },
+    "3210": {
+      "instrument": "bell",
+      "note": 21,
+      "powered": false
+    },
+    "3211": {
+      "instrument": "bell",
+      "note": 22,
+      "powered": true
+    },
+    "3212": {
+      "instrument": "bell",
+      "note": 22,
+      "powered": false
+    },
+    "3213": {
+      "instrument": "bell",
+      "note": 23,
+      "powered": true
+    },
+    "3214": {
+      "instrument": "bell",
+      "note": 23,
+      "powered": false
+    },
+    "3215": {
+      "instrument": "bell",
+      "note": 24,
+      "powered": true
+    },
+    "3216": {
+      "instrument": "bell",
+      "note": 24,
+      "powered": false
+    },
+    "3217": {
+      "instrument": "guitar",
+      "note": 0,
+      "powered": true
+    },
+    "3218": {
+      "instrument": "guitar",
+      "note": 0,
+      "powered": false
+    },
+    "3219": {
+      "instrument": "guitar",
+      "note": 1,
+      "powered": true
+    },
+    "3220": {
+      "instrument": "guitar",
+      "note": 1,
+      "powered": false
+    },
+    "3221": {
+      "instrument": "guitar",
+      "note": 2,
+      "powered": true
+    },
+    "3222": {
+      "instrument": "guitar",
+      "note": 2,
+      "powered": false
+    },
+    "3223": {
+      "instrument": "guitar",
+      "note": 3,
+      "powered": true
+    },
+    "3224": {
+      "instrument": "guitar",
+      "note": 3,
+      "powered": false
+    },
+    "3225": {
+      "instrument": "guitar",
+      "note": 4,
+      "powered": true
+    },
+    "3226": {
+      "instrument": "guitar",
+      "note": 4,
+      "powered": false
+    },
+    "3227": {
+      "instrument": "guitar",
+      "note": 5,
+      "powered": true
+    },
+    "3228": {
+      "instrument": "guitar",
+      "note": 5,
+      "powered": false
+    },
+    "3229": {
+      "instrument": "guitar",
+      "note": 6,
+      "powered": true
+    },
+    "3230": {
+      "instrument": "guitar",
+      "note": 6,
+      "powered": false
+    },
+    "3231": {
+      "instrument": "guitar",
+      "note": 7,
+      "powered": true
+    },
+    "3232": {
+      "instrument": "guitar",
+      "note": 7,
+      "powered": false
+    },
+    "3233": {
+      "instrument": "guitar",
+      "note": 8,
+      "powered": true
+    },
+    "3234": {
+      "instrument": "guitar",
+      "note": 8,
+      "powered": false
+    },
+    "3235": {
+      "instrument": "guitar",
+      "note": 9,
+      "powered": true
+    },
+    "3236": {
+      "instrument": "guitar",
+      "note": 9,
+      "powered": false
+    },
+    "3237": {
+      "instrument": "guitar",
+      "note": 10,
+      "powered": true
+    },
+    "3238": {
+      "instrument": "guitar",
+      "note": 10,
+      "powered": false
+    },
+    "3239": {
+      "instrument": "guitar",
+      "note": 11,
+      "powered": true
+    },
+    "3240": {
+      "instrument": "guitar",
+      "note": 11,
+      "powered": false
+    },
+    "3241": {
+      "instrument": "guitar",
+      "note": 12,
+      "powered": true
+    },
+    "3242": {
+      "instrument": "guitar",
+      "note": 12,
+      "powered": false
+    },
+    "3243": {
+      "instrument": "guitar",
+      "note": 13,
+      "powered": true
+    },
+    "3244": {
+      "instrument": "guitar",
+      "note": 13,
+      "powered": false
+    },
+    "3245": {
+      "instrument": "guitar",
+      "note": 14,
+      "powered": true
+    },
+    "3246": {
+      "instrument": "guitar",
+      "note": 14,
+      "powered": false
+    },
+    "3247": {
+      "instrument": "guitar",
+      "note": 15,
+      "powered": true
+    },
+    "3248": {
+      "instrument": "guitar",
+      "note": 15,
+      "powered": false
+    },
+    "3249": {
+      "instrument": "guitar",
+      "note": 16,
+      "powered": true
+    },
+    "3250": {
+      "instrument": "guitar",
+      "note": 16,
+      "powered": false
+    },
+    "3251": {
+      "instrument": "guitar",
+      "note": 17,
+      "powered": true
+    },
+    "3252": {
+      "instrument": "guitar",
+      "note": 17,
+      "powered": false
+    },
+    "3253": {
+      "instrument": "guitar",
+      "note": 18,
+      "powered": true
+    },
+    "3254": {
+      "instrument": "guitar",
+      "note": 18,
+      "powered": false
+    },
+    "3255": {
+      "instrument": "guitar",
+      "note": 19,
+      "powered": true
+    },
+    "3256": {
+      "instrument": "guitar",
+      "note": 19,
+      "powered": false
+    },
+    "3257": {
+      "instrument": "guitar",
+      "note": 20,
+      "powered": true
+    },
+    "3258": {
+      "instrument": "guitar",
+      "note": 20,
+      "powered": false
+    },
+    "3259": {
+      "instrument": "guitar",
+      "note": 21,
+      "powered": true
+    },
+    "3260": {
+      "instrument": "guitar",
+      "note": 21,
+      "powered": false
+    },
+    "3261": {
+      "instrument": "guitar",
+      "note": 22,
+      "powered": true
+    },
+    "3262": {
+      "instrument": "guitar",
+      "note": 22,
+      "powered": false
+    },
+    "3263": {
+      "instrument": "guitar",
+      "note": 23,
+      "powered": true
+    },
+    "3264": {
+      "instrument": "guitar",
+      "note": 23,
+      "powered": false
+    },
+    "3265": {
+      "instrument": "guitar",
+      "note": 24,
+      "powered": true
+    },
+    "3266": {
+      "instrument": "guitar",
+      "note": 24,
+      "powered": false
+    },
+    "3267": {
+      "instrument": "chime",
+      "note": 0,
+      "powered": true
+    },
+    "3268": {
+      "instrument": "chime",
+      "note": 0,
+      "powered": false
+    },
+    "3269": {
+      "instrument": "chime",
+      "note": 1,
+      "powered": true
+    },
+    "3270": {
+      "instrument": "chime",
+      "note": 1,
+      "powered": false
+    },
+    "3271": {
+      "instrument": "chime",
+      "note": 2,
+      "powered": true
+    },
+    "3272": {
+      "instrument": "chime",
+      "note": 2,
+      "powered": false
+    },
+    "3273": {
+      "instrument": "chime",
+      "note": 3,
+      "powered": true
+    },
+    "3274": {
+      "instrument": "chime",
+      "note": 3,
+      "powered": false
+    },
+    "3275": {
+      "instrument": "chime",
+      "note": 4,
+      "powered": true
+    },
+    "3276": {
+      "instrument": "chime",
+      "note": 4,
+      "powered": false
+    },
+    "3277": {
+      "instrument": "chime",
+      "note": 5,
+      "powered": true
+    },
+    "3278": {
+      "instrument": "chime",
+      "note": 5,
+      "powered": false
+    },
+    "3279": {
+      "instrument": "chime",
+      "note": 6,
+      "powered": true
+    },
+    "3280": {
+      "instrument": "chime",
+      "note": 6,
+      "powered": false
+    },
+    "3281": {
+      "instrument": "chime",
+      "note": 7,
+      "powered": true
+    },
+    "3282": {
+      "instrument": "chime",
+      "note": 7,
+      "powered": false
+    },
+    "3283": {
+      "instrument": "chime",
+      "note": 8,
+      "powered": true
+    },
+    "3284": {
+      "instrument": "chime",
+      "note": 8,
+      "powered": false
+    },
+    "3285": {
+      "instrument": "chime",
+      "note": 9,
+      "powered": true
+    },
+    "3286": {
+      "instrument": "chime",
+      "note": 9,
+      "powered": false
+    },
+    "3287": {
+      "instrument": "chime",
+      "note": 10,
+      "powered": true
+    },
+    "3288": {
+      "instrument": "chime",
+      "note": 10,
+      "powered": false
+    },
+    "3289": {
+      "instrument": "chime",
+      "note": 11,
+      "powered": true
+    },
+    "3290": {
+      "instrument": "chime",
+      "note": 11,
+      "powered": false
+    },
+    "3291": {
+      "instrument": "chime",
+      "note": 12,
+      "powered": true
+    },
+    "3292": {
+      "instrument": "chime",
+      "note": 12,
+      "powered": false
+    },
+    "3293": {
+      "instrument": "chime",
+      "note": 13,
+      "powered": true
+    },
+    "3294": {
+      "instrument": "chime",
+      "note": 13,
+      "powered": false
+    },
+    "3295": {
+      "instrument": "chime",
+      "note": 14,
+      "powered": true
+    },
+    "3296": {
+      "instrument": "chime",
+      "note": 14,
+      "powered": false
+    },
+    "3297": {
+      "instrument": "chime",
+      "note": 15,
+      "powered": true
+    },
+    "3298": {
+      "instrument": "chime",
+      "note": 15,
+      "powered": false
+    },
+    "3299": {
+      "instrument": "chime",
+      "note": 16,
+      "powered": true
+    },
+    "3300": {
+      "instrument": "chime",
+      "note": 16,
+      "powered": false
+    },
+    "3301": {
+      "instrument": "chime",
+      "note": 17,
+      "powered": true
+    },
+    "3302": {
+      "instrument": "chime",
+      "note": 17,
+      "powered": false
+    },
+    "3303": {
+      "instrument": "chime",
+      "note": 18,
+      "powered": true
+    },
+    "3304": {
+      "instrument": "chime",
+      "note": 18,
+      "powered": false
+    },
+    "3305": {
+      "instrument": "chime",
+      "note": 19,
+      "powered": true
+    },
+    "3306": {
+      "instrument": "chime",
+      "note": 19,
+      "powered": false
+    },
+    "3307": {
+      "instrument": "chime",
+      "note": 20,
+      "powered": true
+    },
+    "3308": {
+      "instrument": "chime",
+      "note": 20,
+      "powered": false
+    },
+    "3309": {
+      "instrument": "chime",
+      "note": 21,
+      "powered": true
+    },
+    "3310": {
+      "instrument": "chime",
+      "note": 21,
+      "powered": false
+    },
+    "3311": {
+      "instrument": "chime",
+      "note": 22,
+      "powered": true
+    },
+    "3312": {
+      "instrument": "chime",
+      "note": 22,
+      "powered": false
+    },
+    "3313": {
+      "instrument": "chime",
+      "note": 23,
+      "powered": true
+    },
+    "3314": {
+      "instrument": "chime",
+      "note": 23,
+      "powered": false
+    },
+    "3315": {
+      "instrument": "chime",
+      "note": 24,
+      "powered": true
+    },
+    "3316": {
+      "instrument": "chime",
+      "note": 24,
+      "powered": false
+    },
+    "3317": {
+      "instrument": "xylophone",
+      "note": 0,
+      "powered": true
+    },
+    "3318": {
+      "instrument": "xylophone",
+      "note": 0,
+      "powered": false
+    },
+    "3319": {
+      "instrument": "xylophone",
+      "note": 1,
+      "powered": true
+    },
+    "3320": {
+      "instrument": "xylophone",
+      "note": 1,
+      "powered": false
+    },
+    "3321": {
+      "instrument": "xylophone",
+      "note": 2,
+      "powered": true
+    },
+    "3322": {
+      "instrument": "xylophone",
+      "note": 2,
+      "powered": false
+    },
+    "3323": {
+      "instrument": "xylophone",
+      "note": 3,
+      "powered": true
+    },
+    "3324": {
+      "instrument": "xylophone",
+      "note": 3,
+      "powered": false
+    },
+    "3325": {
+      "instrument": "xylophone",
+      "note": 4,
+      "powered": true
+    },
+    "3326": {
+      "instrument": "xylophone",
+      "note": 4,
+      "powered": false
+    },
+    "3327": {
+      "instrument": "xylophone",
+      "note": 5,
+      "powered": true
+    },
+    "3328": {
+      "instrument": "xylophone",
+      "note": 5,
+      "powered": false
+    },
+    "3329": {
+      "instrument": "xylophone",
+      "note": 6,
+      "powered": true
+    },
+    "3330": {
+      "instrument": "xylophone",
+      "note": 6,
+      "powered": false
+    },
+    "3331": {
+      "instrument": "xylophone",
+      "note": 7,
+      "powered": true
+    },
+    "3332": {
+      "instrument": "xylophone",
+      "note": 7,
+      "powered": false
+    },
+    "3333": {
+      "instrument": "xylophone",
+      "note": 8,
+      "powered": true
+    },
+    "3334": {
+      "instrument": "xylophone",
+      "note": 8,
+      "powered": false
+    },
+    "3335": {
+      "instrument": "xylophone",
+      "note": 9,
+      "powered": true
+    },
+    "3336": {
+      "instrument": "xylophone",
+      "note": 9,
+      "powered": false
+    },
+    "3337": {
+      "instrument": "xylophone",
+      "note": 10,
+      "powered": true
+    },
+    "3338": {
+      "instrument": "xylophone",
+      "note": 10,
+      "powered": false
+    },
+    "3339": {
+      "instrument": "xylophone",
+      "note": 11,
+      "powered": true
+    },
+    "3340": {
+      "instrument": "xylophone",
+      "note": 11,
+      "powered": false
+    },
+    "3341": {
+      "instrument": "xylophone",
+      "note": 12,
+      "powered": true
+    },
+    "3342": {
+      "instrument": "xylophone",
+      "note": 12,
+      "powered": false
+    },
+    "3343": {
+      "instrument": "xylophone",
+      "note": 13,
+      "powered": true
+    },
+    "3344": {
+      "instrument": "xylophone",
+      "note": 13,
+      "powered": false
+    },
+    "3345": {
+      "instrument": "xylophone",
+      "note": 14,
+      "powered": true
+    },
+    "3346": {
+      "instrument": "xylophone",
+      "note": 14,
+      "powered": false
+    },
+    "3347": {
+      "instrument": "xylophone",
+      "note": 15,
+      "powered": true
+    },
+    "3348": {
+      "instrument": "xylophone",
+      "note": 15,
+      "powered": false
+    },
+    "3349": {
+      "instrument": "xylophone",
+      "note": 16,
+      "powered": true
+    },
+    "3350": {
+      "instrument": "xylophone",
+      "note": 16,
+      "powered": false
+    },
+    "3351": {
+      "instrument": "xylophone",
+      "note": 17,
+      "powered": true
+    },
+    "3352": {
+      "instrument": "xylophone",
+      "note": 17,
+      "powered": false
+    },
+    "3353": {
+      "instrument": "xylophone",
+      "note": 18,
+      "powered": true
+    },
+    "3354": {
+      "instrument": "xylophone",
+      "note": 18,
+      "powered": false
+    },
+    "3355": {
+      "instrument": "xylophone",
+      "note": 19,
+      "powered": true
+    },
+    "3356": {
+      "instrument": "xylophone",
+      "note": 19,
+      "powered": false
+    },
+    "3357": {
+      "instrument": "xylophone",
+      "note": 20,
+      "powered": true
+    },
+    "3358": {
+      "instrument": "xylophone",
+      "note": 20,
+      "powered": false
+    },
+    "3359": {
+      "instrument": "xylophone",
+      "note": 21,
+      "powered": true
+    },
+    "3360": {
+      "instrument": "xylophone",
+      "note": 21,
+      "powered": false
+    },
+    "3361": {
+      "instrument": "xylophone",
+      "note": 22,
+      "powered": true
+    },
+    "3362": {
+      "instrument": "xylophone",
+      "note": 22,
+      "powered": false
+    },
+    "3363": {
+      "instrument": "xylophone",
+      "note": 23,
+      "powered": true
+    },
+    "3364": {
+      "instrument": "xylophone",
+      "note": 23,
+      "powered": false
+    },
+    "3365": {
+      "instrument": "xylophone",
+      "note": 24,
+      "powered": true
+    },
+    "3366": {
+      "instrument": "xylophone",
+      "note": 24,
+      "powered": false
+    },
+    "3367": {
+      "instrument": "iron_xylophone",
+      "note": 0,
+      "powered": true
+    },
+    "3368": {
+      "instrument": "iron_xylophone",
+      "note": 0,
+      "powered": false
+    },
+    "3369": {
+      "instrument": "iron_xylophone",
+      "note": 1,
+      "powered": true
+    },
+    "3370": {
+      "instrument": "iron_xylophone",
+      "note": 1,
+      "powered": false
+    },
+    "3371": {
+      "instrument": "iron_xylophone",
+      "note": 2,
+      "powered": true
+    },
+    "3372": {
+      "instrument": "iron_xylophone",
+      "note": 2,
+      "powered": false
+    },
+    "3373": {
+      "instrument": "iron_xylophone",
+      "note": 3,
+      "powered": true
+    },
+    "3374": {
+      "instrument": "iron_xylophone",
+      "note": 3,
+      "powered": false
+    },
+    "3375": {
+      "instrument": "iron_xylophone",
+      "note": 4,
+      "powered": true
+    },
+    "3376": {
+      "instrument": "iron_xylophone",
+      "note": 4,
+      "powered": false
+    },
+    "3377": {
+      "instrument": "iron_xylophone",
+      "note": 5,
+      "powered": true
+    },
+    "3378": {
+      "instrument": "iron_xylophone",
+      "note": 5,
+      "powered": false
+    },
+    "3379": {
+      "instrument": "iron_xylophone",
+      "note": 6,
+      "powered": true
+    },
+    "3380": {
+      "instrument": "iron_xylophone",
+      "note": 6,
+      "powered": false
+    },
+    "3381": {
+      "instrument": "iron_xylophone",
+      "note": 7,
+      "powered": true
+    },
+    "3382": {
+      "instrument": "iron_xylophone",
+      "note": 7,
+      "powered": false
+    },
+    "3383": {
+      "instrument": "iron_xylophone",
+      "note": 8,
+      "powered": true
+    },
+    "3384": {
+      "instrument": "iron_xylophone",
+      "note": 8,
+      "powered": false
+    },
+    "3385": {
+      "instrument": "iron_xylophone",
+      "note": 9,
+      "powered": true
+    },
+    "3386": {
+      "instrument": "iron_xylophone",
+      "note": 9,
+      "powered": false
+    },
+    "3387": {
+      "instrument": "iron_xylophone",
+      "note": 10,
+      "powered": true
+    },
+    "3388": {
+      "instrument": "iron_xylophone",
+      "note": 10,
+      "powered": false
+    },
+    "3389": {
+      "instrument": "iron_xylophone",
+      "note": 11,
+      "powered": true
+    },
+    "3390": {
+      "instrument": "iron_xylophone",
+      "note": 11,
+      "powered": false
+    },
+    "3391": {
+      "instrument": "iron_xylophone",
+      "note": 12,
+      "powered": true
+    },
+    "3392": {
+      "instrument": "iron_xylophone",
+      "note": 12,
+      "powered": false
+    },
+    "3393": {
+      "instrument": "iron_xylophone",
+      "note": 13,
+      "powered": true
+    },
+    "3394": {
+      "instrument": "iron_xylophone",
+      "note": 13,
+      "powered": false
+    },
+    "3395": {
+      "instrument": "iron_xylophone",
+      "note": 14,
+      "powered": true
+    },
+    "3396": {
+      "instrument": "iron_xylophone",
+      "note": 14,
+      "powered": false
+    },
+    "3397": {
+      "instrument": "iron_xylophone",
+      "note": 15,
+      "powered": true
+    },
+    "3398": {
+      "instrument": "iron_xylophone",
+      "note": 15,
+      "powered": false
+    },
+    "3399": {
+      "instrument": "iron_xylophone",
+      "note": 16,
+      "powered": true
+    },
+    "3400": {
+      "instrument": "iron_xylophone",
+      "note": 16,
+      "powered": false
+    },
+    "3401": {
+      "instrument": "iron_xylophone",
+      "note": 17,
+      "powered": true
+    },
+    "3402": {
+      "instrument": "iron_xylophone",
+      "note": 17,
+      "powered": false
+    },
+    "3403": {
+      "instrument": "iron_xylophone",
+      "note": 18,
+      "powered": true
+    },
+    "3404": {
+      "instrument": "iron_xylophone",
+      "note": 18,
+      "powered": false
+    },
+    "3405": {
+      "instrument": "iron_xylophone",
+      "note": 19,
+      "powered": true
+    },
+    "3406": {
+      "instrument": "iron_xylophone",
+      "note": 19,
+      "powered": false
+    },
+    "3407": {
+      "instrument": "iron_xylophone",
+      "note": 20,
+      "powered": true
+    },
+    "3408": {
+      "instrument": "iron_xylophone",
+      "note": 20,
+      "powered": false
+    },
+    "3409": {
+      "instrument": "iron_xylophone",
+      "note": 21,
+      "powered": true
+    },
+    "3410": {
+      "instrument": "iron_xylophone",
+      "note": 21,
+      "powered": false
+    },
+    "3411": {
+      "instrument": "iron_xylophone",
+      "note": 22,
+      "powered": true
+    },
+    "3412": {
+      "instrument": "iron_xylophone",
+      "note": 22,
+      "powered": false
+    },
+    "3413": {
+      "instrument": "iron_xylophone",
+      "note": 23,
+      "powered": true
+    },
+    "3414": {
+      "instrument": "iron_xylophone",
+      "note": 23,
+      "powered": false
+    },
+    "3415": {
+      "instrument": "iron_xylophone",
+      "note": 24,
+      "powered": true
+    },
+    "3416": {
+      "instrument": "iron_xylophone",
+      "note": 24,
+      "powered": false
+    },
+    "3417": {
+      "instrument": "cow_bell",
+      "note": 0,
+      "powered": true
+    },
+    "3418": {
+      "instrument": "cow_bell",
+      "note": 0,
+      "powered": false
+    },
+    "3419": {
+      "instrument": "cow_bell",
+      "note": 1,
+      "powered": true
+    },
+    "3420": {
+      "instrument": "cow_bell",
+      "note": 1,
+      "powered": false
+    },
+    "3421": {
+      "instrument": "cow_bell",
+      "note": 2,
+      "powered": true
+    },
+    "3422": {
+      "instrument": "cow_bell",
+      "note": 2,
+      "powered": false
+    },
+    "3423": {
+      "instrument": "cow_bell",
+      "note": 3,
+      "powered": true
+    },
+    "3424": {
+      "instrument": "cow_bell",
+      "note": 3,
+      "powered": false
+    },
+    "3425": {
+      "instrument": "cow_bell",
+      "note": 4,
+      "powered": true
+    },
+    "3426": {
+      "instrument": "cow_bell",
+      "note": 4,
+      "powered": false
+    },
+    "3427": {
+      "instrument": "cow_bell",
+      "note": 5,
+      "powered": true
+    },
+    "3428": {
+      "instrument": "cow_bell",
+      "note": 5,
+      "powered": false
+    },
+    "3429": {
+      "instrument": "cow_bell",
+      "note": 6,
+      "powered": true
+    },
+    "3430": {
+      "instrument": "cow_bell",
+      "note": 6,
+      "powered": false
+    },
+    "3431": {
+      "instrument": "cow_bell",
+      "note": 7,
+      "powered": true
+    },
+    "3432": {
+      "instrument": "cow_bell",
+      "note": 7,
+      "powered": false
+    },
+    "3433": {
+      "instrument": "cow_bell",
+      "note": 8,
+      "powered": true
+    },
+    "3434": {
+      "instrument": "cow_bell",
+      "note": 8,
+      "powered": false
+    },
+    "3435": {
+      "instrument": "cow_bell",
+      "note": 9,
+      "powered": true
+    },
+    "3436": {
+      "instrument": "cow_bell",
+      "note": 9,
+      "powered": false
+    },
+    "3437": {
+      "instrument": "cow_bell",
+      "note": 10,
+      "powered": true
+    },
+    "3438": {
+      "instrument": "cow_bell",
+      "note": 10,
+      "powered": false
+    },
+    "3439": {
+      "instrument": "cow_bell",
+      "note": 11,
+      "powered": true
+    },
+    "3440": {
+      "instrument": "cow_bell",
+      "note": 11,
+      "powered": false
+    },
+    "3441": {
+      "instrument": "cow_bell",
+      "note": 12,
+      "powered": true
+    },
+    "3442": {
+      "instrument": "cow_bell",
+      "note": 12,
+      "powered": false
+    },
+    "3443": {
+      "instrument": "cow_bell",
+      "note": 13,
+      "powered": true
+    },
+    "3444": {
+      "instrument": "cow_bell",
+      "note": 13,
+      "powered": false
+    },
+    "3445": {
+      "instrument": "cow_bell",
+      "note": 14,
+      "powered": true
+    },
+    "3446": {
+      "instrument": "cow_bell",
+      "note": 14,
+      "powered": false
+    },
+    "3447": {
+      "instrument": "cow_bell",
+      "note": 15,
+      "powered": true
+    },
+    "3448": {
+      "instrument": "cow_bell",
+      "note": 15,
+      "powered": false
+    },
+    "3449": {
+      "instrument": "cow_bell",
+      "note": 16,
+      "powered": true
+    },
+    "3450": {
+      "instrument": "cow_bell",
+      "note": 16,
+      "powered": false
+    },
+    "3451": {
+      "instrument": "cow_bell",
+      "note": 17,
+      "powered": true
+    },
+    "3452": {
+      "instrument": "cow_bell",
+      "note": 17,
+      "powered": false
+    },
+    "3453": {
+      "instrument": "cow_bell",
+      "note": 18,
+      "powered": true
+    },
+    "3454": {
+      "instrument": "cow_bell",
+      "note": 18,
+      "powered": false
+    },
+    "3455": {
+      "instrument": "cow_bell",
+      "note": 19,
+      "powered": true
+    },
+    "3456": {
+      "instrument": "cow_bell",
+      "note": 19,
+      "powered": false
+    },
+    "3457": {
+      "instrument": "cow_bell",
+      "note": 20,
+      "powered": true
+    },
+    "3458": {
+      "instrument": "cow_bell",
+      "note": 20,
+      "powered": false
+    },
+    "3459": {
+      "instrument": "cow_bell",
+      "note": 21,
+      "powered": true
+    },
+    "3460": {
+      "instrument": "cow_bell",
+      "note": 21,
+      "powered": false
+    },
+    "3461": {
+      "instrument": "cow_bell",
+      "note": 22,
+      "powered": true
+    },
+    "3462": {
+      "instrument": "cow_bell",
+      "note": 22,
+      "powered": false
+    },
+    "3463": {
+      "instrument": "cow_bell",
+      "note": 23,
+      "powered": true
+    },
+    "3464": {
+      "instrument": "cow_bell",
+      "note": 23,
+      "powered": false
+    },
+    "3465": {
+      "instrument": "cow_bell",
+      "note": 24,
+      "powered": true
+    },
+    "3466": {
+      "instrument": "cow_bell",
+      "note": 24,
+      "powered": false
+    },
+    "3467": {
+      "instrument": "didgeridoo",
+      "note": 0,
+      "powered": true
+    },
+    "3468": {
+      "instrument": "didgeridoo",
+      "note": 0,
+      "powered": false
+    },
+    "3469": {
+      "instrument": "didgeridoo",
+      "note": 1,
+      "powered": true
+    },
+    "3470": {
+      "instrument": "didgeridoo",
+      "note": 1,
+      "powered": false
+    },
+    "3471": {
+      "instrument": "didgeridoo",
+      "note": 2,
+      "powered": true
+    },
+    "3472": {
+      "instrument": "didgeridoo",
+      "note": 2,
+      "powered": false
+    },
+    "3473": {
+      "instrument": "didgeridoo",
+      "note": 3,
+      "powered": true
+    },
+    "3474": {
+      "instrument": "didgeridoo",
+      "note": 3,
+      "powered": false
+    },
+    "3475": {
+      "instrument": "didgeridoo",
+      "note": 4,
+      "powered": true
+    },
+    "3476": {
+      "instrument": "didgeridoo",
+      "note": 4,
+      "powered": false
+    },
+    "3477": {
+      "instrument": "didgeridoo",
+      "note": 5,
+      "powered": true
+    },
+    "3478": {
+      "instrument": "didgeridoo",
+      "note": 5,
+      "powered": false
+    },
+    "3479": {
+      "instrument": "didgeridoo",
+      "note": 6,
+      "powered": true
+    },
+    "3480": {
+      "instrument": "didgeridoo",
+      "note": 6,
+      "powered": false
+    },
+    "3481": {
+      "instrument": "didgeridoo",
+      "note": 7,
+      "powered": true
+    },
+    "3482": {
+      "instrument": "didgeridoo",
+      "note": 7,
+      "powered": false
+    },
+    "3483": {
+      "instrument": "didgeridoo",
+      "note": 8,
+      "powered": true
+    },
+    "3484": {
+      "instrument": "didgeridoo",
+      "note": 8,
+      "powered": false
+    },
+    "3485": {
+      "instrument": "didgeridoo",
+      "note": 9,
+      "powered": true
+    },
+    "3486": {
+      "instrument": "didgeridoo",
+      "note": 9,
+      "powered": false
+    },
+    "3487": {
+      "instrument": "didgeridoo",
+      "note": 10,
+      "powered": true
+    },
+    "3488": {
+      "instrument": "didgeridoo",
+      "note": 10,
+      "powered": false
+    },
+    "3489": {
+      "instrument": "didgeridoo",
+      "note": 11,
+      "powered": true
+    },
+    "3490": {
+      "instrument": "didgeridoo",
+      "note": 11,
+      "powered": false
+    },
+    "3491": {
+      "instrument": "didgeridoo",
+      "note": 12,
+      "powered": true
+    },
+    "3492": {
+      "instrument": "didgeridoo",
+      "note": 12,
+      "powered": false
+    },
+    "3493": {
+      "instrument": "didgeridoo",
+      "note": 13,
+      "powered": true
+    },
+    "3494": {
+      "instrument": "didgeridoo",
+      "note": 13,
+      "powered": false
+    },
+    "3495": {
+      "instrument": "didgeridoo",
+      "note": 14,
+      "powered": true
+    },
+    "3496": {
+      "instrument": "didgeridoo",
+      "note": 14,
+      "powered": false
+    },
+    "3497": {
+      "instrument": "didgeridoo",
+      "note": 15,
+      "powered": true
+    },
+    "3498": {
+      "instrument": "didgeridoo",
+      "note": 15,
+      "powered": false
+    },
+    "3499": {
+      "instrument": "didgeridoo",
+      "note": 16,
+      "powered": true
+    },
+    "3500": {
+      "instrument": "didgeridoo",
+      "note": 16,
+      "powered": false
+    },
+    "3501": {
+      "instrument": "didgeridoo",
+      "note": 17,
+      "powered": true
+    },
+    "3502": {
+      "instrument": "didgeridoo",
+      "note": 17,
+      "powered": false
+    },
+    "3503": {
+      "instrument": "didgeridoo",
+      "note": 18,
+      "powered": true
+    },
+    "3504": {
+      "instrument": "didgeridoo",
+      "note": 18,
+      "powered": false
+    },
+    "3505": {
+      "instrument": "didgeridoo",
+      "note": 19,
+      "powered": true
+    },
+    "3506": {
+      "instrument": "didgeridoo",
+      "note": 19,
+      "powered": false
+    },
+    "3507": {
+      "instrument": "didgeridoo",
+      "note": 20,
+      "powered": true
+    },
+    "3508": {
+      "instrument": "didgeridoo",
+      "note": 20,
+      "powered": false
+    },
+    "3509": {
+      "instrument": "didgeridoo",
+      "note": 21,
+      "powered": true
+    },
+    "3510": {
+      "instrument": "didgeridoo",
+      "note": 21,
+      "powered": false
+    },
+    "3511": {
+      "instrument": "didgeridoo",
+      "note": 22,
+      "powered": true
+    },
+    "3512": {
+      "instrument": "didgeridoo",
+      "note": 22,
+      "powered": false
+    },
+    "3513": {
+      "instrument": "didgeridoo",
+      "note": 23,
+      "powered": true
+    },
+    "3514": {
+      "instrument": "didgeridoo",
+      "note": 23,
+      "powered": false
+    },
+    "3515": {
+      "instrument": "didgeridoo",
+      "note": 24,
+      "powered": true
+    },
+    "3516": {
+      "instrument": "didgeridoo",
+      "note": 24,
+      "powered": false
+    },
+    "3517": {
+      "instrument": "bit",
+      "note": 0,
+      "powered": true
+    },
+    "3518": {
+      "instrument": "bit",
+      "note": 0,
+      "powered": false
+    },
+    "3519": {
+      "instrument": "bit",
+      "note": 1,
+      "powered": true
+    },
+    "3520": {
+      "instrument": "bit",
+      "note": 1,
+      "powered": false
+    },
+    "3521": {
+      "instrument": "bit",
+      "note": 2,
+      "powered": true
+    },
+    "3522": {
+      "instrument": "bit",
+      "note": 2,
+      "powered": false
+    },
+    "3523": {
+      "instrument": "bit",
+      "note": 3,
+      "powered": true
+    },
+    "3524": {
+      "instrument": "bit",
+      "note": 3,
+      "powered": false
+    },
+    "3525": {
+      "instrument": "bit",
+      "note": 4,
+      "powered": true
+    },
+    "3526": {
+      "instrument": "bit",
+      "note": 4,
+      "powered": false
+    },
+    "3527": {
+      "instrument": "bit",
+      "note": 5,
+      "powered": true
+    },
+    "3528": {
+      "instrument": "bit",
+      "note": 5,
+      "powered": false
+    },
+    "3529": {
+      "instrument": "bit",
+      "note": 6,
+      "powered": true
+    },
+    "3530": {
+      "instrument": "bit",
+      "note": 6,
+      "powered": false
+    },
+    "3531": {
+      "instrument": "bit",
+      "note": 7,
+      "powered": true
+    },
+    "3532": {
+      "instrument": "bit",
+      "note": 7,
+      "powered": false
+    },
+    "3533": {
+      "instrument": "bit",
+      "note": 8,
+      "powered": true
+    },
+    "3534": {
+      "instrument": "bit",
+      "note": 8,
+      "powered": false
+    },
+    "3535": {
+      "instrument": "bit",
+      "note": 9,
+      "powered": true
+    },
+    "3536": {
+      "instrument": "bit",
+      "note": 9,
+      "powered": false
+    },
+    "3537": {
+      "instrument": "bit",
+      "note": 10,
+      "powered": true
+    },
+    "3538": {
+      "instrument": "bit",
+      "note": 10,
+      "powered": false
+    },
+    "3539": {
+      "instrument": "bit",
+      "note": 11,
+      "powered": true
+    },
+    "3540": {
+      "instrument": "bit",
+      "note": 11,
+      "powered": false
+    },
+    "3541": {
+      "instrument": "bit",
+      "note": 12,
+      "powered": true
+    },
+    "3542": {
+      "instrument": "bit",
+      "note": 12,
+      "powered": false
+    },
+    "3543": {
+      "instrument": "bit",
+      "note": 13,
+      "powered": true
+    },
+    "3544": {
+      "instrument": "bit",
+      "note": 13,
+      "powered": false
+    },
+    "3545": {
+      "instrument": "bit",
+      "note": 14,
+      "powered": true
+    },
+    "3546": {
+      "instrument": "bit",
+      "note": 14,
+      "powered": false
+    },
+    "3547": {
+      "instrument": "bit",
+      "note": 15,
+      "powered": true
+    },
+    "3548": {
+      "instrument": "bit",
+      "note": 15,
+      "powered": false
+    },
+    "3549": {
+      "instrument": "bit",
+      "note": 16,
+      "powered": true
+    },
+    "3550": {
+      "instrument": "bit",
+      "note": 16,
+      "powered": false
+    },
+    "3551": {
+      "instrument": "bit",
+      "note": 17,
+      "powered": true
+    },
+    "3552": {
+      "instrument": "bit",
+      "note": 17,
+      "powered": false
+    },
+    "3553": {
+      "instrument": "bit",
+      "note": 18,
+      "powered": true
+    },
+    "3554": {
+      "instrument": "bit",
+      "note": 18,
+      "powered": false
+    },
+    "3555": {
+      "instrument": "bit",
+      "note": 19,
+      "powered": true
+    },
+    "3556": {
+      "instrument": "bit",
+      "note": 19,
+      "powered": false
+    },
+    "3557": {
+      "instrument": "bit",
+      "note": 20,
+      "powered": true
+    },
+    "3558": {
+      "instrument": "bit",
+      "note": 20,
+      "powered": false
+    },
+    "3559": {
+      "instrument": "bit",
+      "note": 21,
+      "powered": true
+    },
+    "3560": {
+      "instrument": "bit",
+      "note": 21,
+      "powered": false
+    },
+    "3561": {
+      "instrument": "bit",
+      "note": 22,
+      "powered": true
+    },
+    "3562": {
+      "instrument": "bit",
+      "note": 22,
+      "powered": false
+    },
+    "3563": {
+      "instrument": "bit",
+      "note": 23,
+      "powered": true
+    },
+    "3564": {
+      "instrument": "bit",
+      "note": 23,
+      "powered": false
+    },
+    "3565": {
+      "instrument": "bit",
+      "note": 24,
+      "powered": true
+    },
+    "3566": {
+      "instrument": "bit",
+      "note": 24,
+      "powered": false
+    },
+    "3567": {
+      "instrument": "banjo",
+      "note": 0,
+      "powered": true
+    },
+    "3568": {
+      "instrument": "banjo",
+      "note": 0,
+      "powered": false
+    },
+    "3569": {
+      "instrument": "banjo",
+      "note": 1,
+      "powered": true
+    },
+    "3570": {
+      "instrument": "banjo",
+      "note": 1,
+      "powered": false
+    },
+    "3571": {
+      "instrument": "banjo",
+      "note": 2,
+      "powered": true
+    },
+    "3572": {
+      "instrument": "banjo",
+      "note": 2,
+      "powered": false
+    },
+    "3573": {
+      "instrument": "banjo",
+      "note": 3,
+      "powered": true
+    },
+    "3574": {
+      "instrument": "banjo",
+      "note": 3,
+      "powered": false
+    },
+    "3575": {
+      "instrument": "banjo",
+      "note": 4,
+      "powered": true
+    },
+    "3576": {
+      "instrument": "banjo",
+      "note": 4,
+      "powered": false
+    },
+    "3577": {
+      "instrument": "banjo",
+      "note": 5,
+      "powered": true
+    },
+    "3578": {
+      "instrument": "banjo",
+      "note": 5,
+      "powered": false
+    },
+    "3579": {
+      "instrument": "banjo",
+      "note": 6,
+      "powered": true
+    },
+    "3580": {
+      "instrument": "banjo",
+      "note": 6,
+      "powered": false
+    },
+    "3581": {
+      "instrument": "banjo",
+      "note": 7,
+      "powered": true
+    },
+    "3582": {
+      "instrument": "banjo",
+      "note": 7,
+      "powered": false
+    },
+    "3583": {
+      "instrument": "banjo",
+      "note": 8,
+      "powered": true
+    },
+    "3584": {
+      "instrument": "banjo",
+      "note": 8,
+      "powered": false
+    },
+    "3585": {
+      "instrument": "banjo",
+      "note": 9,
+      "powered": true
+    },
+    "3586": {
+      "instrument": "banjo",
+      "note": 9,
+      "powered": false
+    },
+    "3587": {
+      "instrument": "banjo",
+      "note": 10,
+      "powered": true
+    },
+    "3588": {
+      "instrument": "banjo",
+      "note": 10,
+      "powered": false
+    },
+    "3589": {
+      "instrument": "banjo",
+      "note": 11,
+      "powered": true
+    },
+    "3590": {
+      "instrument": "banjo",
+      "note": 11,
+      "powered": false
+    },
+    "3591": {
+      "instrument": "banjo",
+      "note": 12,
+      "powered": true
+    },
+    "3592": {
+      "instrument": "banjo",
+      "note": 12,
+      "powered": false
+    },
+    "3593": {
+      "instrument": "banjo",
+      "note": 13,
+      "powered": true
+    },
+    "3594": {
+      "instrument": "banjo",
+      "note": 13,
+      "powered": false
+    },
+    "3595": {
+      "instrument": "banjo",
+      "note": 14,
+      "powered": true
+    },
+    "3596": {
+      "instrument": "banjo",
+      "note": 14,
+      "powered": false
+    },
+    "3597": {
+      "instrument": "banjo",
+      "note": 15,
+      "powered": true
+    },
+    "3598": {
+      "instrument": "banjo",
+      "note": 15,
+      "powered": false
+    },
+    "3599": {
+      "instrument": "banjo",
+      "note": 16,
+      "powered": true
+    },
+    "3600": {
+      "instrument": "banjo",
+      "note": 16,
+      "powered": false
+    },
+    "3601": {
+      "instrument": "banjo",
+      "note": 17,
+      "powered": true
+    },
+    "3602": {
+      "instrument": "banjo",
+      "note": 17,
+      "powered": false
+    },
+    "3603": {
+      "instrument": "banjo",
+      "note": 18,
+      "powered": true
+    },
+    "3604": {
+      "instrument": "banjo",
+      "note": 18,
+      "powered": false
+    },
+    "3605": {
+      "instrument": "banjo",
+      "note": 19,
+      "powered": true
+    },
+    "3606": {
+      "instrument": "banjo",
+      "note": 19,
+      "powered": false
+    },
+    "3607": {
+      "instrument": "banjo",
+      "note": 20,
+      "powered": true
+    },
+    "3608": {
+      "instrument": "banjo",
+      "note": 20,
+      "powered": false
+    },
+    "3609": {
+      "instrument": "banjo",
+      "note": 21,
+      "powered": true
+    },
+    "3610": {
+      "instrument": "banjo",
+      "note": 21,
+      "powered": false
+    },
+    "3611": {
+      "instrument": "banjo",
+      "note": 22,
+      "powered": true
+    },
+    "3612": {
+      "instrument": "banjo",
+      "note": 22,
+      "powered": false
+    },
+    "3613": {
+      "instrument": "banjo",
+      "note": 23,
+      "powered": true
+    },
+    "3614": {
+      "instrument": "banjo",
+      "note": 23,
+      "powered": false
+    },
+    "3615": {
+      "instrument": "banjo",
+      "note": 24,
+      "powered": true
+    },
+    "3616": {
+      "instrument": "banjo",
+      "note": 24,
+      "powered": false
+    },
+    "3617": {
+      "instrument": "pling",
+      "note": 0,
+      "powered": true
+    },
+    "3618": {
+      "instrument": "pling",
+      "note": 0,
+      "powered": false
+    },
+    "3619": {
+      "instrument": "pling",
+      "note": 1,
+      "powered": true
+    },
+    "3620": {
+      "instrument": "pling",
+      "note": 1,
+      "powered": false
+    },
+    "3621": {
+      "instrument": "pling",
+      "note": 2,
+      "powered": true
+    },
+    "3622": {
+      "instrument": "pling",
+      "note": 2,
+      "powered": false
+    },
+    "3623": {
+      "instrument": "pling",
+      "note": 3,
+      "powered": true
+    },
+    "3624": {
+      "instrument": "pling",
+      "note": 3,
+      "powered": false
+    },
+    "3625": {
+      "instrument": "pling",
+      "note": 4,
+      "powered": true
+    },
+    "3626": {
+      "instrument": "pling",
+      "note": 4,
+      "powered": false
+    },
+    "3627": {
+      "instrument": "pling",
+      "note": 5,
+      "powered": true
+    },
+    "3628": {
+      "instrument": "pling",
+      "note": 5,
+      "powered": false
+    },
+    "3629": {
+      "instrument": "pling",
+      "note": 6,
+      "powered": true
+    },
+    "3630": {
+      "instrument": "pling",
+      "note": 6,
+      "powered": false
+    },
+    "3631": {
+      "instrument": "pling",
+      "note": 7,
+      "powered": true
+    },
+    "3632": {
+      "instrument": "pling",
+      "note": 7,
+      "powered": false
+    },
+    "3633": {
+      "instrument": "pling",
+      "note": 8,
+      "powered": true
+    },
+    "3634": {
+      "instrument": "pling",
+      "note": 8,
+      "powered": false
+    },
+    "3635": {
+      "instrument": "pling",
+      "note": 9,
+      "powered": true
+    },
+    "3636": {
+      "instrument": "pling",
+      "note": 9,
+      "powered": false
+    },
+    "3637": {
+      "instrument": "pling",
+      "note": 10,
+      "powered": true
+    },
+    "3638": {
+      "instrument": "pling",
+      "note": 10,
+      "powered": false
+    },
+    "3639": {
+      "instrument": "pling",
+      "note": 11,
+      "powered": true
+    },
+    "3640": {
+      "instrument": "pling",
+      "note": 11,
+      "powered": false
+    },
+    "3641": {
+      "instrument": "pling",
+      "note": 12,
+      "powered": true
+    },
+    "3642": {
+      "instrument": "pling",
+      "note": 12,
+      "powered": false
+    },
+    "3643": {
+      "instrument": "pling",
+      "note": 13,
+      "powered": true
+    },
+    "3644": {
+      "instrument": "pling",
+      "note": 13,
+      "powered": false
+    },
+    "3645": {
+      "instrument": "pling",
+      "note": 14,
+      "powered": true
+    },
+    "3646": {
+      "instrument": "pling",
+      "note": 14,
+      "powered": false
+    },
+    "3647": {
+      "instrument": "pling",
+      "note": 15,
+      "powered": true
+    },
+    "3648": {
+      "instrument": "pling",
+      "note": 15,
+      "powered": false
+    },
+    "3649": {
+      "instrument": "pling",
+      "note": 16,
+      "powered": true
+    },
+    "3650": {
+      "instrument": "pling",
+      "note": 16,
+      "powered": false
+    },
+    "3651": {
+      "instrument": "pling",
+      "note": 17,
+      "powered": true
+    },
+    "3652": {
+      "instrument": "pling",
+      "note": 17,
+      "powered": false
+    },
+    "3653": {
+      "instrument": "pling",
+      "note": 18,
+      "powered": true
+    },
+    "3654": {
+      "instrument": "pling",
+      "note": 18,
+      "powered": false
+    },
+    "3655": {
+      "instrument": "pling",
+      "note": 19,
+      "powered": true
+    },
+    "3656": {
+      "instrument": "pling",
+      "note": 19,
+      "powered": false
+    },
+    "3657": {
+      "instrument": "pling",
+      "note": 20,
+      "powered": true
+    },
+    "3658": {
+      "instrument": "pling",
+      "note": 20,
+      "powered": false
+    },
+    "3659": {
+      "instrument": "pling",
+      "note": 21,
+      "powered": true
+    },
+    "3660": {
+      "instrument": "pling",
+      "note": 21,
+      "powered": false
+    },
+    "3661": {
+      "instrument": "pling",
+      "note": 22,
+      "powered": true
+    },
+    "3662": {
+      "instrument": "pling",
+      "note": 22,
+      "powered": false
+    },
+    "3663": {
+      "instrument": "pling",
+      "note": 23,
+      "powered": true
+    },
+    "3664": {
+      "instrument": "pling",
+      "note": 23,
+      "powered": false
+    },
+    "3665": {
+      "instrument": "pling",
+      "note": 24,
+      "powered": true
+    },
+    "3666": {
+      "instrument": "pling",
+      "note": 24,
+      "powered": false
+    }
+  }
+}

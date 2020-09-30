@@ -1,0 +1,48 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west"
+    ],
+    "lit": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "2977": {
+      "facing": "north",
+      "lit": true
+    },
+    "2978": {
+      "facing": "north",
+      "lit": false
+    },
+    "2979": {
+      "facing": "east",
+      "lit": true
+    },
+    "2980": {
+      "facing": "east",
+      "lit": false
+    },
+    "2981": {
+      "facing": "south",
+      "lit": true
+    },
+    "2982": {
+      "facing": "south",
+      "lit": false
+    },
+    "2983": {
+      "facing": "west",
+      "lit": true
+    },
+    "2984": {
+      "facing": "west",
+      "lit": false
+    }
+  }
+}

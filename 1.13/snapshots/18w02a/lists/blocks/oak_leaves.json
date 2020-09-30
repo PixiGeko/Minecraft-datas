@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "check_decay": [
+      true,
+      false
+    ],
+    "decayable": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "128": {
+      "check_decay": true,
+      "decayable": true
+    },
+    "129": {
+      "check_decay": true,
+      "decayable": false
+    },
+    "130": {
+      "check_decay": false,
+      "decayable": true
+    },
+    "131": {
+      "check_decay": false,
+      "decayable": false
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "properties": {
+    "east": [
+      true,
+      false
+    ],
+    "north": [
+      true,
+      false
+    ],
+    "south": [
+      true,
+      false
+    ],
+    "west": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "4002": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "west": true
+    },
+    "4003": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "west": false
+    },
+    "4004": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "west": true
+    },
+    "4005": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "west": false
+    },
+    "4006": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "west": true
+    },
+    "4007": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "west": false
+    },
+    "4008": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "west": true
+    },
+    "4009": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "west": false
+    },
+    "4010": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "west": true
+    },
+    "4011": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "west": false
+    },
+    "4012": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "west": true
+    },
+    "4013": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "west": false
+    },
+    "4014": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "west": true
+    },
+    "4015": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "west": false
+    },
+    "4016": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "west": true
+    },
+    "4017": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "west": false
+    }
+  }
+}
