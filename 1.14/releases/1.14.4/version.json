@@ -8,11 +8,6 @@
   "client_mappings": "https://launcher.mojang.com/v1/objects/c0c8ef5131b7beef2317e6ad80ebcd68c4fb60fa/client.txt",
   "server": "https://launcher.mojang.com/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar",
   "server_mappings": "https://launcher.mojang.com/v1/objects/448ccb7b455f156bb5cb9cdadd7f96cd68134dbd/server.txt",
-  "reports": [
-    "blocks",
-    "commands",
-    "registries"
-  ],
   "registries": [
     "activity",
     "advancement",
@@ -56,5 +51,10 @@
     "tag",
     "villager_profession",
     "villager_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
   ]
 }

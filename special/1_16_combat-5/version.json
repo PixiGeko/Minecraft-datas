@@ -1,10 +1,4 @@
 {
-  "reports": [
-    "biomes",
-    "blocks",
-    "commands",
-    "registries"
-  ],
   "registries": [
     "activity",
     "advancement",
@@ -60,5 +54,10 @@
     "worldgen - surface_builder",
     "worldgen - tree_decorator_type",
     "worldgen - trunk_placer_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
   ]
 }

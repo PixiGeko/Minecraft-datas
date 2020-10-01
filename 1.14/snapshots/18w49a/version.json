@@ -6,11 +6,6 @@
   "releaseTime": "2018-12-05T12:24:30+00:00",
   "client": "https://launcher.mojang.com/v1/objects/2a0b27ad8bd6cd2bb09e3a2210170fd0b5424c54/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/5b6eb767f6708d351e3d1009a44115bb033b854f/server.jar",
-  "reports": [
-    "blocks",
-    "commands",
-    "items"
-  ],
   "registries": [
     "advancement",
     "block",
@@ -19,5 +14,10 @@
     "loot_table",
     "recipe",
     "tag"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "items"
   ]
 }

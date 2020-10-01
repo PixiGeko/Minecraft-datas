@@ -6,11 +6,6 @@
   "releaseTime": "2019-02-27T14:44:30+00:00",
   "client": "https://launcher.mojang.com/v1/objects/8ea094f62c14d184bed801b9d7eb06120ffbd2b6/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/266d772f79eebe55de3856ae3fe675c0699cd1ca/server.jar",
-  "reports": [
-    "blocks",
-    "commands",
-    "registries"
-  ],
   "registries": [
     "advancement",
     "biome",
@@ -49,5 +44,10 @@
     "tag",
     "villager_profession",
     "villager_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
   ]
 }

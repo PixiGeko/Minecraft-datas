@@ -8,12 +8,6 @@
   "client_mappings": "https://launcher.mojang.com/v1/objects/614f6579d02959886633165f209574a7cf39e723/client.txt",
   "server": "https://launcher.mojang.com/v1/objects/c5f6fb23c3876461d46ec380421e42b289789530/server.jar",
   "server_mappings": "https://launcher.mojang.com/v1/objects/3405a0f2c0ccacd36a8158ae29b16eaa915b5d28/server.txt",
-  "reports": [
-    "biomes",
-    "blocks",
-    "commands",
-    "registries"
-  ],
   "registries": [
     "activity",
     "advancement",
@@ -68,5 +62,10 @@
     "worldgen - surface_builder",
     "worldgen - tree_decorator_type",
     "worldgen - trunk_placer_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
   ]
 }

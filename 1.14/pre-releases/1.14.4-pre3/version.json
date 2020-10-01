@@ -6,11 +6,6 @@
   "releaseTime": "2019-07-08T11:21:42+00:00",
   "client": "https://launcher.mojang.com/v1/objects/4e7e41622e1fb083e093b071396dad50168c9613/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/b7ed47d4e600c6ead80f4c73c2e080625d07ef6e/server.jar",
-  "reports": [
-    "blocks",
-    "commands",
-    "registries"
-  ],
   "registries": [
     "activity",
     "advancement",
@@ -54,5 +49,10 @@
     "tag",
     "villager_profession",
     "villager_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
   ]
 }
