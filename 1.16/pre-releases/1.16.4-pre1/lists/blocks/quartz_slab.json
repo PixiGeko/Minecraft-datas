@@ -1,1 +1,39 @@
-{"properties":{"type":["top","bottom","double"],"waterlogged":[true,false]},"states":{"8394":{"type":"top","waterlogged":true},"8395":{"type":"top","waterlogged":false},"8396":{"type":"bottom","waterlogged":true},"8397":{"type":"bottom","waterlogged":false},"8398":{"type":"double","waterlogged":true},"8399":{"type":"double","waterlogged":false}}}
+{
+  "properties": {
+    "type": [
+      "top",
+      "bottom",
+      "double"
+    ],
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "8394": {
+      "type": "top",
+      "waterlogged": true
+    },
+    "8395": {
+      "type": "top",
+      "waterlogged": false
+    },
+    "8396": {
+      "type": "bottom",
+      "waterlogged": true
+    },
+    "8397": {
+      "type": "bottom",
+      "waterlogged": false
+    },
+    "8398": {
+      "type": "double",
+      "waterlogged": true
+    },
+    "8399": {
+      "type": "double",
+      "waterlogged": false
+    }
+  }
+}
