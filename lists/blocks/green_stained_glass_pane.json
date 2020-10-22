@@ -1,1 +1,250 @@
-{"properties":{"east":[true,false],"north":[true,false],"south":[true,false],"waterlogged":[true,false],"west":[true,false]},"states":{"7283":{"east":true,"north":true,"south":true,"waterlogged":true,"west":true},"7284":{"east":true,"north":true,"south":true,"waterlogged":true,"west":false},"7285":{"east":true,"north":true,"south":true,"waterlogged":false,"west":true},"7286":{"east":true,"north":true,"south":true,"waterlogged":false,"west":false},"7287":{"east":true,"north":true,"south":false,"waterlogged":true,"west":true},"7288":{"east":true,"north":true,"south":false,"waterlogged":true,"west":false},"7289":{"east":true,"north":true,"south":false,"waterlogged":false,"west":true},"7290":{"east":true,"north":true,"south":false,"waterlogged":false,"west":false},"7291":{"east":true,"north":false,"south":true,"waterlogged":true,"west":true},"7292":{"east":true,"north":false,"south":true,"waterlogged":true,"west":false},"7293":{"east":true,"north":false,"south":true,"waterlogged":false,"west":true},"7294":{"east":true,"north":false,"south":true,"waterlogged":false,"west":false},"7295":{"east":true,"north":false,"south":false,"waterlogged":true,"west":true},"7296":{"east":true,"north":false,"south":false,"waterlogged":true,"west":false},"7297":{"east":true,"north":false,"south":false,"waterlogged":false,"west":true},"7298":{"east":true,"north":false,"south":false,"waterlogged":false,"west":false},"7299":{"east":false,"north":true,"south":true,"waterlogged":true,"west":true},"7300":{"east":false,"north":true,"south":true,"waterlogged":true,"west":false},"7301":{"east":false,"north":true,"south":true,"waterlogged":false,"west":true},"7302":{"east":false,"north":true,"south":true,"waterlogged":false,"west":false},"7303":{"east":false,"north":true,"south":false,"waterlogged":true,"west":true},"7304":{"east":false,"north":true,"south":false,"waterlogged":true,"west":false},"7305":{"east":false,"north":true,"south":false,"waterlogged":false,"west":true},"7306":{"east":false,"north":true,"south":false,"waterlogged":false,"west":false},"7307":{"east":false,"north":false,"south":true,"waterlogged":true,"west":true},"7308":{"east":false,"north":false,"south":true,"waterlogged":true,"west":false},"7309":{"east":false,"north":false,"south":true,"waterlogged":false,"west":true},"7310":{"east":false,"north":false,"south":true,"waterlogged":false,"west":false},"7311":{"east":false,"north":false,"south":false,"waterlogged":true,"west":true},"7312":{"east":false,"north":false,"south":false,"waterlogged":true,"west":false},"7313":{"east":false,"north":false,"south":false,"waterlogged":false,"west":true},"7314":{"east":false,"north":false,"south":false,"waterlogged":false,"west":false}}}
+{
+  "properties": {
+    "east": [
+      true,
+      false
+    ],
+    "north": [
+      true,
+      false
+    ],
+    "south": [
+      true,
+      false
+    ],
+    "waterlogged": [
+      true,
+      false
+    ],
+    "west": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "7283": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "waterlogged": true,
+      "west": true
+    },
+    "7284": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "waterlogged": true,
+      "west": false
+    },
+    "7285": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "waterlogged": false,
+      "west": true
+    },
+    "7286": {
+      "east": true,
+      "north": true,
+      "south": true,
+      "waterlogged": false,
+      "west": false
+    },
+    "7287": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "waterlogged": true,
+      "west": true
+    },
+    "7288": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "waterlogged": true,
+      "west": false
+    },
+    "7289": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "waterlogged": false,
+      "west": true
+    },
+    "7290": {
+      "east": true,
+      "north": true,
+      "south": false,
+      "waterlogged": false,
+      "west": false
+    },
+    "7291": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "waterlogged": true,
+      "west": true
+    },
+    "7292": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "waterlogged": true,
+      "west": false
+    },
+    "7293": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "waterlogged": false,
+      "west": true
+    },
+    "7294": {
+      "east": true,
+      "north": false,
+      "south": true,
+      "waterlogged": false,
+      "west": false
+    },
+    "7295": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "waterlogged": true,
+      "west": true
+    },
+    "7296": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "waterlogged": true,
+      "west": false
+    },
+    "7297": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "waterlogged": false,
+      "west": true
+    },
+    "7298": {
+      "east": true,
+      "north": false,
+      "south": false,
+      "waterlogged": false,
+      "west": false
+    },
+    "7299": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "waterlogged": true,
+      "west": true
+    },
+    "7300": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "waterlogged": true,
+      "west": false
+    },
+    "7301": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "waterlogged": false,
+      "west": true
+    },
+    "7302": {
+      "east": false,
+      "north": true,
+      "south": true,
+      "waterlogged": false,
+      "west": false
+    },
+    "7303": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "waterlogged": true,
+      "west": true
+    },
+    "7304": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "waterlogged": true,
+      "west": false
+    },
+    "7305": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "waterlogged": false,
+      "west": true
+    },
+    "7306": {
+      "east": false,
+      "north": true,
+      "south": false,
+      "waterlogged": false,
+      "west": false
+    },
+    "7307": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "waterlogged": true,
+      "west": true
+    },
+    "7308": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "waterlogged": true,
+      "west": false
+    },
+    "7309": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "waterlogged": false,
+      "west": true
+    },
+    "7310": {
+      "east": false,
+      "north": false,
+      "south": true,
+      "waterlogged": false,
+      "west": false
+    },
+    "7311": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "waterlogged": true,
+      "west": true
+    },
+    "7312": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "waterlogged": true,
+      "west": false
+    },
+    "7313": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "waterlogged": false,
+      "west": true
+    },
+    "7314": {
+      "east": false,
+      "north": false,
+      "south": false,
+      "waterlogged": false,
+      "west": false
+    }
+  }
+}
