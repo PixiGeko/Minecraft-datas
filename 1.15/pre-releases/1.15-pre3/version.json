@@ -8,6 +8,14 @@
   "client_mappings": "https://launcher.mojang.com/v1/objects/b8c12f42bc26c712d2464f0923b3ab6f3b93cfff/client.txt",
   "server": "https://launcher.mojang.com/v1/objects/eedb663e70f49a5592b88197ea68b0f32fd9ce97/server.jar",
   "server_mappings": "https://launcher.mojang.com/v1/objects/55fa9621c9d4f13ae06613eddd97345a9bc1c9fc/server.txt",
+  "custom": {
+    "blockstates_list": {
+      "type": "txt"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    }
+  },
   "registries": [
     "activity",
     "advancement",

@@ -8,6 +8,14 @@
   "client_mappings": "https://launcher.mojang.com/v1/objects/800eb4264594307d026ff911eabd1ee6fc9265f8/client.txt",
   "server": "https://launcher.mojang.com/v1/objects/a0d03225615ba897619220e256a266cb33a44b6b/server.jar",
   "server_mappings": "https://launcher.mojang.com/v1/objects/618315f1fc2f56fe003612bb1fee1ad4060768a0/server.txt",
+  "custom": {
+    "blockstates_list": {
+      "type": "txt"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    }
+  },
   "registries": [
     "activity",
     "advancement",
@@ -15,7 +23,6 @@
     "biome",
     "biome_source",
     "block",
-    "blockstate",
     "block_entity_type",
     "block_placer_type",
     "block_state_provider_type",

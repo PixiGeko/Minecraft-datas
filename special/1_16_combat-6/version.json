@@ -1,11 +1,18 @@
 {
+  "custom": {
+    "blockstates_list": {
+      "type": "txt"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    }
+  },
   "registries": [
     "activity",
     "advancement",
     "attribute",
     "biome",
     "block",
-    "blockstate",
     "block_entity_type",
     "chunk_status",
     "command",

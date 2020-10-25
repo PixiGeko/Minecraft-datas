@@ -6,6 +6,14 @@
   "releaseTime": "2019-01-24T15:31:52+00:00",
   "client": "https://launcher.mojang.com/v1/objects/4a075e5ceae3fc15efd36222daeb832c94e16946/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/261edfd76c32c9f675c12264b6fa03f670c3325c/server.jar",
+  "custom": {
+    "blockstates_list": {
+      "type": "txt"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    }
+  },
   "registries": [
     "advancement",
     "biome",

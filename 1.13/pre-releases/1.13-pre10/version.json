@@ -6,6 +6,14 @@
   "releaseTime": "2018-07-17T14:48:06+00:00",
   "client": "https://launcher.mojang.com/v1/objects/72c4fbff2a1318a57bfb66e325055064a13378a8/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/2ffcae7a9489d515b0f733430923ef974dffd56b/server.jar",
+  "custom": {
+    "blockstates_list": {
+      "type": "txt"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    }
+  },
   "registries": [
     "advancement",
     "block",
