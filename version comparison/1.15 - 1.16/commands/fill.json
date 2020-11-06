@@ -1,0 +1,16 @@
+{
+  "added": [
+    "fill <from: block_pos> <to: block_pos> <block: block_state> destroy",
+    "fill <from: block_pos> <to: block_pos> <block: block_state> hollow",
+    "fill <from: block_pos> <to: block_pos> <block: block_state> keep",
+    "fill <from: block_pos> <to: block_pos> <block: block_state> outline",
+    "fill <from: block_pos> <to: block_pos> <block: block_state> replace <filter: block_predicate>"
+  ],
+  "removed": [
+    "fill <from> <to> <block> destroy",
+    "fill <from> <to> <block> hollow",
+    "fill <from> <to> <block> keep",
+    "fill <from> <to> <block> outline",
+    "fill <from> <to> <block> replace <filter>"
+  ]
+}

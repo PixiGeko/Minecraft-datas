@@ -1,0 +1,12 @@
+{
+  "added": [
+    "schedule clear <function: string>",
+    "schedule function <function: function> <time: time> append",
+    "schedule function <function: function> <time: time> replace"
+  ],
+  "removed": [
+    "schedule clear <function>",
+    "schedule function <function> <time> append",
+    "schedule function <function> <time> replace"
+  ]
+}

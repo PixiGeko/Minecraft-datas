@@ -1,0 +1,24 @@
+{
+  "added": [
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> filtered <filter: block_predicate> force",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> filtered <filter: block_predicate> move",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> filtered <filter: block_predicate> normal",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> masked force",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> masked move",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> masked normal",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> replace force",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> replace move",
+    "clone <begin: block_pos> <end: block_pos> <destination: block_pos> replace normal"
+  ],
+  "removed": [
+    "clone <begin> <end> <destination> filtered <filter> force",
+    "clone <begin> <end> <destination> filtered <filter> move",
+    "clone <begin> <end> <destination> filtered <filter> normal",
+    "clone <begin> <end> <destination> masked force",
+    "clone <begin> <end> <destination> masked move",
+    "clone <begin> <end> <destination> masked normal",
+    "clone <begin> <end> <destination> replace force",
+    "clone <begin> <end> <destination> replace move",
+    "clone <begin> <end> <destination> replace normal"
+  ]
+}

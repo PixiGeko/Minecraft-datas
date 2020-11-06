@@ -1,0 +1,16 @@
+{
+  "added": [
+    "whitelist add <targets: game_profile>",
+    "whitelist remove <targets: game_profile>"
+  ],
+  "common": [
+    "whitelist list",
+    "whitelist off",
+    "whitelist on",
+    "whitelist reload"
+  ],
+  "removed": [
+    "whitelist add <targets>",
+    "whitelist remove <targets>"
+  ]
+}

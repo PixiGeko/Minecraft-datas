@@ -1,0 +1,15 @@
+{
+  "added": [
+    "forceload add <from: column_pos> <to: column_pos>",
+    "forceload query <pos: column_pos>",
+    "forceload remove <from: column_pos> <to: column_pos>"
+  ],
+  "common": [
+    "forceload remove all"
+  ],
+  "removed": [
+    "forceload add <from> <to>",
+    "forceload query <pos>",
+    "forceload remove <from> <to>"
+  ]
+}
