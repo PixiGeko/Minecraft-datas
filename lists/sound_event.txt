@@ -265,6 +265,11 @@ minecraft:block.piston.extend
 minecraft:block.portal.ambient
 minecraft:block.portal.travel
 minecraft:block.portal.trigger
+minecraft:block.powder_snow.break
+minecraft:block.powder_snow.fall
+minecraft:block.powder_snow.hit
+minecraft:block.powder_snow.place
+minecraft:block.powder_snow.step
 minecraft:block.pumpkin.carve
 minecraft:block.redstone_torch.burnout
 minecraft:block.respawn_anchor.ambient
@@ -726,6 +731,7 @@ minecraft:entity.player.burp
 minecraft:entity.player.death
 minecraft:entity.player.hurt
 minecraft:entity.player.hurt_drown
+minecraft:entity.player.hurt_freeze
 minecraft:entity.player.hurt_on_fire
 minecraft:entity.player.hurt_sweet_berry_bush
 minecraft:entity.player.levelup
@@ -961,9 +967,11 @@ minecraft:item.bottle.fill_dragonbreath
 minecraft:item.bucket.empty
 minecraft:item.bucket.empty_fish
 minecraft:item.bucket.empty_lava
+minecraft:item.bucket.empty_powder_snow
 minecraft:item.bucket.fill
 minecraft:item.bucket.fill_fish
 minecraft:item.bucket.fill_lava
+minecraft:item.bucket.fill_powder_snow
 minecraft:item.chorus_fruit.teleport
 minecraft:item.crop.plant
 minecraft:item.crossbow.hit

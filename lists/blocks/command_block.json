@@ -14,51 +14,51 @@
     ]
   },
   "states": {
-    "5683": {
-      "conditional": true,
-      "facing": "north"
-    },
-    "5684": {
-      "conditional": true,
-      "facing": "east"
-    },
-    "5685": {
-      "conditional": true,
-      "facing": "south"
-    },
     "5686": {
       "conditional": true,
-      "facing": "west"
+      "facing": "north"
     },
     "5687": {
       "conditional": true,
-      "facing": "up"
+      "facing": "east"
     },
     "5688": {
       "conditional": true,
-      "facing": "down"
+      "facing": "south"
     },
     "5689": {
-      "conditional": false,
-      "facing": "north"
+      "conditional": true,
+      "facing": "west"
     },
     "5690": {
-      "conditional": false,
-      "facing": "east"
+      "conditional": true,
+      "facing": "up"
     },
     "5691": {
-      "conditional": false,
-      "facing": "south"
+      "conditional": true,
+      "facing": "down"
     },
     "5692": {
       "conditional": false,
-      "facing": "west"
+      "facing": "north"
     },
     "5693": {
       "conditional": false,
-      "facing": "up"
+      "facing": "east"
     },
     "5694": {
+      "conditional": false,
+      "facing": "south"
+    },
+    "5695": {
+      "conditional": false,
+      "facing": "west"
+    },
+    "5696": {
+      "conditional": false,
+      "facing": "up"
+    },
+    "5697": {
       "conditional": false,
       "facing": "down"
     }

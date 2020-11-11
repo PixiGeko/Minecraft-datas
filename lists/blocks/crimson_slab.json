@@ -11,27 +11,27 @@
     ]
   },
   "states": {
-    "15102": {
-      "type": "top",
-      "waterlogged": true
-    },
-    "15103": {
-      "type": "top",
-      "waterlogged": false
-    },
-    "15104": {
-      "type": "bottom",
-      "waterlogged": true
-    },
     "15105": {
-      "type": "bottom",
-      "waterlogged": false
+      "type": "top",
+      "waterlogged": true
     },
     "15106": {
+      "type": "top",
+      "waterlogged": false
+    },
+    "15107": {
+      "type": "bottom",
+      "waterlogged": true
+    },
+    "15108": {
+      "type": "bottom",
+      "waterlogged": false
+    },
+    "15109": {
       "type": "double",
       "waterlogged": true
     },
-    "15107": {
+    "15110": {
       "type": "double",
       "waterlogged": false
     }
