@@ -125,3 +125,15 @@ This will generate the "basic" data files (= files in *generated* folders).</br>
 **Green :** Executable node
 
 ![command example](https://i.imgur.com/f5tEQTq.png)
+
+# Loot tables legend
+*This loot table was randomly generated, it doesn't correspond to anything in the game and serves only as an example*
+
+Each loot is in the form `[X] <loot name> (percent)` or `[X..Y] <loot name> (percent)`.
+
+`[X]` means that this loot appears X times  <br/>
+`[X..Y]` means that this loot appears between X and Y times <br/>
+`<loot name>` the loot name (item or loot table) <br/>
+`(percentage)` the percentage chance that this loot will be selected <br/>
+
+![loot table example](https://imgur.com/GAONntF.png)
