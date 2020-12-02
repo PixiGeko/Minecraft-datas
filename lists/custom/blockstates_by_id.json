@@ -70280,2602 +70280,2986 @@
     "state": "default"
   },
   "17570": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17571": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17572": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17573": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17574": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17575": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=0,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17576": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17577": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17578": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17579": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17580": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17581": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=1,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17582": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17583": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17584": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17585": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17586": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17587": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=2,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17588": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17589": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17590": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17591": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17592": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17593": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=3,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17594": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17595": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17596": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17597": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17598": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17599": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=4,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17600": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17601": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17602": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17603": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17604": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17605": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=5,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17606": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17607": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17608": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17609": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17610": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17611": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=6,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17612": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17613": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17614": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17615": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17616": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17617": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=7,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17618": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17619": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17620": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17621": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17622": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17623": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=8,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17624": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17625": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17626": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17627": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17628": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17629": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=9,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17630": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17631": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17632": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17633": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17634": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17635": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=10,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17636": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17637": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17638": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17639": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17640": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17641": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=11,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17642": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17643": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17644": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17645": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17646": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17647": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=12,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17648": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17649": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17650": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17651": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17652": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17653": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=13,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17654": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17655": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17656": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17657": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17658": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17659": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=14,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17660": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=inactive,waterlogged=true"
+  },
+  "17661": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=inactive,waterlogged=false"
+  },
+  "17662": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=active,waterlogged=true"
+  },
+  "17663": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=active,waterlogged=false"
+  },
+  "17664": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=cooldown,waterlogged=true"
+  },
+  "17665": {
+    "block": "minecraft:sculk_sensor",
+    "state": "power=15,sculk_sensor_phase=cooldown,waterlogged=false"
+  },
+  "17666": {
     "block": "minecraft:weathered_copper_block",
     "state": "default"
   },
-  "17571": {
+  "17667": {
     "block": "minecraft:semi_weathered_copper_block",
     "state": "default"
   },
-  "17572": {
+  "17668": {
     "block": "minecraft:lightly_weathered_copper_block",
     "state": "default"
   },
-  "17573": {
+  "17669": {
     "block": "minecraft:copper_block",
     "state": "default"
   },
-  "17574": {
+  "17670": {
     "block": "minecraft:copper_ore",
     "state": "default"
   },
-  "17575": {
+  "17671": {
     "block": "minecraft:weathered_cut_copper",
     "state": "default"
   },
-  "17576": {
+  "17672": {
     "block": "minecraft:semi_weathered_cut_copper",
     "state": "default"
   },
-  "17577": {
+  "17673": {
     "block": "minecraft:lightly_weathered_cut_copper",
     "state": "default"
   },
-  "17578": {
+  "17674": {
     "block": "minecraft:cut_copper",
     "state": "default"
   },
-  "17579": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "17580": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "17581": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17582": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17583": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17584": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17585": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17586": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17587": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17588": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17589": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17590": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17591": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17592": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17593": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17594": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17595": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17596": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17597": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17598": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17599": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=true"
-  },
-  "17600": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=false"
-  },
-  "17601": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17602": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17603": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17604": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17605": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17606": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17607": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17608": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17609": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17610": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17611": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17612": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17613": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17614": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17615": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17616": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17617": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17618": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17619": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=true"
-  },
-  "17620": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=false"
-  },
-  "17621": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17622": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17623": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17624": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17625": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17626": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17627": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17628": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17629": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17630": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17631": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17632": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17633": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17634": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17635": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17636": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17637": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17638": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17639": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=true"
-  },
-  "17640": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=false"
-  },
-  "17641": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17642": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17643": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17644": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17645": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17646": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17647": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17648": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17649": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17650": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17651": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17652": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17653": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17654": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17655": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17656": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17657": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17658": {
-    "block": "minecraft:weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17659": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "17660": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "17661": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17662": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17663": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17664": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17665": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17666": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17667": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17668": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17669": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17670": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17671": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17672": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17673": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17674": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
   "17675": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
   },
   "17676": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
   },
   "17677": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
   },
   "17678": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
   },
   "17679": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
   },
   "17680": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
   },
   "17681": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
   },
   "17682": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
   },
   "17683": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
   },
   "17684": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
   },
   "17685": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
   },
   "17686": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
   },
   "17687": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
   },
   "17688": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
   },
   "17689": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
   },
   "17690": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
   },
   "17691": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
   },
   "17692": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
   },
   "17693": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
   },
   "17694": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
   },
   "17695": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=true"
   },
   "17696": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=false"
   },
   "17697": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
   },
   "17698": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
   },
   "17699": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
   },
   "17700": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
   },
   "17701": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
   },
   "17702": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
   },
   "17703": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
   },
   "17704": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
   },
   "17705": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
   },
   "17706": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
   },
   "17707": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
   },
   "17708": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
   },
   "17709": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
   },
   "17710": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
   },
   "17711": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
   },
   "17712": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
   },
   "17713": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
   },
   "17714": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
   },
   "17715": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=true"
   },
   "17716": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=false"
   },
   "17717": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
   },
   "17718": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
   },
   "17719": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
   },
   "17720": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
   },
   "17721": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
   },
   "17722": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
   },
   "17723": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
   },
   "17724": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
   },
   "17725": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
   },
   "17726": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
   },
   "17727": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
   },
   "17728": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
   },
   "17729": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
   },
   "17730": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
   },
   "17731": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
   },
   "17732": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
   },
   "17733": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
   },
   "17734": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
   },
   "17735": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=true"
   },
   "17736": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=false"
   },
   "17737": {
-    "block": "minecraft:semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
   },
   "17738": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17739": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17740": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17741": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17742": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17743": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17744": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17745": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17746": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17747": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17748": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17749": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17750": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17751": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17752": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17753": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17754": {
+    "block": "minecraft:weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17755": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
+  },
+  "17756": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
+  },
+  "17757": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17758": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17759": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17760": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17761": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17762": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17763": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17764": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17765": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17766": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17767": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17768": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17769": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17770": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17771": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17772": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17773": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17774": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17775": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=true"
+  },
+  "17776": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=false"
+  },
+  "17777": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17778": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17779": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17780": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17781": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17782": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17783": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17784": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17785": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17786": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17787": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17788": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17789": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17790": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17791": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17792": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17793": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17794": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17795": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=true"
+  },
+  "17796": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=false"
+  },
+  "17797": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17798": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17799": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17800": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17801": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17802": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17803": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17804": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17805": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17806": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17807": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17808": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17809": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17810": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17811": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17812": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17813": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17814": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17815": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=true"
+  },
+  "17816": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=false"
+  },
+  "17817": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17818": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17819": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17820": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17821": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17822": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17823": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17824": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17825": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17826": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17827": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17828": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17829": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17830": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17831": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17832": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17833": {
+    "block": "minecraft:semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17834": {
     "block": "minecraft:semi_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "17739": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "17740": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "17741": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17742": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17743": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17744": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17745": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17746": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17747": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17748": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17749": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17750": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17751": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17752": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17753": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17754": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17755": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17756": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17757": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17758": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17759": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=true"
-  },
-  "17760": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=false"
-  },
-  "17761": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17762": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17763": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17764": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17765": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17766": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17767": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17768": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17769": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17770": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17771": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17772": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17773": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17774": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17775": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17776": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17777": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17778": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17779": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=true"
-  },
-  "17780": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=false"
-  },
-  "17781": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17782": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17783": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17784": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17785": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17786": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17787": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17788": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17789": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17790": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17791": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17792": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17793": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17794": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17795": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17796": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17797": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17798": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17799": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=true"
-  },
-  "17800": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=false"
-  },
-  "17801": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17802": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17803": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17804": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17805": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17806": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17807": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17808": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17809": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17810": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17811": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17812": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17813": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17814": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17815": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17816": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17817": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17818": {
-    "block": "minecraft:lightly_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17819": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "17820": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "17821": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17822": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17823": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17824": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17825": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17826": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17827": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17828": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17829": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17830": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17831": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17832": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17833": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17834": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
   "17835": {
-    "block": "minecraft:cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
   },
   "17836": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
+  },
+  "17837": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17838": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17839": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17840": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17841": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17842": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17843": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17844": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17845": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17846": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17847": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17848": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17849": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17850": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17851": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17852": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17853": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17854": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17855": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=true"
+  },
+  "17856": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=false"
+  },
+  "17857": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17858": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17859": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17860": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17861": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17862": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17863": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17864": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17865": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17866": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17867": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17868": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17869": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17870": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17871": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17872": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17873": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17874": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17875": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=true"
+  },
+  "17876": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=false"
+  },
+  "17877": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17878": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17879": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17880": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17881": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17882": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17883": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17884": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17885": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17886": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17887": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17888": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17889": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17890": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17891": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17892": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17893": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17894": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17895": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=true"
+  },
+  "17896": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=false"
+  },
+  "17897": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17898": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17899": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17900": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17901": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17902": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17903": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17904": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17905": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17906": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17907": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17908": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17909": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17910": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17911": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17912": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "17913": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "17914": {
+    "block": "minecraft:lightly_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "17915": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
+  },
+  "17916": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
+  },
+  "17917": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
+  },
+  "17918": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
+  },
+  "17919": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
+  },
+  "17920": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
+  },
+  "17921": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
+  },
+  "17922": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
+  },
+  "17923": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
+  },
+  "17924": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
+  },
+  "17925": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
+  },
+  "17926": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
+  },
+  "17927": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "17928": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "17929": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "17930": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "17931": {
+    "block": "minecraft:cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "17932": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "17837": {
+  "17933": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "17838": {
+  "17934": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "17839": {
+  "17935": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=true"
   },
-  "17840": {
+  "17936": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=false"
   },
-  "17841": {
+  "17937": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
   },
-  "17842": {
+  "17938": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
   },
-  "17843": {
+  "17939": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
   },
-  "17844": {
+  "17940": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
   },
-  "17845": {
+  "17941": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
   },
-  "17846": {
+  "17942": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
   },
-  "17847": {
+  "17943": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
   },
-  "17848": {
+  "17944": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
   },
-  "17849": {
+  "17945": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
   },
-  "17850": {
+  "17946": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
   },
-  "17851": {
+  "17947": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "17852": {
+  "17948": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "17853": {
+  "17949": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "17854": {
+  "17950": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "17855": {
+  "17951": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "17856": {
+  "17952": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "17857": {
+  "17953": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "17858": {
+  "17954": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "17859": {
+  "17955": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=true"
   },
-  "17860": {
+  "17956": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=false"
   },
-  "17861": {
+  "17957": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
   },
-  "17862": {
+  "17958": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
   },
-  "17863": {
+  "17959": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
   },
-  "17864": {
+  "17960": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
   },
-  "17865": {
+  "17961": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
   },
-  "17866": {
+  "17962": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
   },
-  "17867": {
+  "17963": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
   },
-  "17868": {
+  "17964": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
   },
-  "17869": {
+  "17965": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
   },
-  "17870": {
+  "17966": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
   },
-  "17871": {
+  "17967": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "17872": {
+  "17968": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "17873": {
+  "17969": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "17874": {
+  "17970": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "17875": {
+  "17971": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "17876": {
+  "17972": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "17877": {
+  "17973": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "17878": {
+  "17974": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "17879": {
+  "17975": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=true"
   },
-  "17880": {
+  "17976": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=false"
   },
-  "17881": {
+  "17977": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
   },
-  "17882": {
+  "17978": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
   },
-  "17883": {
+  "17979": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
   },
-  "17884": {
+  "17980": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
   },
-  "17885": {
+  "17981": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
   },
-  "17886": {
+  "17982": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
   },
-  "17887": {
+  "17983": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
   },
-  "17888": {
+  "17984": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
   },
-  "17889": {
+  "17985": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
   },
-  "17890": {
+  "17986": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
   },
-  "17891": {
+  "17987": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "17892": {
+  "17988": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "17893": {
+  "17989": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "17894": {
+  "17990": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "17895": {
+  "17991": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "17896": {
+  "17992": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "17897": {
+  "17993": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "17898": {
+  "17994": {
     "block": "minecraft:cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "17899": {
+  "17995": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "17900": {
+  "17996": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "17901": {
+  "17997": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "17902": {
+  "17998": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "17903": {
+  "17999": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "17904": {
+  "18000": {
     "block": "minecraft:weathered_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "17905": {
+  "18001": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "17906": {
+  "18002": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "17907": {
+  "18003": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "17908": {
+  "18004": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "17909": {
+  "18005": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "17910": {
+  "18006": {
     "block": "minecraft:semi_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "17911": {
+  "18007": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "17912": {
+  "18008": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "17913": {
+  "18009": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "17914": {
+  "18010": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "17915": {
+  "18011": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "17916": {
+  "18012": {
     "block": "minecraft:lightly_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "17917": {
+  "18013": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "17918": {
+  "18014": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "17919": {
+  "18015": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "17920": {
+  "18016": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "17921": {
+  "18017": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "17922": {
+  "18018": {
     "block": "minecraft:cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "17923": {
+  "18019": {
     "block": "minecraft:waxed_copper",
     "state": "default"
   },
-  "17924": {
+  "18020": {
     "block": "minecraft:waxed_semi_weathered_copper",
     "state": "default"
   },
-  "17925": {
+  "18021": {
     "block": "minecraft:waxed_lightly_weathered_copper",
     "state": "default"
   },
-  "17926": {
+  "18022": {
     "block": "minecraft:waxed_semi_weathered_cut_copper",
     "state": "default"
   },
-  "17927": {
+  "18023": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper",
     "state": "default"
   },
-  "17928": {
+  "18024": {
     "block": "minecraft:waxed_cut_copper",
     "state": "default"
   },
-  "17929": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "17930": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "17931": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17932": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17933": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17934": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17935": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17936": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17937": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17938": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17939": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17940": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17941": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17942": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17943": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17944": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17945": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17946": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17947": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17948": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17949": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=true"
-  },
-  "17950": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=straight,waterlogged=false"
-  },
-  "17951": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17952": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17953": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17954": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17955": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17956": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17957": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17958": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17959": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17960": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17961": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17962": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17963": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17964": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17965": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17966": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17967": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17968": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17969": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=true"
-  },
-  "17970": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=straight,waterlogged=false"
-  },
-  "17971": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17972": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17973": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17974": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17975": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17976": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17977": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17978": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17979": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
-  },
-  "17980": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
-  },
-  "17981": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "17982": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "17983": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "17984": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "17985": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "17986": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "17987": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "17988": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "17989": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=true"
-  },
-  "17990": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=straight,waterlogged=false"
-  },
-  "17991": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
-  },
-  "17992": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
-  },
-  "17993": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
-  },
-  "17994": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
-  },
-  "17995": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
-  },
-  "17996": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
-  },
-  "17997": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
-  },
-  "17998": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
-  },
-  "17999": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
-  },
-  "18000": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
-  },
-  "18001": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "18002": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "18003": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "18004": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
-  },
-  "18005": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
-  },
-  "18006": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
-  },
-  "18007": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
-  },
-  "18008": {
-    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
-    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
-  },
-  "18009": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=true"
-  },
-  "18010": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=straight,waterlogged=false"
-  },
-  "18011": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
-  },
-  "18012": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
-  },
-  "18013": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
-  },
-  "18014": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
-  },
-  "18015": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
-  },
-  "18016": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
-  },
-  "18017": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
-  },
-  "18018": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
-  },
-  "18019": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
-  },
-  "18020": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
-  },
-  "18021": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
-  },
-  "18022": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
-  },
-  "18023": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
-  },
-  "18024": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
-  },
   "18025": {
-    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
-    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
   },
   "18026": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
+  },
+  "18027": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
+  },
+  "18028": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
+  },
+  "18029": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
+  },
+  "18030": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
+  },
+  "18031": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
+  },
+  "18032": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
+  },
+  "18033": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
+  },
+  "18034": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
+  },
+  "18035": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
+  },
+  "18036": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
+  },
+  "18037": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "18038": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "18039": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "18040": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "18041": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "18042": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "18043": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "18044": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "18045": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=true"
+  },
+  "18046": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=straight,waterlogged=false"
+  },
+  "18047": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
+  },
+  "18048": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
+  },
+  "18049": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
+  },
+  "18050": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
+  },
+  "18051": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
+  },
+  "18052": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
+  },
+  "18053": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
+  },
+  "18054": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
+  },
+  "18055": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
+  },
+  "18056": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
+  },
+  "18057": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "18058": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "18059": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "18060": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "18061": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "18062": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "18063": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "18064": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "18065": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=true"
+  },
+  "18066": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=straight,waterlogged=false"
+  },
+  "18067": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
+  },
+  "18068": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
+  },
+  "18069": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
+  },
+  "18070": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
+  },
+  "18071": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
+  },
+  "18072": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
+  },
+  "18073": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
+  },
+  "18074": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
+  },
+  "18075": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
+  },
+  "18076": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
+  },
+  "18077": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "18078": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "18079": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "18080": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "18081": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "18082": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "18083": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "18084": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "18085": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=true"
+  },
+  "18086": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=straight,waterlogged=false"
+  },
+  "18087": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
+  },
+  "18088": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
+  },
+  "18089": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
+  },
+  "18090": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
+  },
+  "18091": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
+  },
+  "18092": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
+  },
+  "18093": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
+  },
+  "18094": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
+  },
+  "18095": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
+  },
+  "18096": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
+  },
+  "18097": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "18098": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "18099": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "18100": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "18101": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "18102": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
+  },
+  "18103": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
+  },
+  "18104": {
+    "block": "minecraft:waxed_semi_weathered_cut_copper_stairs",
+    "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
+  },
+  "18105": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=true"
+  },
+  "18106": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=straight,waterlogged=false"
+  },
+  "18107": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
+  },
+  "18108": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
+  },
+  "18109": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
+  },
+  "18110": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
+  },
+  "18111": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
+  },
+  "18112": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
+  },
+  "18113": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
+  },
+  "18114": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
+  },
+  "18115": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
+  },
+  "18116": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
+  },
+  "18117": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
+  },
+  "18118": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
+  },
+  "18119": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
+  },
+  "18120": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
+  },
+  "18121": {
+    "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
+    "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
+  },
+  "18122": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18027": {
+  "18123": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18028": {
+  "18124": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18029": {
+  "18125": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=true"
   },
-  "18030": {
+  "18126": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=false"
   },
-  "18031": {
+  "18127": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
   },
-  "18032": {
+  "18128": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
   },
-  "18033": {
+  "18129": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
   },
-  "18034": {
+  "18130": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
   },
-  "18035": {
+  "18131": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
   },
-  "18036": {
+  "18132": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
   },
-  "18037": {
+  "18133": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
   },
-  "18038": {
+  "18134": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
   },
-  "18039": {
+  "18135": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
   },
-  "18040": {
+  "18136": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
   },
-  "18041": {
+  "18137": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18042": {
+  "18138": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18043": {
+  "18139": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18044": {
+  "18140": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18045": {
+  "18141": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18046": {
+  "18142": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18047": {
+  "18143": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18048": {
+  "18144": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18049": {
+  "18145": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=true"
   },
-  "18050": {
+  "18146": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=false"
   },
-  "18051": {
+  "18147": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
   },
-  "18052": {
+  "18148": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
   },
-  "18053": {
+  "18149": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
   },
-  "18054": {
+  "18150": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
   },
-  "18055": {
+  "18151": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
   },
-  "18056": {
+  "18152": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
   },
-  "18057": {
+  "18153": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
   },
-  "18058": {
+  "18154": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
   },
-  "18059": {
+  "18155": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
   },
-  "18060": {
+  "18156": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
   },
-  "18061": {
+  "18157": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18062": {
+  "18158": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18063": {
+  "18159": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18064": {
+  "18160": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18065": {
+  "18161": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18066": {
+  "18162": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18067": {
+  "18163": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18068": {
+  "18164": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18069": {
+  "18165": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=true"
   },
-  "18070": {
+  "18166": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=false"
   },
-  "18071": {
+  "18167": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
   },
-  "18072": {
+  "18168": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
   },
-  "18073": {
+  "18169": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
   },
-  "18074": {
+  "18170": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
   },
-  "18075": {
+  "18171": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
   },
-  "18076": {
+  "18172": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
   },
-  "18077": {
+  "18173": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
   },
-  "18078": {
+  "18174": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
   },
-  "18079": {
+  "18175": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
   },
-  "18080": {
+  "18176": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
   },
-  "18081": {
+  "18177": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18082": {
+  "18178": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18083": {
+  "18179": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18084": {
+  "18180": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18085": {
+  "18181": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18086": {
+  "18182": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18087": {
+  "18183": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18088": {
+  "18184": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18089": {
+  "18185": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=straight,waterlogged=true"
   },
-  "18090": {
+  "18186": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=straight,waterlogged=false"
   },
-  "18091": {
+  "18187": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=inner_left,waterlogged=true"
   },
-  "18092": {
+  "18188": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=inner_left,waterlogged=false"
   },
-  "18093": {
+  "18189": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=inner_right,waterlogged=true"
   },
-  "18094": {
+  "18190": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=inner_right,waterlogged=false"
   },
-  "18095": {
+  "18191": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=outer_left,waterlogged=true"
   },
-  "18096": {
+  "18192": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=outer_left,waterlogged=false"
   },
-  "18097": {
+  "18193": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=outer_right,waterlogged=true"
   },
-  "18098": {
+  "18194": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=top,shape=outer_right,waterlogged=false"
   },
-  "18099": {
+  "18195": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=straight,waterlogged=true"
   },
-  "18100": {
+  "18196": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=straight,waterlogged=false"
   },
-  "18101": {
+  "18197": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18102": {
+  "18198": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18103": {
+  "18199": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18104": {
+  "18200": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18105": {
+  "18201": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18106": {
+  "18202": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18107": {
+  "18203": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18108": {
+  "18204": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=north,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18109": {
+  "18205": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=true"
   },
-  "18110": {
+  "18206": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=straight,waterlogged=false"
   },
-  "18111": {
+  "18207": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=true"
   },
-  "18112": {
+  "18208": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_left,waterlogged=false"
   },
-  "18113": {
+  "18209": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=true"
   },
-  "18114": {
+  "18210": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=inner_right,waterlogged=false"
   },
-  "18115": {
+  "18211": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=true"
   },
-  "18116": {
+  "18212": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_left,waterlogged=false"
   },
-  "18117": {
+  "18213": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=true"
   },
-  "18118": {
+  "18214": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=top,shape=outer_right,waterlogged=false"
   },
-  "18119": {
+  "18215": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=true"
   },
-  "18120": {
+  "18216": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=straight,waterlogged=false"
   },
-  "18121": {
+  "18217": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18122": {
+  "18218": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18123": {
+  "18219": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18124": {
+  "18220": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18125": {
+  "18221": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18126": {
+  "18222": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18127": {
+  "18223": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18128": {
+  "18224": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=south,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18129": {
+  "18225": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=true"
   },
-  "18130": {
+  "18226": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=straight,waterlogged=false"
   },
-  "18131": {
+  "18227": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=true"
   },
-  "18132": {
+  "18228": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_left,waterlogged=false"
   },
-  "18133": {
+  "18229": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=true"
   },
-  "18134": {
+  "18230": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=inner_right,waterlogged=false"
   },
-  "18135": {
+  "18231": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=true"
   },
-  "18136": {
+  "18232": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_left,waterlogged=false"
   },
-  "18137": {
+  "18233": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=true"
   },
-  "18138": {
+  "18234": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=top,shape=outer_right,waterlogged=false"
   },
-  "18139": {
+  "18235": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=true"
   },
-  "18140": {
+  "18236": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=straight,waterlogged=false"
   },
-  "18141": {
+  "18237": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18142": {
+  "18238": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18143": {
+  "18239": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18144": {
+  "18240": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18145": {
+  "18241": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18146": {
+  "18242": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18147": {
+  "18243": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18148": {
+  "18244": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=west,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18149": {
+  "18245": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=true"
   },
-  "18150": {
+  "18246": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=straight,waterlogged=false"
   },
-  "18151": {
+  "18247": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=true"
   },
-  "18152": {
+  "18248": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_left,waterlogged=false"
   },
-  "18153": {
+  "18249": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=true"
   },
-  "18154": {
+  "18250": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=inner_right,waterlogged=false"
   },
-  "18155": {
+  "18251": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=true"
   },
-  "18156": {
+  "18252": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_left,waterlogged=false"
   },
-  "18157": {
+  "18253": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=true"
   },
-  "18158": {
+  "18254": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=top,shape=outer_right,waterlogged=false"
   },
-  "18159": {
+  "18255": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=true"
   },
-  "18160": {
+  "18256": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=straight,waterlogged=false"
   },
-  "18161": {
+  "18257": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=true"
   },
-  "18162": {
+  "18258": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_left,waterlogged=false"
   },
-  "18163": {
+  "18259": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=true"
   },
-  "18164": {
+  "18260": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=inner_right,waterlogged=false"
   },
-  "18165": {
+  "18261": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=true"
   },
-  "18166": {
+  "18262": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_left,waterlogged=false"
   },
-  "18167": {
+  "18263": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=true"
   },
-  "18168": {
+  "18264": {
     "block": "minecraft:waxed_cut_copper_stairs",
     "state": "facing=east,half=bottom,shape=outer_right,waterlogged=false"
   },
-  "18169": {
+  "18265": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "18170": {
+  "18266": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "18171": {
+  "18267": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "18172": {
+  "18268": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "18173": {
+  "18269": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "18174": {
+  "18270": {
     "block": "minecraft:waxed_semi_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "18175": {
+  "18271": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "18176": {
+  "18272": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "18177": {
+  "18273": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "18178": {
+  "18274": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "18179": {
+  "18275": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "18180": {
+  "18276": {
     "block": "minecraft:waxed_lightly_weathered_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "18181": {
+  "18277": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=top,waterlogged=true"
   },
-  "18182": {
+  "18278": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=top,waterlogged=false"
   },
-  "18183": {
+  "18279": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=bottom,waterlogged=true"
   },
-  "18184": {
+  "18280": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=bottom,waterlogged=false"
   },
-  "18185": {
+  "18281": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=double,waterlogged=true"
   },
-  "18186": {
+  "18282": {
     "block": "minecraft:waxed_cut_copper_slab",
     "state": "type=double,waterlogged=false"
   },
-  "18187": {
+  "18283": {
     "block": "minecraft:lightning_rod",
     "state": "facing=north,powered=true"
   },
-  "18188": {
+  "18284": {
     "block": "minecraft:lightning_rod",
     "state": "facing=north,powered=false"
   },
-  "18189": {
+  "18285": {
     "block": "minecraft:lightning_rod",
     "state": "facing=east,powered=true"
   },
-  "18190": {
+  "18286": {
     "block": "minecraft:lightning_rod",
     "state": "facing=east,powered=false"
   },
-  "18191": {
+  "18287": {
     "block": "minecraft:lightning_rod",
     "state": "facing=south,powered=true"
   },
-  "18192": {
+  "18288": {
     "block": "minecraft:lightning_rod",
     "state": "facing=south,powered=false"
   },
-  "18193": {
+  "18289": {
     "block": "minecraft:lightning_rod",
     "state": "facing=west,powered=true"
   },
-  "18194": {
+  "18290": {
     "block": "minecraft:lightning_rod",
     "state": "facing=west,powered=false"
   },
-  "18195": {
+  "18291": {
     "block": "minecraft:lightning_rod",
     "state": "facing=up,powered=true"
   },
-  "18196": {
+  "18292": {
     "block": "minecraft:lightning_rod",
     "state": "facing=up,powered=false"
   },
-  "18197": {
+  "18293": {
     "block": "minecraft:lightning_rod",
     "state": "facing=down,powered=true"
   },
-  "18198": {
+  "18294": {
     "block": "minecraft:lightning_rod",
     "state": "facing=down,powered=false"
   },
-  "18199": {
+  "18295": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip_merge,vertical_direction=up,waterlogged=true"
   },
-  "18200": {
+  "18296": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip_merge,vertical_direction=up,waterlogged=false"
   },
-  "18201": {
+  "18297": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip_merge,vertical_direction=down,waterlogged=true"
   },
-  "18202": {
+  "18298": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip_merge,vertical_direction=down,waterlogged=false"
   },
-  "18203": {
+  "18299": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip,vertical_direction=up,waterlogged=true"
   },
-  "18204": {
+  "18300": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip,vertical_direction=up,waterlogged=false"
   },
-  "18205": {
+  "18301": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip,vertical_direction=down,waterlogged=true"
   },
-  "18206": {
+  "18302": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=tip,vertical_direction=down,waterlogged=false"
   },
-  "18207": {
+  "18303": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=frustum,vertical_direction=up,waterlogged=true"
   },
-  "18208": {
+  "18304": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=frustum,vertical_direction=up,waterlogged=false"
   },
-  "18209": {
+  "18305": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=frustum,vertical_direction=down,waterlogged=true"
   },
-  "18210": {
+  "18306": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=frustum,vertical_direction=down,waterlogged=false"
   },
-  "18211": {
+  "18307": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=middle,vertical_direction=up,waterlogged=true"
   },
-  "18212": {
+  "18308": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=middle,vertical_direction=up,waterlogged=false"
   },
-  "18213": {
+  "18309": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=middle,vertical_direction=down,waterlogged=true"
   },
-  "18214": {
+  "18310": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=middle,vertical_direction=down,waterlogged=false"
   },
-  "18215": {
+  "18311": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=base,vertical_direction=up,waterlogged=true"
   },
-  "18216": {
+  "18312": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=base,vertical_direction=up,waterlogged=false"
   },
-  "18217": {
+  "18313": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=base,vertical_direction=down,waterlogged=true"
   },
-  "18218": {
+  "18314": {
     "block": "minecraft:pointed_dripstone",
     "state": "thickness=base,vertical_direction=down,waterlogged=false"
   },
-  "18219": {
+  "18315": {
     "block": "minecraft:dripstone_block",
     "state": "default"
   }

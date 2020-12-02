@@ -25,6 +25,7 @@ minecraft:blocks/crystal_sound_blocks
 minecraft:blocks/dark_oak_logs
 minecraft:blocks/doors
 minecraft:blocks/dragon_immune
+minecraft:blocks/dripstone_replaceable_blocks
 minecraft:blocks/enderman_holdable
 minecraft:blocks/fences
 minecraft:blocks/fence_gates
@@ -48,6 +49,7 @@ minecraft:blocks/mushroom_grow_block
 minecraft:blocks/non_flammable_wood
 minecraft:blocks/nylium
 minecraft:blocks/oak_logs
+minecraft:blocks/occludes_vibration_signals
 minecraft:blocks/piglin_repellents
 minecraft:blocks/planks
 minecraft:blocks/portals
@@ -97,6 +99,8 @@ minecraft:entity_types/raiders
 minecraft:entity_types/skeletons
 minecraft:fluids/lava
 minecraft:fluids/water
+minecraft:game_events/ignore_vibrations_stepping_carefully
+minecraft:game_events/vibrations
 minecraft:items/acacia_logs
 minecraft:items/anvil
 minecraft:items/arrows
