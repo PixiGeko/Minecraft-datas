@@ -7,24 +7,30 @@
   "client": "https://launcher.mojang.com/v1/objects/383e0396f585fcc5a487f04fcb77a9743a0e44c3/client.jar",
   "server": "https://launcher.mojang.com/v1/objects/b45d7194b91327c8fd2c1d0d5a738b80c9600562/server.jar",
   "custom": {
-    "blockstates_list": {
-      "type": "txt"
-    },
-    "blockstates_by_id": {
-      "type": "json"
-    }
+	"all_blocks": {
+	  "type": "json"
+	},
+	"all_items": {
+	  "type": "json"
+	},
+	"blockstates_by_id": {
+	  "type": "json"
+	},
+	"blockstates_list": {
+	  "type": "txt"
+	}
   },
   "registries": [
-    "advancement",
-    "block",
-    "command",
-    "item",
-    "recipe",
-    "tag"
+	"advancement",
+	"block",
+	"command",
+	"item",
+	"recipe",
+	"tag"
   ],
   "reports": [
-    "blocks",
-    "commands",
-    "items"
+	"blocks",
+	"commands",
+	"items"
   ]
 }
