@@ -1,0 +1,30 @@
+{
+  "properties": {
+    "hanging": [
+      true,
+      false
+    ],
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "15184": {
+      "hanging": true,
+      "waterlogged": true
+    },
+    "15185": {
+      "hanging": true,
+      "waterlogged": false
+    },
+    "15186": {
+      "hanging": false,
+      "waterlogged": true
+    },
+    "15187": {
+      "hanging": false,
+      "waterlogged": false
+    }
+  }
+}

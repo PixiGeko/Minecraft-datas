@@ -1,0 +1,100 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "has_book": [
+      true,
+      false
+    ],
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "15127": {
+      "facing": "north",
+      "has_book": true,
+      "powered": true
+    },
+    "15128": {
+      "facing": "north",
+      "has_book": true,
+      "powered": false
+    },
+    "15129": {
+      "facing": "north",
+      "has_book": false,
+      "powered": true
+    },
+    "15130": {
+      "facing": "north",
+      "has_book": false,
+      "powered": false
+    },
+    "15131": {
+      "facing": "south",
+      "has_book": true,
+      "powered": true
+    },
+    "15132": {
+      "facing": "south",
+      "has_book": true,
+      "powered": false
+    },
+    "15133": {
+      "facing": "south",
+      "has_book": false,
+      "powered": true
+    },
+    "15134": {
+      "facing": "south",
+      "has_book": false,
+      "powered": false
+    },
+    "15135": {
+      "facing": "west",
+      "has_book": true,
+      "powered": true
+    },
+    "15136": {
+      "facing": "west",
+      "has_book": true,
+      "powered": false
+    },
+    "15137": {
+      "facing": "west",
+      "has_book": false,
+      "powered": true
+    },
+    "15138": {
+      "facing": "west",
+      "has_book": false,
+      "powered": false
+    },
+    "15139": {
+      "facing": "east",
+      "has_book": true,
+      "powered": true
+    },
+    "15140": {
+      "facing": "east",
+      "has_book": true,
+      "powered": false
+    },
+    "15141": {
+      "facing": "east",
+      "has_book": false,
+      "powered": true
+    },
+    "15142": {
+      "facing": "east",
+      "has_book": false,
+      "powered": false
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "south",
+      "west",
+      "east"
+    ],
+    "in_wall": [
+      true,
+      false
+    ],
+    "open": [
+      true,
+      false
+    ],
+    "powered": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "15585": {
+      "facing": "north",
+      "in_wall": true,
+      "open": true,
+      "powered": true
+    },
+    "15586": {
+      "facing": "north",
+      "in_wall": true,
+      "open": true,
+      "powered": false
+    },
+    "15587": {
+      "facing": "north",
+      "in_wall": true,
+      "open": false,
+      "powered": true
+    },
+    "15588": {
+      "facing": "north",
+      "in_wall": true,
+      "open": false,
+      "powered": false
+    },
+    "15589": {
+      "facing": "north",
+      "in_wall": false,
+      "open": true,
+      "powered": true
+    },
+    "15590": {
+      "facing": "north",
+      "in_wall": false,
+      "open": true,
+      "powered": false
+    },
+    "15591": {
+      "facing": "north",
+      "in_wall": false,
+      "open": false,
+      "powered": true
+    },
+    "15592": {
+      "facing": "north",
+      "in_wall": false,
+      "open": false,
+      "powered": false
+    },
+    "15593": {
+      "facing": "south",
+      "in_wall": true,
+      "open": true,
+      "powered": true
+    },
+    "15594": {
+      "facing": "south",
+      "in_wall": true,
+      "open": true,
+      "powered": false
+    },
+    "15595": {
+      "facing": "south",
+      "in_wall": true,
+      "open": false,
+      "powered": true
+    },
+    "15596": {
+      "facing": "south",
+      "in_wall": true,
+      "open": false,
+      "powered": false
+    },
+    "15597": {
+      "facing": "south",
+      "in_wall": false,
+      "open": true,
+      "powered": true
+    },
+    "15598": {
+      "facing": "south",
+      "in_wall": false,
+      "open": true,
+      "powered": false
+    },
+    "15599": {
+      "facing": "south",
+      "in_wall": false,
+      "open": false,
+      "powered": true
+    },
+    "15600": {
+      "facing": "south",
+      "in_wall": false,
+      "open": false,
+      "powered": false
+    },
+    "15601": {
+      "facing": "west",
+      "in_wall": true,
+      "open": true,
+      "powered": true
+    },
+    "15602": {
+      "facing": "west",
+      "in_wall": true,
+      "open": true,
+      "powered": false
+    },
+    "15603": {
+      "facing": "west",
+      "in_wall": true,
+      "open": false,
+      "powered": true
+    },
+    "15604": {
+      "facing": "west",
+      "in_wall": true,
+      "open": false,
+      "powered": false
+    },
+    "15605": {
+      "facing": "west",
+      "in_wall": false,
+      "open": true,
+      "powered": true
+    },
+    "15606": {
+      "facing": "west",
+      "in_wall": false,
+      "open": true,
+      "powered": false
+    },
+    "15607": {
+      "facing": "west",
+      "in_wall": false,
+      "open": false,
+      "powered": true
+    },
+    "15608": {
+      "facing": "west",
+      "in_wall": false,
+      "open": false,
+      "powered": false
+    },
+    "15609": {
+      "facing": "east",
+      "in_wall": true,
+      "open": true,
+      "powered": true
+    },
+    "15610": {
+      "facing": "east",
+      "in_wall": true,
+      "open": true,
+      "powered": false
+    },
+    "15611": {
+      "facing": "east",
+      "in_wall": true,
+      "open": false,
+      "powered": true
+    },
+    "15612": {
+      "facing": "east",
+      "in_wall": true,
+      "open": false,
+      "powered": false
+    },
+    "15613": {
+      "facing": "east",
+      "in_wall": false,
+      "open": true,
+      "powered": true
+    },
+    "15614": {
+      "facing": "east",
+      "in_wall": false,
+      "open": true,
+      "powered": false
+    },
+    "15615": {
+      "facing": "east",
+      "in_wall": false,
+      "open": false,
+      "powered": true
+    },
+    "15616": {
+      "facing": "east",
+      "in_wall": false,
+      "open": false,
+      "powered": false
+    }
+  }
+}

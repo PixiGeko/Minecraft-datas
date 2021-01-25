@@ -1,0 +1,142 @@
+{
+  "properties": {
+    "facing": [
+      "north",
+      "east",
+      "south",
+      "west",
+      "up",
+      "down"
+    ],
+    "lit": [
+      true,
+      false
+    ],
+    "waterlogged": [
+      true,
+      false
+    ]
+  },
+  "states": {
+    "17838": {
+      "facing": "north",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17839": {
+      "facing": "north",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17840": {
+      "facing": "north",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17841": {
+      "facing": "north",
+      "lit": false,
+      "waterlogged": false
+    },
+    "17842": {
+      "facing": "east",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17843": {
+      "facing": "east",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17844": {
+      "facing": "east",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17845": {
+      "facing": "east",
+      "lit": false,
+      "waterlogged": false
+    },
+    "17846": {
+      "facing": "south",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17847": {
+      "facing": "south",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17848": {
+      "facing": "south",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17849": {
+      "facing": "south",
+      "lit": false,
+      "waterlogged": false
+    },
+    "17850": {
+      "facing": "west",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17851": {
+      "facing": "west",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17852": {
+      "facing": "west",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17853": {
+      "facing": "west",
+      "lit": false,
+      "waterlogged": false
+    },
+    "17854": {
+      "facing": "up",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17855": {
+      "facing": "up",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17856": {
+      "facing": "up",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17857": {
+      "facing": "up",
+      "lit": false,
+      "waterlogged": false
+    },
+    "17858": {
+      "facing": "down",
+      "lit": true,
+      "waterlogged": true
+    },
+    "17859": {
+      "facing": "down",
+      "lit": true,
+      "waterlogged": false
+    },
+    "17860": {
+      "facing": "down",
+      "lit": false,
+      "waterlogged": true
+    },
+    "17861": {
+      "facing": "down",
+      "lit": false,
+      "waterlogged": false
+    }
+  }
+}
