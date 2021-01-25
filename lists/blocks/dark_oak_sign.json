@@ -1,5 +1,9 @@
 {
   "properties": {
+    "lit": [
+      true,
+      false
+    ],
     "rotation": [
       0,
       1,
@@ -24,131 +28,323 @@
     ]
   },
   "states": {
-    "3541": {
+    "3725": {
+      "lit": true,
       "rotation": 0,
       "waterlogged": true
     },
-    "3542": {
+    "3726": {
+      "lit": true,
       "rotation": 0,
       "waterlogged": false
     },
-    "3543": {
+    "3727": {
+      "lit": true,
       "rotation": 1,
       "waterlogged": true
     },
-    "3544": {
+    "3728": {
+      "lit": true,
       "rotation": 1,
       "waterlogged": false
     },
-    "3545": {
+    "3729": {
+      "lit": true,
       "rotation": 2,
       "waterlogged": true
     },
-    "3546": {
+    "3730": {
+      "lit": true,
       "rotation": 2,
       "waterlogged": false
     },
-    "3547": {
+    "3731": {
+      "lit": true,
       "rotation": 3,
       "waterlogged": true
     },
-    "3548": {
+    "3732": {
+      "lit": true,
       "rotation": 3,
       "waterlogged": false
     },
-    "3549": {
+    "3733": {
+      "lit": true,
       "rotation": 4,
       "waterlogged": true
     },
-    "3550": {
+    "3734": {
+      "lit": true,
       "rotation": 4,
       "waterlogged": false
     },
-    "3551": {
+    "3735": {
+      "lit": true,
       "rotation": 5,
       "waterlogged": true
     },
-    "3552": {
+    "3736": {
+      "lit": true,
       "rotation": 5,
       "waterlogged": false
     },
-    "3553": {
+    "3737": {
+      "lit": true,
       "rotation": 6,
       "waterlogged": true
     },
-    "3554": {
+    "3738": {
+      "lit": true,
       "rotation": 6,
       "waterlogged": false
     },
-    "3555": {
+    "3739": {
+      "lit": true,
       "rotation": 7,
       "waterlogged": true
     },
-    "3556": {
+    "3740": {
+      "lit": true,
       "rotation": 7,
       "waterlogged": false
     },
-    "3557": {
+    "3741": {
+      "lit": true,
       "rotation": 8,
       "waterlogged": true
     },
-    "3558": {
+    "3742": {
+      "lit": true,
       "rotation": 8,
       "waterlogged": false
     },
-    "3559": {
+    "3743": {
+      "lit": true,
       "rotation": 9,
       "waterlogged": true
     },
-    "3560": {
+    "3744": {
+      "lit": true,
       "rotation": 9,
       "waterlogged": false
     },
-    "3561": {
+    "3745": {
+      "lit": true,
       "rotation": 10,
       "waterlogged": true
     },
-    "3562": {
+    "3746": {
+      "lit": true,
       "rotation": 10,
       "waterlogged": false
     },
-    "3563": {
+    "3747": {
+      "lit": true,
       "rotation": 11,
       "waterlogged": true
     },
-    "3564": {
+    "3748": {
+      "lit": true,
       "rotation": 11,
       "waterlogged": false
     },
-    "3565": {
+    "3749": {
+      "lit": true,
       "rotation": 12,
       "waterlogged": true
     },
-    "3566": {
+    "3750": {
+      "lit": true,
       "rotation": 12,
       "waterlogged": false
     },
-    "3567": {
+    "3751": {
+      "lit": true,
       "rotation": 13,
       "waterlogged": true
     },
-    "3568": {
+    "3752": {
+      "lit": true,
       "rotation": 13,
       "waterlogged": false
     },
-    "3569": {
+    "3753": {
+      "lit": true,
       "rotation": 14,
       "waterlogged": true
     },
-    "3570": {
+    "3754": {
+      "lit": true,
       "rotation": 14,
       "waterlogged": false
     },
-    "3571": {
+    "3755": {
+      "lit": true,
       "rotation": 15,
       "waterlogged": true
     },
-    "3572": {
+    "3756": {
+      "lit": true,
+      "rotation": 15,
+      "waterlogged": false
+    },
+    "3757": {
+      "lit": false,
+      "rotation": 0,
+      "waterlogged": true
+    },
+    "3758": {
+      "lit": false,
+      "rotation": 0,
+      "waterlogged": false
+    },
+    "3759": {
+      "lit": false,
+      "rotation": 1,
+      "waterlogged": true
+    },
+    "3760": {
+      "lit": false,
+      "rotation": 1,
+      "waterlogged": false
+    },
+    "3761": {
+      "lit": false,
+      "rotation": 2,
+      "waterlogged": true
+    },
+    "3762": {
+      "lit": false,
+      "rotation": 2,
+      "waterlogged": false
+    },
+    "3763": {
+      "lit": false,
+      "rotation": 3,
+      "waterlogged": true
+    },
+    "3764": {
+      "lit": false,
+      "rotation": 3,
+      "waterlogged": false
+    },
+    "3765": {
+      "lit": false,
+      "rotation": 4,
+      "waterlogged": true
+    },
+    "3766": {
+      "lit": false,
+      "rotation": 4,
+      "waterlogged": false
+    },
+    "3767": {
+      "lit": false,
+      "rotation": 5,
+      "waterlogged": true
+    },
+    "3768": {
+      "lit": false,
+      "rotation": 5,
+      "waterlogged": false
+    },
+    "3769": {
+      "lit": false,
+      "rotation": 6,
+      "waterlogged": true
+    },
+    "3770": {
+      "lit": false,
+      "rotation": 6,
+      "waterlogged": false
+    },
+    "3771": {
+      "lit": false,
+      "rotation": 7,
+      "waterlogged": true
+    },
+    "3772": {
+      "lit": false,
+      "rotation": 7,
+      "waterlogged": false
+    },
+    "3773": {
+      "lit": false,
+      "rotation": 8,
+      "waterlogged": true
+    },
+    "3774": {
+      "lit": false,
+      "rotation": 8,
+      "waterlogged": false
+    },
+    "3775": {
+      "lit": false,
+      "rotation": 9,
+      "waterlogged": true
+    },
+    "3776": {
+      "lit": false,
+      "rotation": 9,
+      "waterlogged": false
+    },
+    "3777": {
+      "lit": false,
+      "rotation": 10,
+      "waterlogged": true
+    },
+    "3778": {
+      "lit": false,
+      "rotation": 10,
+      "waterlogged": false
+    },
+    "3779": {
+      "lit": false,
+      "rotation": 11,
+      "waterlogged": true
+    },
+    "3780": {
+      "lit": false,
+      "rotation": 11,
+      "waterlogged": false
+    },
+    "3781": {
+      "lit": false,
+      "rotation": 12,
+      "waterlogged": true
+    },
+    "3782": {
+      "lit": false,
+      "rotation": 12,
+      "waterlogged": false
+    },
+    "3783": {
+      "lit": false,
+      "rotation": 13,
+      "waterlogged": true
+    },
+    "3784": {
+      "lit": false,
+      "rotation": 13,
+      "waterlogged": false
+    },
+    "3785": {
+      "lit": false,
+      "rotation": 14,
+      "waterlogged": true
+    },
+    "3786": {
+      "lit": false,
+      "rotation": 14,
+      "waterlogged": false
+    },
+    "3787": {
+      "lit": false,
+      "rotation": 15,
+      "waterlogged": true
+    },
+    "3788": {
+      "lit": false,
       "rotation": 15,
       "waterlogged": false
     }

@@ -21,6 +21,7 @@ minecraft:hurt_by
 minecraft:hurt_by_entity
 minecraft:interactable_doors
 minecraft:interaction_target
+minecraft:is_tempted
 minecraft:job_site
 minecraft:last_slept
 minecraft:last_woken
@@ -48,9 +49,12 @@ minecraft:nearest_visible_wanted_item
 minecraft:nearest_visible_zombified
 minecraft:pacified
 minecraft:path
+minecraft:play_dead_ticks
 minecraft:potential_job_site
 minecraft:ride_target
 minecraft:secondary_job_site
+minecraft:temptation_cooldown_ticks
+minecraft:tempting_player
 minecraft:time_trying_to_reach_admire_item
 minecraft:universal_anger
 minecraft:visible_adult_hoglin_count

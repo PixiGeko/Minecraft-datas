@@ -6,42 +6,94 @@
       "west",
       "east"
     ],
+    "lit": [
+      true,
+      false
+    ],
     "waterlogged": [
       true,
       false
     ]
   },
   "states": {
-    "3751": {
+    "3993": {
       "facing": "north",
+      "lit": true,
       "waterlogged": true
     },
-    "3752": {
+    "3994": {
       "facing": "north",
+      "lit": true,
       "waterlogged": false
     },
-    "3753": {
+    "3995": {
+      "facing": "north",
+      "lit": false,
+      "waterlogged": true
+    },
+    "3996": {
+      "facing": "north",
+      "lit": false,
+      "waterlogged": false
+    },
+    "3997": {
       "facing": "south",
+      "lit": true,
       "waterlogged": true
     },
-    "3754": {
+    "3998": {
       "facing": "south",
+      "lit": true,
       "waterlogged": false
     },
-    "3755": {
-      "facing": "west",
+    "3999": {
+      "facing": "south",
+      "lit": false,
       "waterlogged": true
     },
-    "3756": {
-      "facing": "west",
+    "4000": {
+      "facing": "south",
+      "lit": false,
       "waterlogged": false
     },
-    "3757": {
-      "facing": "east",
+    "4001": {
+      "facing": "west",
+      "lit": true,
       "waterlogged": true
     },
-    "3758": {
+    "4002": {
+      "facing": "west",
+      "lit": true,
+      "waterlogged": false
+    },
+    "4003": {
+      "facing": "west",
+      "lit": false,
+      "waterlogged": true
+    },
+    "4004": {
+      "facing": "west",
+      "lit": false,
+      "waterlogged": false
+    },
+    "4005": {
       "facing": "east",
+      "lit": true,
+      "waterlogged": true
+    },
+    "4006": {
+      "facing": "east",
+      "lit": true,
+      "waterlogged": false
+    },
+    "4007": {
+      "facing": "east",
+      "lit": false,
+      "waterlogged": true
+    },
+    "4008": {
+      "facing": "east",
+      "lit": false,
       "waterlogged": false
     }
   }

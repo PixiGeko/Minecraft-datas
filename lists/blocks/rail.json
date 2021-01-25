@@ -11,38 +11,92 @@
       "south_west",
       "north_west",
       "north_east"
+    ],
+    "waterlogged": [
+      true,
+      false
     ]
   },
   "states": {
-    "3645": {
-      "shape": "north_south"
+    "3861": {
+      "shape": "north_south",
+      "waterlogged": true
     },
-    "3646": {
-      "shape": "east_west"
+    "3862": {
+      "shape": "north_south",
+      "waterlogged": false
     },
-    "3647": {
-      "shape": "ascending_east"
+    "3863": {
+      "shape": "east_west",
+      "waterlogged": true
     },
-    "3648": {
-      "shape": "ascending_west"
+    "3864": {
+      "shape": "east_west",
+      "waterlogged": false
     },
-    "3649": {
-      "shape": "ascending_north"
+    "3865": {
+      "shape": "ascending_east",
+      "waterlogged": true
     },
-    "3650": {
-      "shape": "ascending_south"
+    "3866": {
+      "shape": "ascending_east",
+      "waterlogged": false
     },
-    "3651": {
-      "shape": "south_east"
+    "3867": {
+      "shape": "ascending_west",
+      "waterlogged": true
     },
-    "3652": {
-      "shape": "south_west"
+    "3868": {
+      "shape": "ascending_west",
+      "waterlogged": false
     },
-    "3653": {
-      "shape": "north_west"
+    "3869": {
+      "shape": "ascending_north",
+      "waterlogged": true
     },
-    "3654": {
-      "shape": "north_east"
+    "3870": {
+      "shape": "ascending_north",
+      "waterlogged": false
+    },
+    "3871": {
+      "shape": "ascending_south",
+      "waterlogged": true
+    },
+    "3872": {
+      "shape": "ascending_south",
+      "waterlogged": false
+    },
+    "3873": {
+      "shape": "south_east",
+      "waterlogged": true
+    },
+    "3874": {
+      "shape": "south_east",
+      "waterlogged": false
+    },
+    "3875": {
+      "shape": "south_west",
+      "waterlogged": true
+    },
+    "3876": {
+      "shape": "south_west",
+      "waterlogged": false
+    },
+    "3877": {
+      "shape": "north_west",
+      "waterlogged": true
+    },
+    "3878": {
+      "shape": "north_west",
+      "waterlogged": false
+    },
+    "3879": {
+      "shape": "north_east",
+      "waterlogged": true
+    },
+    "3880": {
+      "shape": "north_east",
+      "waterlogged": false
     }
   }
 }
