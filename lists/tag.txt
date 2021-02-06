@@ -1,6 +1,5 @@
 minecraft:blocks/acacia_logs
 minecraft:blocks/anvil
-minecraft:blocks/azalea_log_replaceable
 minecraft:blocks/bamboo_plantable_on
 minecraft:blocks/banners
 minecraft:blocks/base_stone_nether
@@ -16,7 +15,6 @@ minecraft:blocks/candles
 minecraft:blocks/candle_cakes
 minecraft:blocks/carpets
 minecraft:blocks/cauldrons
-minecraft:blocks/cave_vines
 minecraft:blocks/climbable
 minecraft:blocks/corals
 minecraft:blocks/coral_blocks
@@ -47,7 +45,6 @@ minecraft:blocks/jungle_logs
 minecraft:blocks/leaves
 minecraft:blocks/logs
 minecraft:blocks/logs_that_burn
-minecraft:blocks/lush_plants_replaceable
 minecraft:blocks/mushroom_grow_block
 minecraft:blocks/non_flammable_wood
 minecraft:blocks/nylium
@@ -104,7 +101,7 @@ minecraft:entity_types/raiders
 minecraft:entity_types/skeletons
 minecraft:fluids/lava
 minecraft:fluids/water
-minecraft:game_events/ignore_vibrations_sneaking
+minecraft:game_events/ignore_vibrations_stepping_carefully
 minecraft:game_events/vibrations
 minecraft:items/acacia_logs
 minecraft:items/anvil
@@ -126,7 +123,6 @@ minecraft:items/doors
 minecraft:items/fences
 minecraft:items/fishes
 minecraft:items/flowers
-minecraft:items/fox_food
 minecraft:items/freeze_immune_wearables
 minecraft:items/gold_ores
 minecraft:items/ignored_by_piglin_babies
