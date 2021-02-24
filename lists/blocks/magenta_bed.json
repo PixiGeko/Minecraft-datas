@@ -16,82 +16,82 @@
     ]
   },
   "states": {
-    "1109": {
-      "facing": "north",
-      "occupied": true,
-      "part": "head"
-    },
-    "1110": {
-      "facing": "north",
-      "occupied": true,
-      "part": "foot"
-    },
-    "1111": {
-      "facing": "north",
-      "occupied": false,
-      "part": "head"
-    },
     "1112": {
       "facing": "north",
-      "occupied": false,
-      "part": "foot"
+      "occupied": true,
+      "part": "head"
     },
     "1113": {
-      "facing": "south",
-      "occupied": true,
-      "part": "head"
-    },
-    "1114": {
-      "facing": "south",
+      "facing": "north",
       "occupied": true,
       "part": "foot"
     },
-    "1115": {
-      "facing": "south",
+    "1114": {
+      "facing": "north",
       "occupied": false,
       "part": "head"
+    },
+    "1115": {
+      "facing": "north",
+      "occupied": false,
+      "part": "foot"
     },
     "1116": {
       "facing": "south",
-      "occupied": false,
-      "part": "foot"
+      "occupied": true,
+      "part": "head"
     },
     "1117": {
-      "facing": "west",
-      "occupied": true,
-      "part": "head"
-    },
-    "1118": {
-      "facing": "west",
+      "facing": "south",
       "occupied": true,
       "part": "foot"
     },
-    "1119": {
-      "facing": "west",
+    "1118": {
+      "facing": "south",
       "occupied": false,
       "part": "head"
+    },
+    "1119": {
+      "facing": "south",
+      "occupied": false,
+      "part": "foot"
     },
     "1120": {
       "facing": "west",
-      "occupied": false,
-      "part": "foot"
+      "occupied": true,
+      "part": "head"
     },
     "1121": {
+      "facing": "west",
+      "occupied": true,
+      "part": "foot"
+    },
+    "1122": {
+      "facing": "west",
+      "occupied": false,
+      "part": "head"
+    },
+    "1123": {
+      "facing": "west",
+      "occupied": false,
+      "part": "foot"
+    },
+    "1124": {
       "facing": "east",
       "occupied": true,
       "part": "head"
     },
-    "1122": {
+    "1125": {
       "facing": "east",
       "occupied": true,
       "part": "foot"
     },
-    "1123": {
+    "1126": {
       "facing": "east",
       "occupied": false,
       "part": "head"
     },
-    "1124": {
+    "1127": {
       "facing": "east",
       "occupied": false,
       "part": "foot"

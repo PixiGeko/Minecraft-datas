@@ -30,59 +30,11 @@
     ]
   },
   "states": {
-    "12937": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": true,
-      "west": "none"
-    },
-    "12938": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": true,
-      "west": "low"
-    },
-    "12939": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": true,
-      "west": "tall"
-    },
-    "12940": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": false,
-      "west": "none"
-    },
-    "12941": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": false,
-      "west": "low"
-    },
-    "12942": {
-      "east": "none",
-      "north": "none",
-      "south": "none",
-      "up": true,
-      "waterlogged": false,
-      "west": "tall"
-    },
     "12943": {
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -90,7 +42,7 @@
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -98,7 +50,7 @@
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -106,7 +58,7 @@
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -114,7 +66,7 @@
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -122,55 +74,55 @@
       "east": "none",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "12949": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "12950": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "12951": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "12952": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "12953": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "12954": {
       "east": "none",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -178,7 +130,7 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -186,7 +138,7 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -194,7 +146,7 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -202,7 +154,7 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -210,7 +162,7 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -218,55 +170,55 @@
       "east": "none",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "12961": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "12962": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "12963": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "12964": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "12965": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "12966": {
       "east": "none",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -274,7 +226,7 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -282,7 +234,7 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -290,7 +242,7 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -298,7 +250,7 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -306,7 +258,7 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -314,55 +266,55 @@
       "east": "none",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "12973": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "12974": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "12975": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "12976": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "12977": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "12978": {
       "east": "none",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -370,7 +322,7 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -378,7 +330,7 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -386,7 +338,7 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -394,7 +346,7 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -402,7 +354,7 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -410,55 +362,55 @@
       "east": "none",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "12985": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "12986": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "12987": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "12988": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "12989": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "12990": {
       "east": "none",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -466,7 +418,7 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -474,7 +426,7 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -482,7 +434,7 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -490,7 +442,7 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -498,7 +450,7 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -506,55 +458,55 @@
       "east": "none",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "12997": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "12998": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "12999": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13000": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13001": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13002": {
       "east": "none",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -562,7 +514,7 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -570,7 +522,7 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -578,7 +530,7 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -586,7 +538,7 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -594,7 +546,7 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -602,55 +554,55 @@
       "east": "none",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13009": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13010": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13011": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13012": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13013": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13014": {
       "east": "none",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -658,7 +610,7 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -666,7 +618,7 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -674,7 +626,7 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -682,7 +634,7 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -690,7 +642,7 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -698,55 +650,55 @@
       "east": "none",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13021": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13022": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13023": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13024": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13025": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13026": {
       "east": "none",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -754,7 +706,7 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -762,7 +714,7 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -770,7 +722,7 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -778,7 +730,7 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -786,7 +738,7 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -794,55 +746,55 @@
       "east": "none",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13033": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13034": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13035": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13036": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13037": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13038": {
       "east": "none",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -850,7 +802,7 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -858,7 +810,7 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -866,7 +818,7 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -874,7 +826,7 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -882,7 +834,7 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -890,55 +842,55 @@
       "east": "none",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13045": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13046": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13047": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13048": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13049": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13050": {
-      "east": "low",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "none",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -946,7 +898,7 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -954,7 +906,7 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -962,7 +914,7 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -970,7 +922,7 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -978,7 +930,7 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -986,55 +938,55 @@
       "east": "low",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13057": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13058": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13059": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13060": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13061": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13062": {
       "east": "low",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1042,7 +994,7 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1050,7 +1002,7 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1058,7 +1010,7 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1066,7 +1018,7 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1074,7 +1026,7 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1082,55 +1034,55 @@
       "east": "low",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13069": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13070": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13071": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13072": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13073": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13074": {
       "east": "low",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1138,7 +1090,7 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1146,7 +1098,7 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1154,7 +1106,7 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1162,7 +1114,7 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1170,7 +1122,7 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1178,55 +1130,55 @@
       "east": "low",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13081": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13082": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13083": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13084": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13085": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13086": {
       "east": "low",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1234,7 +1186,7 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1242,7 +1194,7 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1250,7 +1202,7 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1258,7 +1210,7 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1266,7 +1218,7 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1274,55 +1226,55 @@
       "east": "low",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13093": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13094": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13095": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13096": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13097": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13098": {
       "east": "low",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1330,7 +1282,7 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1338,7 +1290,7 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1346,7 +1298,7 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1354,7 +1306,7 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1362,7 +1314,7 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1370,55 +1322,55 @@
       "east": "low",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13105": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13106": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13107": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13108": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13109": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13110": {
       "east": "low",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1426,7 +1378,7 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1434,7 +1386,7 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1442,7 +1394,7 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1450,7 +1402,7 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1458,7 +1410,7 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1466,55 +1418,55 @@
       "east": "low",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13117": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13118": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13119": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13120": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13121": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13122": {
       "east": "low",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1522,7 +1474,7 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1530,7 +1482,7 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1538,7 +1490,7 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1546,7 +1498,7 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1554,7 +1506,7 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1562,55 +1514,55 @@
       "east": "low",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13129": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13130": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13131": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13132": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13133": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13134": {
       "east": "low",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1618,7 +1570,7 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1626,7 +1578,7 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1634,7 +1586,7 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1642,7 +1594,7 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1650,7 +1602,7 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1658,55 +1610,55 @@
       "east": "low",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13141": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13142": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13143": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13144": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13145": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13146": {
       "east": "low",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1714,7 +1666,7 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1722,7 +1674,7 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1730,7 +1682,7 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1738,7 +1690,7 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1746,7 +1698,7 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1754,55 +1706,55 @@
       "east": "low",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13153": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13154": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13155": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13156": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13157": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13158": {
-      "east": "tall",
-      "north": "none",
-      "south": "none",
-      "up": true,
+      "east": "low",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1810,7 +1762,7 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1818,7 +1770,7 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1826,7 +1778,7 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1834,7 +1786,7 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1842,7 +1794,7 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1850,55 +1802,55 @@
       "east": "tall",
       "north": "none",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13165": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13166": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13167": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13168": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13169": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13170": {
       "east": "tall",
       "north": "none",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -1906,7 +1858,7 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -1914,7 +1866,7 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -1922,7 +1874,7 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -1930,7 +1882,7 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -1938,7 +1890,7 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -1946,55 +1898,55 @@
       "east": "tall",
       "north": "none",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13177": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13178": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13179": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13180": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13181": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13182": {
       "east": "tall",
       "north": "none",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2002,7 +1954,7 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2010,7 +1962,7 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2018,7 +1970,7 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2026,7 +1978,7 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2034,7 +1986,7 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2042,55 +1994,55 @@
       "east": "tall",
       "north": "none",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13189": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13190": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13191": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13192": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13193": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13194": {
       "east": "tall",
-      "north": "low",
-      "south": "none",
-      "up": true,
+      "north": "none",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2098,7 +2050,7 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2106,7 +2058,7 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2114,7 +2066,7 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2122,7 +2074,7 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2130,7 +2082,7 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2138,55 +2090,55 @@
       "east": "tall",
       "north": "low",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13201": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13202": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13203": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13204": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13205": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13206": {
       "east": "tall",
       "north": "low",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2194,7 +2146,7 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2202,7 +2154,7 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2210,7 +2162,7 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2218,7 +2170,7 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2226,7 +2178,7 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2234,55 +2186,55 @@
       "east": "tall",
       "north": "low",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13213": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13214": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13215": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13216": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13217": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13218": {
       "east": "tall",
       "north": "low",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2290,7 +2242,7 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2298,7 +2250,7 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2306,7 +2258,7 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2314,7 +2266,7 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2322,7 +2274,7 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2330,55 +2282,55 @@
       "east": "tall",
       "north": "low",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13225": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13226": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13227": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13228": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13229": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13230": {
       "east": "tall",
-      "north": "tall",
-      "south": "none",
-      "up": true,
+      "north": "low",
+      "south": "tall",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2386,7 +2338,7 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2394,7 +2346,7 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2402,7 +2354,7 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2410,7 +2362,7 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2418,7 +2370,7 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2426,55 +2378,55 @@
       "east": "tall",
       "north": "tall",
       "south": "none",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13237": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13238": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13239": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13240": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13241": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13242": {
       "east": "tall",
       "north": "tall",
-      "south": "low",
-      "up": true,
+      "south": "none",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2482,7 +2434,7 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2490,7 +2442,7 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2498,7 +2450,7 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2506,7 +2458,7 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2514,7 +2466,7 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
@@ -2522,55 +2474,55 @@
       "east": "tall",
       "north": "tall",
       "south": "low",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "tall"
     },
     "13249": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "none"
     },
     "13250": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "low"
     },
     "13251": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": true,
       "west": "tall"
     },
     "13252": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "none"
     },
     "13253": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "low"
     },
     "13254": {
       "east": "tall",
       "north": "tall",
-      "south": "tall",
-      "up": true,
+      "south": "low",
+      "up": false,
       "waterlogged": false,
       "west": "tall"
     },
@@ -2578,7 +2530,7 @@
       "east": "tall",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "none"
     },
@@ -2586,7 +2538,7 @@
       "east": "tall",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "low"
     },
@@ -2594,7 +2546,7 @@
       "east": "tall",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": true,
       "west": "tall"
     },
@@ -2602,7 +2554,7 @@
       "east": "tall",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "none"
     },
@@ -2610,11 +2562,59 @@
       "east": "tall",
       "north": "tall",
       "south": "tall",
-      "up": false,
+      "up": true,
       "waterlogged": false,
       "west": "low"
     },
     "13260": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": true,
+      "waterlogged": false,
+      "west": "tall"
+    },
+    "13261": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
+      "waterlogged": true,
+      "west": "none"
+    },
+    "13262": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
+      "waterlogged": true,
+      "west": "low"
+    },
+    "13263": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
+      "waterlogged": true,
+      "west": "tall"
+    },
+    "13264": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
+      "waterlogged": false,
+      "west": "none"
+    },
+    "13265": {
+      "east": "tall",
+      "north": "tall",
+      "south": "tall",
+      "up": false,
+      "waterlogged": false,
+      "west": "low"
+    },
+    "13266": {
       "east": "tall",
       "north": "tall",
       "south": "tall",
