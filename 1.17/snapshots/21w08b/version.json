@@ -1,0 +1,94 @@
+{
+  "id": "21w08b",
+  "type": "snapshot",
+  "url": "https://launchermeta.mojang.com/v1/packages/e849f376647fd7160146d77002a3084efa8fb36f/21w08b.json",
+  "time": "2021-02-25T11:50:52+00:00",
+  "releaseTime": "2021-02-25T11:46:34+00:00",
+  "client": "https://launcher.mojang.com/v1/objects/c8ae0a1a8b18841e009b8dcdf21ec014f5787410/client.jar",
+  "client_mappings": "https://launcher.mojang.com/v1/objects/3cade11677a20fbd46c83edc8d90f7df465b3ff5/client.txt",
+  "server": "https://launcher.mojang.com/v1/objects/801d5e25869bab291077c773913cc2b490427314/server.jar",
+  "server_mappings": "https://launcher.mojang.com/v1/objects/03f0068276fbd063b7cbf63747d432880cd08396/server.txt",
+  "custom": {
+    "all_blocks": {
+      "type": "json"
+    },
+    "all_entities": {
+      "type": "json"
+    },
+    "all_items": {
+      "type": "json"
+    },
+    "blockstates_by_id": {
+      "type": "json"
+    },
+    "blockstates_list": {
+      "type": "txt"
+    }
+  },
+  "registries": [
+    "activity",
+    "advancement",
+    "attribute",
+    "biome",
+    "block",
+    "block_entity_type",
+    "chunk_status",
+    "command",
+    "custom_stat",
+    "enchantment",
+    "entity_type",
+    "fluid",
+    "game_event",
+    "item",
+    "loot_condition_type",
+    "loot_function_type",
+    "loot_nbt_provider_type",
+    "loot_number_provider_type",
+    "loot_pool_entry_type",
+    "loot_score_provider_type",
+    "loot_table",
+    "memory_module_type",
+    "menu",
+    "mob_effect",
+    "motive",
+    "parser_type",
+    "particle_type",
+    "point_of_interest_type",
+    "position_source_type",
+    "pos_rule_test",
+    "potion",
+    "recipe",
+    "recipe_serializer",
+    "recipe_type",
+    "rule_test",
+    "schedule",
+    "sensor_type",
+    "sound_event",
+    "stat_type",
+    "tag",
+    "villager_profession",
+    "villager_type",
+    "worldgen - biome_source",
+    "worldgen - block_placer_type",
+    "worldgen - block_state_provider_type",
+    "worldgen - carver",
+    "worldgen - chunk_generator",
+    "worldgen - decorator",
+    "worldgen - feature",
+    "worldgen - feature_size_type",
+    "worldgen - float_provider_type",
+    "worldgen - foliage_placer_type",
+    "worldgen - structure_feature",
+    "worldgen - structure_piece",
+    "worldgen - structure_pool_element",
+    "worldgen - structure_processor",
+    "worldgen - surface_builder",
+    "worldgen - tree_decorator_type",
+    "worldgen - trunk_placer_type"
+  ],
+  "reports": [
+    "blocks",
+    "commands",
+    "registries"
+  ]
+}
