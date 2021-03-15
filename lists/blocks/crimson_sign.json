@@ -1,9 +1,5 @@
 {
   "properties": {
-    "lit": [
-      true,
-      false
-    ],
     "rotation": [
       0,
       1,
@@ -28,323 +24,131 @@
     ]
   },
   "states": {
-    "16115": {
-      "lit": true,
+    "15877": {
       "rotation": 0,
       "waterlogged": true
     },
-    "16116": {
-      "lit": true,
+    "15878": {
       "rotation": 0,
       "waterlogged": false
     },
-    "16117": {
-      "lit": true,
+    "15879": {
       "rotation": 1,
       "waterlogged": true
     },
-    "16118": {
-      "lit": true,
+    "15880": {
       "rotation": 1,
       "waterlogged": false
     },
-    "16119": {
-      "lit": true,
+    "15881": {
       "rotation": 2,
       "waterlogged": true
     },
-    "16120": {
-      "lit": true,
+    "15882": {
       "rotation": 2,
       "waterlogged": false
     },
-    "16121": {
-      "lit": true,
+    "15883": {
       "rotation": 3,
       "waterlogged": true
     },
-    "16122": {
-      "lit": true,
+    "15884": {
       "rotation": 3,
       "waterlogged": false
     },
-    "16123": {
-      "lit": true,
+    "15885": {
       "rotation": 4,
       "waterlogged": true
     },
-    "16124": {
-      "lit": true,
+    "15886": {
       "rotation": 4,
       "waterlogged": false
     },
-    "16125": {
-      "lit": true,
+    "15887": {
       "rotation": 5,
       "waterlogged": true
     },
-    "16126": {
-      "lit": true,
+    "15888": {
       "rotation": 5,
       "waterlogged": false
     },
-    "16127": {
-      "lit": true,
+    "15889": {
       "rotation": 6,
       "waterlogged": true
     },
-    "16128": {
-      "lit": true,
+    "15890": {
       "rotation": 6,
       "waterlogged": false
     },
-    "16129": {
-      "lit": true,
+    "15891": {
       "rotation": 7,
       "waterlogged": true
     },
-    "16130": {
-      "lit": true,
+    "15892": {
       "rotation": 7,
       "waterlogged": false
     },
-    "16131": {
-      "lit": true,
+    "15893": {
       "rotation": 8,
       "waterlogged": true
     },
-    "16132": {
-      "lit": true,
+    "15894": {
       "rotation": 8,
       "waterlogged": false
     },
-    "16133": {
-      "lit": true,
+    "15895": {
       "rotation": 9,
       "waterlogged": true
     },
-    "16134": {
-      "lit": true,
+    "15896": {
       "rotation": 9,
       "waterlogged": false
     },
-    "16135": {
-      "lit": true,
+    "15897": {
       "rotation": 10,
       "waterlogged": true
     },
-    "16136": {
-      "lit": true,
+    "15898": {
       "rotation": 10,
       "waterlogged": false
     },
-    "16137": {
-      "lit": true,
+    "15899": {
       "rotation": 11,
       "waterlogged": true
     },
-    "16138": {
-      "lit": true,
+    "15900": {
       "rotation": 11,
       "waterlogged": false
     },
-    "16139": {
-      "lit": true,
+    "15901": {
       "rotation": 12,
       "waterlogged": true
     },
-    "16140": {
-      "lit": true,
+    "15902": {
       "rotation": 12,
       "waterlogged": false
     },
-    "16141": {
-      "lit": true,
+    "15903": {
       "rotation": 13,
       "waterlogged": true
     },
-    "16142": {
-      "lit": true,
+    "15904": {
       "rotation": 13,
       "waterlogged": false
     },
-    "16143": {
-      "lit": true,
+    "15905": {
       "rotation": 14,
       "waterlogged": true
     },
-    "16144": {
-      "lit": true,
+    "15906": {
       "rotation": 14,
       "waterlogged": false
     },
-    "16145": {
-      "lit": true,
+    "15907": {
       "rotation": 15,
       "waterlogged": true
     },
-    "16146": {
-      "lit": true,
-      "rotation": 15,
-      "waterlogged": false
-    },
-    "16147": {
-      "lit": false,
-      "rotation": 0,
-      "waterlogged": true
-    },
-    "16148": {
-      "lit": false,
-      "rotation": 0,
-      "waterlogged": false
-    },
-    "16149": {
-      "lit": false,
-      "rotation": 1,
-      "waterlogged": true
-    },
-    "16150": {
-      "lit": false,
-      "rotation": 1,
-      "waterlogged": false
-    },
-    "16151": {
-      "lit": false,
-      "rotation": 2,
-      "waterlogged": true
-    },
-    "16152": {
-      "lit": false,
-      "rotation": 2,
-      "waterlogged": false
-    },
-    "16153": {
-      "lit": false,
-      "rotation": 3,
-      "waterlogged": true
-    },
-    "16154": {
-      "lit": false,
-      "rotation": 3,
-      "waterlogged": false
-    },
-    "16155": {
-      "lit": false,
-      "rotation": 4,
-      "waterlogged": true
-    },
-    "16156": {
-      "lit": false,
-      "rotation": 4,
-      "waterlogged": false
-    },
-    "16157": {
-      "lit": false,
-      "rotation": 5,
-      "waterlogged": true
-    },
-    "16158": {
-      "lit": false,
-      "rotation": 5,
-      "waterlogged": false
-    },
-    "16159": {
-      "lit": false,
-      "rotation": 6,
-      "waterlogged": true
-    },
-    "16160": {
-      "lit": false,
-      "rotation": 6,
-      "waterlogged": false
-    },
-    "16161": {
-      "lit": false,
-      "rotation": 7,
-      "waterlogged": true
-    },
-    "16162": {
-      "lit": false,
-      "rotation": 7,
-      "waterlogged": false
-    },
-    "16163": {
-      "lit": false,
-      "rotation": 8,
-      "waterlogged": true
-    },
-    "16164": {
-      "lit": false,
-      "rotation": 8,
-      "waterlogged": false
-    },
-    "16165": {
-      "lit": false,
-      "rotation": 9,
-      "waterlogged": true
-    },
-    "16166": {
-      "lit": false,
-      "rotation": 9,
-      "waterlogged": false
-    },
-    "16167": {
-      "lit": false,
-      "rotation": 10,
-      "waterlogged": true
-    },
-    "16168": {
-      "lit": false,
-      "rotation": 10,
-      "waterlogged": false
-    },
-    "16169": {
-      "lit": false,
-      "rotation": 11,
-      "waterlogged": true
-    },
-    "16170": {
-      "lit": false,
-      "rotation": 11,
-      "waterlogged": false
-    },
-    "16171": {
-      "lit": false,
-      "rotation": 12,
-      "waterlogged": true
-    },
-    "16172": {
-      "lit": false,
-      "rotation": 12,
-      "waterlogged": false
-    },
-    "16173": {
-      "lit": false,
-      "rotation": 13,
-      "waterlogged": true
-    },
-    "16174": {
-      "lit": false,
-      "rotation": 13,
-      "waterlogged": false
-    },
-    "16175": {
-      "lit": false,
-      "rotation": 14,
-      "waterlogged": true
-    },
-    "16176": {
-      "lit": false,
-      "rotation": 14,
-      "waterlogged": false
-    },
-    "16177": {
-      "lit": false,
-      "rotation": 15,
-      "waterlogged": true
-    },
-    "16178": {
-      "lit": false,
+    "15908": {
       "rotation": 15,
       "waterlogged": false
     }
