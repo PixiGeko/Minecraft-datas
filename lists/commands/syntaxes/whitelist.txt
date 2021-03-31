@@ -1,6 +1,6 @@
-whitelist add <targets: game_profile>
-whitelist list
-whitelist off
 whitelist on
-whitelist reload
+whitelist off
+whitelist list
+whitelist add <targets: game_profile>
 whitelist remove <targets: game_profile>
+whitelist reload

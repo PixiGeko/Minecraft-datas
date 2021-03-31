@@ -28,6 +28,7 @@ minecraft:blocks/crystal_sound_blocks
 minecraft:blocks/dark_oak_logs
 minecraft:blocks/deepslate_ore_replaceables
 minecraft:blocks/diamond_ores
+minecraft:blocks/dirt
 minecraft:blocks/doors
 minecraft:blocks/dragon_immune
 minecraft:blocks/dripstone_replaceable_blocks
@@ -73,6 +74,7 @@ minecraft:blocks/shulker_boxes
 minecraft:blocks/signs
 minecraft:blocks/slabs
 minecraft:blocks/small_flowers
+minecraft:blocks/snow
 minecraft:blocks/soul_fire_base_blocks
 minecraft:blocks/soul_speed_blocks
 minecraft:blocks/spruce_logs
@@ -105,8 +107,10 @@ minecraft:blocks/wooden_trapdoors
 minecraft:blocks/wool
 minecraft:entity_types/arrows
 minecraft:entity_types/axolotl_always_hostiles
-minecraft:entity_types/axolotl_tempted_hostiles
+minecraft:entity_types/axolotl_hunt_targets
 minecraft:entity_types/beehive_inhabitors
+minecraft:entity_types/freeze_hurts_extra_types
+minecraft:entity_types/freeze_immune_entity_types
 minecraft:entity_types/impact_projectiles
 minecraft:entity_types/powder_snow_walkable_mobs
 minecraft:entity_types/raiders

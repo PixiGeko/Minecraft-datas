@@ -1,6 +1,6 @@
-attribute <target: entity> <attribute: resource_location> base get <scale: double>
-attribute <target: entity> <attribute: resource_location> base set <value: double>
 attribute <target: entity> <attribute: resource_location> get <scale: double>
+attribute <target: entity> <attribute: resource_location> base set <value: double>
+attribute <target: entity> <attribute: resource_location> base get <scale: double>
 attribute <target: entity> <attribute: resource_location> modifier add <uuid: uuid> <name: string> <value: double> add
 attribute <target: entity> <attribute: resource_location> modifier add <uuid: uuid> <name: string> <value: double> multiply
 attribute <target: entity> <attribute: resource_location> modifier add <uuid: uuid> <name: string> <value: double> multiply_base
