@@ -1,5 +1,5 @@
 {
-  "latest": "1.17-pre5",
+  "latest": "1.17-rc1",
   "paths": {
     "18w01a": "1.13/snapshots/18w01a",
     "18w02a": "1.13/snapshots/18w02a",
@@ -201,7 +201,8 @@
     "1.17-pre2": "1.17/pre-releases/1.17-pre2",
     "1.17-pre3": "1.17/pre-releases/1.17-pre3",
     "1.17-pre4": "1.17/pre-releases/1.17-pre4",
-    "1.17-pre5": "1.17/pre-releases/1.17-pre5"
+    "1.17-pre5": "1.17/pre-releases/1.17-pre5",
+    "1.17-rc1": "1.17/releases-candidate/1.17-rc1"
   },
   "versions": {
     "1.13": {
@@ -444,7 +445,9 @@
         "1.17-pre4",
         "1.17-pre5"
       ],
-      "releases-candidate": [],
+      "releases-candidate": [
+        "1.17-rc1"
+      ],
       "releases": []
     }
   }
