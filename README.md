@@ -17,7 +17,7 @@
 <br/>
 
 Author: PixiGeko </br>
-Original idea by Awhikax, from [DataWorld Discord server](https://discord.gg/3gXea6q).
+Original idea by [Awhikax](https://www.planetminecraft.com/member/awhikax/), from [DataWorld Discord server](https://discord.gg/3gXea6q).
 
 Master branch contains all versions since 18w01a, but you can find the latest version separately in the [latest branch](https://github.com/PixiGeko/Minecraft-generated-data/tree/latest).
 
@@ -123,7 +123,7 @@ This will generate the "basic" data files (= files in *generated* folders).</br>
 	<td>Yes</td>
 </tr></tbody></table>
 
-<i>Example: `java -cp server.jar net.minecraft.data.Main --all` will generate all the datas</i>
+<i>Example: `java -cp server.jar net.minecraft.data.Main --all` will generate all the data</i>
 
 <i>Source: https://wiki.vg/Data_Generators</i>
 </details>
