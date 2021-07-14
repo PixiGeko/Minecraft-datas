@@ -1,20 +1,16 @@
 {
   "category": "ocean",
-  "depth": -1.8,
   "downfall": 0.5,
   "fog_color": 12638463,
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.1,
   "sky_color": 8103167,
   "temperature": 0.5,
   "water_color": 4159204,
   "water_fog_color": 329011,
   "carvers": [
     "minecraft:canyon",
-    "minecraft:cave",
-    "minecraft:underwater_canyon",
-    "minecraft:underwater_cave"
+    "minecraft:cave"
   ],
   "entities": {
     "monster": [
@@ -32,7 +28,6 @@
       "minecraft:bat"
     ],
     "underground_water_creature": [
-      "minecraft:axolotl",
       "minecraft:glow_squid"
     ],
     "water_creature": [

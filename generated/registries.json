@@ -12271,8 +12271,20 @@
       "minecraft:basalt_deltas": {
         "protocol_id": 13
       },
-      "minecraft:nope": {
+      "minecraft:grove": {
         "protocol_id": 14
+      },
+      "minecraft:snowcapped_peaks": {
+        "protocol_id": 15
+      },
+      "minecraft:nope": {
+        "protocol_id": 16
+      },
+      "minecraft:snowy_slopes": {
+        "protocol_id": 17
+      },
+      "minecraft:lofty_peaks": {
+        "protocol_id": 18
       }
     }
   },
@@ -12799,11 +12811,14 @@
       "minecraft:forest_flower_provider": {
         "protocol_id": 3
       },
-      "minecraft:rotated_block_provider": {
+      "minecraft:meadow_flower_provider": {
         "protocol_id": 4
       },
-      "minecraft:randomized_int_state_provider": {
+      "minecraft:rotated_block_provider": {
         "protocol_id": 5
+      },
+      "minecraft:randomized_int_state_provider": {
+        "protocol_id": 6
       }
     }
   },
@@ -12925,11 +12940,8 @@
       "minecraft:checkerboard": {
         "protocol_id": 2
       },
-      "minecraft:vanilla_layered": {
-        "protocol_id": 3
-      },
       "minecraft:the_end": {
-        "protocol_id": 4
+        "protocol_id": 3
       }
     }
   },
