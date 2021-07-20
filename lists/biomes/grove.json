@@ -13,6 +13,16 @@
     "minecraft:cave"
   ],
   "entities": {
+    "monster": [
+      "minecraft:creeper",
+      "minecraft:enderman",
+      "minecraft:skeleton",
+      "minecraft:slime",
+      "minecraft:spider",
+      "minecraft:witch",
+      "minecraft:zombie",
+      "minecraft:zombie_villager"
+    ],
     "creature": [
       "minecraft:chicken",
       "minecraft:cow",
@@ -21,6 +31,12 @@
       "minecraft:rabbit",
       "minecraft:sheep",
       "minecraft:wolf"
+    ],
+    "ambient": [
+      "minecraft:bat"
+    ],
+    "underground_water_creature": [
+      "minecraft:glow_squid"
     ]
   },
   "structures": [
